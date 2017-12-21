@@ -12,6 +12,7 @@
     <modules>
         <module>statemachine</module>
         <module>skiplist</module>
+        <module>redis</module>
     </modules>
     <parent>
         <groupId>org.springframework.boot</groupId>

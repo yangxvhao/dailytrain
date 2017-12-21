@@ -4,10 +4,12 @@ import com.yangxvhao.demo.statemachine.UnsupportedStateTransition;
 import lombok.extern.slf4j.Slf4j;
 
 /**
- * Created by yangxvhao on 17-8-30.
+ *
+ * @author yangxvhao
+ * @date 17-8-30
  */
 @Slf4j
-public class main {
+public class Main {
     public static void main(String[] args) {
         VideoStateEntity firstVideo = new VideoStateEntity(1,1);
         VideoStateEntity secondVideo = new VideoStateEntity(2,1);

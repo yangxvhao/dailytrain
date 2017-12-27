@@ -97,7 +97,7 @@ public class SkipList<V> {
             }
         } else {
             int level = RandamLevel();
-            System.out.println(level);
+//            System.out.println(level);
             /**
              * 如果随机生成的level大于现在的level,需要增加head,替换path的第一个节点
              */

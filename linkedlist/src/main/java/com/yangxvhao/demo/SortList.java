@@ -12,7 +12,7 @@ import lombok.Data;
 public class SortList<V extends Comparable<V>> {
 
     @Data
-    private class Node{
+    public class Node{
         private V data;
         private Node next;
 
@@ -39,6 +39,22 @@ public class SortList<V extends Comparable<V>> {
         newNode.next = cur;
     }
 
+    public SortList.Node find(V data) throws Exception {
+
+        if(firstNode == null){
+            throw new Exception("the list is empty");
+        }
+
+        SortList.Node temp = firstNode;
+        while (temp.next != null){
+            if(temp.data.equals(data)){
+                return temp;
+            }
+            temp = temp.next;
+        }
+
+        return null;
+    }
     public Node delete(V data){
         Node cur = firstNode, pre = null;
         if(cur.data.equals(data)){

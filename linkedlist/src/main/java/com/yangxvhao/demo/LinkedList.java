@@ -12,7 +12,7 @@ import lombok.Data;
 public class LinkedList<V> {
 
     @Data
-    private class Node{
+    public class Node{
 
         private V data;
         private Node next;

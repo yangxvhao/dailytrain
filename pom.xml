@@ -14,6 +14,7 @@
         <module>skiplist</module>
         <module>redis</module>
         <module>linkedlist</module>
+        <module>design-patterns</module>
     </modules>
     <parent>
         <groupId>org.springframework.boot</groupId>

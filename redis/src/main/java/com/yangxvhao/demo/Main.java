@@ -10,8 +10,12 @@ import redis.clients.jedis.Jedis;
 public class Main {
     public static void main(String[] args) {
 //        JedisCluster jedisCluster = new JedisCluster("127.0.0.1","password","");
-        Jedis jedis = new Jedis("127.0.0.1");
-        jedis.set("111","222");
+//        JedisPoolConfig poolConfig = new JedisPoolConfig();
+//        JedisPool pool = new JedisPool("127.0.0.1",6379);
+        Jedis jedis = new Jedis("127.0.0.1",6379);
+        jedis.auth("123456");
+//        System.out.println(jedis.ping());
+        System.out.println(jedis.get("number1"));
     }
 
 }

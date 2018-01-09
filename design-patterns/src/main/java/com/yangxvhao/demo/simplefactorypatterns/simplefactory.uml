@@ -3,47 +3,38 @@
   <ID>JAVA</ID>
   <OriginalElement />
   <nodes>
-    <node x="109.98333333333333" y="170.0">com.yangxvhao.demo.simplefactorypatterns.SimpleFactory</node>
-    <node x="141.5" y="0.0">com.yangxvhao.demo.simplefactorypatterns.Chart</node>
-    <node x="0.0" y="85.0">com.yangxvhao.demo.simplefactorypatterns.LineChart</node>
-    <node x="131.0" y="85.0">com.yangxvhao.demo.simplefactorypatterns.PieChart</node>
+    <node x="0.0" y="250.0">com.yangxvhao.demo.simplefactorypatterns.SimpleFactory</node>
+    <node x="0.0" y="358.0">com.yangxvhao.demo.simplefactorypatterns.Client</node>
+    <node x="91.5" y="0.0">com.yangxvhao.demo.simplefactorypatterns.Chart</node>
+    <node x="0.0" y="113.0">com.yangxvhao.demo.simplefactorypatterns.LineChart</node>
+    <node x="183.0" y="113.0">com.yangxvhao.demo.simplefactorypatterns.PieChart</node>
   </nodes>
   <notes />
   <edges>
     <edge source="com.yangxvhao.demo.simplefactorypatterns.LineChart" target="com.yangxvhao.demo.simplefactorypatterns.Chart">
-      <point x="0.0" y="-17.5" />
-      <point x="55.5" y="60.0" />
-      <point x="155.33333333333334" y="60.0" />
-      <point x="-27.666666666666657" y="17.5" />
+      <point x="0.0" y="-46.0" />
+      <point x="81.5" y="88.0" />
+      <point x="132.25" y="88.0" />
+      <point x="-40.75" y="31.5" />
     </edge>
     <edge source="com.yangxvhao.demo.simplefactorypatterns.PieChart" target="com.yangxvhao.demo.simplefactorypatterns.Chart">
-      <point x="0.0" y="-17.5" />
-      <point x="0.0" y="17.5" />
-    </edge>
-    <edge source="com.yangxvhao.demo.simplefactorypatterns.SimpleFactory" target="com.yangxvhao.demo.simplefactorypatterns.PieChart">
-      <point x="0.0" y="-17.5" />
-      <point x="179.48333333333335" y="145.0" />
-      <point x="183.0" y="145.0" />
-      <point x="0.0" y="17.5" />
-    </edge>
-    <edge source="com.yangxvhao.demo.simplefactorypatterns.SimpleFactory" target="com.yangxvhao.demo.simplefactorypatterns.Chart">
-      <point x="46.33333333333334" y="-17.5" />
-      <point x="225.81666666666666" y="145.0" />
-      <point x="245.5" y="145.0" />
-      <point x="245.5" y="60.0" />
-      <point x="210.66666666666669" y="60.0" />
-      <point x="27.666666666666686" y="17.5" />
-    </edge>
-    <edge source="com.yangxvhao.demo.simplefactorypatterns.SimpleFactory" target="com.yangxvhao.demo.simplefactorypatterns.LineChart">
-      <point x="-46.33333333333334" y="-17.5" />
-      <point x="133.14999999999998" y="145.0" />
-      <point x="55.5" y="145.0" />
-      <point x="0.0" y="17.5" />
+      <point x="0.0" y="-46.0" />
+      <point x="264.5" y="88.0" />
+      <point x="213.75" y="88.0" />
+      <point x="40.75" y="31.5" />
     </edge>
   </edges>
-  <settings layout="Hierarchic Group" zoom="1.3000000000000003" x="173.83333333333326" y="201.3333333333333" />
-  <SelectedNodes />
-  <Categories />
+  <settings layout="Hierarchic Group" zoom="1.0" x="117.5" y="140.0" />
+  <SelectedNodes>
+    <node>com.yangxvhao.demo.simplefactorypatterns.Client</node>
+  </SelectedNodes>
+  <Categories>
+    <Category>Constructors</Category>
+    <Category>Fields</Category>
+    <Category>Methods</Category>
+    <Category>Properties</Category>
+    <Category>Inner Classes</Category>
+  </Categories>
   <SCOPE>All</SCOPE>
   <VISIBILITY>private</VISIBILITY>
 </Diagram>

@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b21d65c7-bf66-46e6-ba0a-e74f476f166d" name="Default" comment="" />
+    <list default="true" id="b21d65c7-bf66-46e6-ba0a-e74f476f166d" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/../stateMachine/target/" />
@@ -32,7 +34,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="LoadBalance.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="LoadBalance.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/design-patterns/src/main/java/com/yangxvhao/demo/singletonpatterns/iodhsingletonpatterns/LoadBalance.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="126">
@@ -40,6 +42,62 @@
               <folding>
                 <element signature="e#663#664#0" expanded="true" />
                 <element signature="e#709#710#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Customer.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/design-patterns/src/main/java/com/yangxvhao/demo/prototypepatterns/Customer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="95">
+              <caret line="38" column="0" lean-forward="false" selection-start-line="38" selection-start-column="0" selection-end-line="38" selection-end-column="0" />
+              <folding>
+                <element signature="e#224#225#0" expanded="true" />
+                <element signature="e#251#252#0" expanded="true" />
+                <element signature="e#291#292#0" expanded="true" />
+                <element signature="e#323#324#0" expanded="true" />
+                <element signature="e#354#355#0" expanded="true" />
+                <element signature="e#380#381#0" expanded="true" />
+                <element signature="e#419#420#0" expanded="true" />
+                <element signature="e#449#450#0" expanded="true" />
+                <element signature="e#484#485#0" expanded="true" />
+                <element signature="e#514#515#0" expanded="true" />
+                <element signature="e#561#562#0" expanded="true" />
+                <element signature="e#599#600#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Client.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/design-patterns/src/main/java/com/yangxvhao/demo/prototypepatterns/Client.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Address.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/design-patterns/src/main/java/com/yangxvhao/demo/prototypepatterns/Address.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="144">
+              <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+              <folding>
+                <element signature="e#257#258#0" expanded="true" />
+                <element signature="e#287#288#0" expanded="true" />
+                <element signature="e#333#334#0" expanded="true" />
+                <element signature="e#371#372#0" expanded="true" />
+                <element signature="e#402#403#0" expanded="true" />
+                <element signature="e#429#430#0" expanded="true" />
+                <element signature="e#469#470#0" expanded="true" />
+                <element signature="e#501#502#0" expanded="true" />
+                <element signature="e#534#535#0" expanded="true" />
+                <element signature="e#563#564#0" expanded="true" />
+                <element signature="e#607#608#0" expanded="true" />
+                <element signature="e#643#644#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -79,9 +137,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/design-patterns/src/main/java/com/yangxvhao/demo/factorymethodpatterns/abstractfactory/GifAbstractFactory.java" />
-        <option value="$PROJECT_DIR$/design-patterns/src/main/java/com/yangxvhao/demo/factorymethodpatterns/abstractfactory/JpgAbstractFac.java" />
-        <option value="$PROJECT_DIR$/design-patterns/src/main/java/com/yangxvhao/demo/factorymethodpatterns/abstractfactory/AbstractFactoryMethod.java" />
         <option value="$PROJECT_DIR$/design-patterns/src/main/java/com/yangxvhao/demo/factorymethodpatterns/Client.java" />
         <option value="$PROJECT_DIR$/design-patterns/src/main/java/com/yangxvhao/demo/abstractfactorypatterns/AbstractFactory.java" />
         <option value="$PROJECT_DIR$/design-patterns/src/main/java/com/yangxvhao/demo/abstractfactorypatterns/AbstractController.java" />
@@ -130,6 +185,9 @@
         <option value="$PROJECT_DIR$/design-patterns/src/main/java/com/yangxvhao/demo/singletonpatterns/lazysingletonpatterns/Client.java" />
         <option value="$PROJECT_DIR$/design-patterns/src/main/java/com/yangxvhao/demo/singletonpatterns/iodhsingletonpatterns/Client.java" />
         <option value="$PROJECT_DIR$/design-patterns/src/main/java/com/yangxvhao/demo/singletonpatterns/iodhsingletonpatterns/LoadBalance.java" />
+        <option value="$PROJECT_DIR$/design-patterns/src/main/java/com/yangxvhao/demo/prototypepatterns/Address.java" />
+        <option value="$PROJECT_DIR$/design-patterns/src/main/java/com/yangxvhao/demo/prototypepatterns/Customer.java" />
+        <option value="$PROJECT_DIR$/design-patterns/src/main/java/com/yangxvhao/demo/prototypepatterns/Client.java" />
       </list>
     </option>
   </component>
@@ -262,40 +320,7 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="demo" type="462c0819:PsiDirectoryNode" />
-              <item name="singletonpatterns" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="dailytrain" type="b2602c69:ProjectViewProjectNode" />
-              <item name="dailytrain" type="462c0819:PsiDirectoryNode" />
-              <item name="design-patterns" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="demo" type="462c0819:PsiDirectoryNode" />
-              <item name="singletonpatterns" type="462c0819:PsiDirectoryNode" />
-              <item name="eagersingletonpatterns" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="dailytrain" type="b2602c69:ProjectViewProjectNode" />
-              <item name="dailytrain" type="462c0819:PsiDirectoryNode" />
-              <item name="design-patterns" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="demo" type="462c0819:PsiDirectoryNode" />
-              <item name="singletonpatterns" type="462c0819:PsiDirectoryNode" />
-              <item name="iodhsingletonpatterns" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="dailytrain" type="b2602c69:ProjectViewProjectNode" />
-              <item name="dailytrain" type="462c0819:PsiDirectoryNode" />
-              <item name="design-patterns" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="demo" type="462c0819:PsiDirectoryNode" />
-              <item name="singletonpatterns" type="462c0819:PsiDirectoryNode" />
-              <item name="lazysingletonpatterns" type="462c0819:PsiDirectoryNode" />
+              <item name="prototypepatterns" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -304,7 +329,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -337,7 +362,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Client (3)">
+  <component name="RunManager" selected="Application.Client (4)">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="WIDTH" value="400" />
       <option name="HEIGHT" value="300" />
@@ -390,6 +415,25 @@
         </pattern>
       </extension>
       <option name="MAIN_CLASS_NAME" value="com.yangxvhao.demo.singletonpatterns.iodhsingletonpatterns.Client" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="design-patterns" />
+      <envs />
+    </configuration>
+    <configuration name="Client (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.yangxvhao.demo.prototypepatterns.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="com.yangxvhao.demo.prototypepatterns.Client" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -456,25 +500,6 @@
       <option name="ENV_VARIABLES" />
       <option name="PASS_PARENT_ENVS" value="true" />
       <module name="design-patterns" />
-      <envs />
-    </configuration>
-    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="com.yangxvhao.demo.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="com.yangxvhao.demo.Main" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="skiplist" />
       <envs />
     </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -585,18 +610,18 @@
     <list size="7">
       <item index="0" class="java.lang.String" itemvalue="Spring Boot.DemoApplication" />
       <item index="1" class="java.lang.String" itemvalue="Spring Boot.DemoApplication (1)" />
-      <item index="2" class="java.lang.String" itemvalue="Application.Main (2)" />
-      <item index="3" class="java.lang.String" itemvalue="Application.Client" />
-      <item index="4" class="java.lang.String" itemvalue="Application.Client (1)" />
-      <item index="5" class="java.lang.String" itemvalue="Application.Client (2)" />
-      <item index="6" class="java.lang.String" itemvalue="Application.Client (3)" />
+      <item index="2" class="java.lang.String" itemvalue="Application.Client" />
+      <item index="3" class="java.lang.String" itemvalue="Application.Client (1)" />
+      <item index="4" class="java.lang.String" itemvalue="Application.Client (2)" />
+      <item index="5" class="java.lang.String" itemvalue="Application.Client (3)" />
+      <item index="6" class="java.lang.String" itemvalue="Application.Client (4)" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.Client (3)" />
-        <item index="1" class="java.lang.String" itemvalue="Application.Client (2)" />
+        <item index="0" class="java.lang.String" itemvalue="Application.Client (4)" />
+        <item index="1" class="java.lang.String" itemvalue="Application.Client (3)" />
         <item index="2" class="java.lang.String" itemvalue="Application.Client (2)" />
-        <item index="3" class="java.lang.String" itemvalue="Application.Client (1)" />
+        <item index="3" class="java.lang.String" itemvalue="Application.Client (2)" />
         <item index="4" class="java.lang.String" itemvalue="Application.Client (1)" />
       </list>
     </recent_temporary>
@@ -622,7 +647,7 @@
       <workItem from="1514167340940" duration="43135000" />
       <workItem from="1514368537749" duration="739000" />
       <workItem from="1515032295900" duration="5858000" />
-      <workItem from="1515394618775" duration="26271000" />
+      <workItem from="1515394618775" duration="30671000" />
     </task>
     <servers />
   </component>
@@ -638,7 +663,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="91787000" />
+    <option name="totallyTimeSpent" value="96187000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1920" y="344" width="1366" height="736" extended-state="6" />
@@ -661,7 +686,7 @@
       <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3296582" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4672269" sideWeight="0.49786097" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.4672269" sideWeight="0.49786097" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4605042" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.29103345" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -745,39 +770,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/skiplist/src/test/java/com/yangxvhao/demo/SkipListTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="15" column="9" lean-forward="false" selection-start-line="15" selection-start-column="9" selection-end-line="15" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-core/4.3.10.RELEASE/spring-core-4.3.10.RELEASE.jar!/org/springframework/util/StopWatch.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="864">
-          <caret line="59" column="32" lean-forward="false" selection-start-line="59" selection-start-column="17" selection-end-line="59" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/skiplist/src/main/java/com/yangxvhao/demo/SkipList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1710">
-          <caret line="100" column="15" lean-forward="false" selection-start-line="100" selection-start-column="15" selection-end-line="100" selection-end-column="15" />
-          <folding>
-            <element signature="imports" expanded="false" />
-            <element signature="e#345#346#0" expanded="false" />
-            <element signature="e#368#369#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/skiplist/src/main/java/com/yangxvhao/demo/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="13" lean-forward="false" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/linkedlist/src/main/java/com/yangxvhao/demo/LinkedList.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="828">
@@ -1233,6 +1225,64 @@
           <folding>
             <element signature="e#663#664#0" expanded="true" />
             <element signature="e#709#710#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/design-patterns/src/main/java/com/yangxvhao/demo/prototypepatterns/Address.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+          <folding>
+            <element signature="e#257#258#0" expanded="true" />
+            <element signature="e#287#288#0" expanded="true" />
+            <element signature="e#333#334#0" expanded="true" />
+            <element signature="e#371#372#0" expanded="true" />
+            <element signature="e#402#403#0" expanded="true" />
+            <element signature="e#429#430#0" expanded="true" />
+            <element signature="e#469#470#0" expanded="true" />
+            <element signature="e#501#502#0" expanded="true" />
+            <element signature="e#534#535#0" expanded="true" />
+            <element signature="e#563#564#0" expanded="true" />
+            <element signature="e#607#608#0" expanded="true" />
+            <element signature="e#643#644#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///usr/local/soft/jdk1.8.0_111/src.zip!/java/lang/Object.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="188">
+          <caret line="211" column="28" lean-forward="false" selection-start-line="211" selection-start-column="28" selection-end-line="211" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/design-patterns/src/main/java/com/yangxvhao/demo/prototypepatterns/Client.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/design-patterns/src/main/java/com/yangxvhao/demo/prototypepatterns/Customer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="38" column="0" lean-forward="false" selection-start-line="38" selection-start-column="0" selection-end-line="38" selection-end-column="0" />
+          <folding>
+            <element signature="e#224#225#0" expanded="true" />
+            <element signature="e#251#252#0" expanded="true" />
+            <element signature="e#291#292#0" expanded="true" />
+            <element signature="e#323#324#0" expanded="true" />
+            <element signature="e#354#355#0" expanded="true" />
+            <element signature="e#380#381#0" expanded="true" />
+            <element signature="e#419#420#0" expanded="true" />
+            <element signature="e#449#450#0" expanded="true" />
+            <element signature="e#484#485#0" expanded="true" />
+            <element signature="e#514#515#0" expanded="true" />
+            <element signature="e#561#562#0" expanded="true" />
+            <element signature="e#599#600#0" expanded="true" />
           </folding>
         </state>
       </provider>

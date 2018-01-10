@@ -1,4 +1,4 @@
-package com.yangxvhao.demo.factorymethodpatterns;
+package com.yangxvhao.demo.factorymethodpatterns.product;
 
 /**
  * 抽象产品类

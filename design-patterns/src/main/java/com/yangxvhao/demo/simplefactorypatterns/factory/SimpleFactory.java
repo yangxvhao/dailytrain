@@ -1,4 +1,8 @@
-package com.yangxvhao.demo.simplefactorypatterns;
+package com.yangxvhao.demo.simplefactorypatterns.factory;
+
+import com.yangxvhao.demo.simplefactorypatterns.product.Chart;
+import com.yangxvhao.demo.simplefactorypatterns.product.impl.LineChart;
+import com.yangxvhao.demo.simplefactorypatterns.product.impl.PieChart;
 
 /**
  * 简单工厂方法

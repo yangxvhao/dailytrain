@@ -1,6 +1,6 @@
-package com.yangxvhao.demo.factorymethodpatterns.abstractfactory;
+package com.yangxvhao.demo.factorymethodpatterns.factory;
 
-import com.yangxvhao.demo.factorymethodpatterns.PictureReader;
+import com.yangxvhao.demo.factorymethodpatterns.product.PictureReader;
 
 /**
  * 抽象工厂方法,

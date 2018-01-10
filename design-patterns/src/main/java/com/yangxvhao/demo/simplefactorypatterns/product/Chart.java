@@ -1,4 +1,4 @@
-package com.yangxvhao.demo.simplefactorypatterns;
+package com.yangxvhao.demo.simplefactorypatterns.product;
 
 /**
  * 抽象产品类

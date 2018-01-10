@@ -1,4 +1,6 @@
-package com.yangxvhao.demo.factorymethodpatterns;
+package com.yangxvhao.demo.factorymethodpatterns.product.impl;
+
+import com.yangxvhao.demo.factorymethodpatterns.product.PictureReader;
 
 /**
  * 具体产品类

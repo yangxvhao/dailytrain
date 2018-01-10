@@ -1,4 +1,6 @@
-package com.yangxvhao.demo.simplefactorypatterns;
+package com.yangxvhao.demo.simplefactorypatterns.product.impl;
+
+import com.yangxvhao.demo.simplefactorypatterns.product.Chart;
 
 /**
  * 具体产品类

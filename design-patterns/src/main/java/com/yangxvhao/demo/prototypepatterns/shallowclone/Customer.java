@@ -1,11 +1,13 @@
-package com.yangxvhao.demo.prototypepatterns;
+package com.yangxvhao.demo.prototypepatterns.shallowclone;
 
 /**
+ * 浅克隆
+ * 引用类型Address在复制的时候复制的是地址,还是同一个对象
  * @author yangxvhao
  * @date 18-1-10.
  */
 
-public class Customer {
+public class Customer implements Cloneable{
     public String name;
     public Integer age;
     public Address address;

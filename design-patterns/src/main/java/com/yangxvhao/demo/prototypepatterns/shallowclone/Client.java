@@ -1,4 +1,4 @@
-package com.yangxvhao.demo.prototypepatterns;
+package com.yangxvhao.demo.prototypepatterns.shallowclone;
 
 /**
  * @author yangxvhao

@@ -1,6 +1,5 @@
 package com.yangxvhao.demo.prototypepatterns.deepclone;
 
-import com.yangxvhao.demo.prototypepatterns.shallowclone.Address;
 
 import java.io.IOException;
 

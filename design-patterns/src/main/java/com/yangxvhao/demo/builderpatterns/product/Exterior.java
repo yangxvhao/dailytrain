@@ -1,6 +1,8 @@
-package com.yangxvhao.demo.builderpatterns;
+package com.yangxvhao.demo.builderpatterns.product;
 
 /**
+ * 复杂产品
+ * 包含多个组成部件
  * @author yangxvhao
  * @date 18-1-17.
  */
@@ -41,5 +43,15 @@ public class Exterior {
 
     public void setControlBar(String controlBar) {
         this.controlBar = controlBar;
+    }
+
+    @Override
+    public String toString() {
+        return "Exterior{" +
+                "menu='" + menu + '\'' +
+                ", playList='" + playList + '\'' +
+                ", mainWindow='" + mainWindow + '\'' +
+                ", controlBar='" + controlBar + '\'' +
+                '}';
     }
 }

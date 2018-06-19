@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configuration>
+
+    <appender name="console" class="ch.qos.logback.core.ConsoleAppender">
+        <filter class="ch.qos.logback.classic.filter.ThresholdFilter">
+            <level>debug</level>
+        </filter>
+        <layout class="ch.qos.logback.classic.PatternLayout">
+            <pattern>%X{uuid} %date %level [%thread] %logger{10} [%file:%line] %msg%n</pattern>
+        </layout>
+    </appender>
+
+    <appender name="file" class="ch.qos.logback.core.rolling.RollingFileAppender">
+        <file>./logs/alpha.log</file>
+        <rollingPolicy class="ch.qos.logback.core.rolling.TimeBasedRollingPolicy">
+            <!-- daily rollover -->
+            <fileNamePattern>./logs/alpha.log.%d{yyyy-MM-dd}.log</fileNamePattern>
+
+            <!-- keep 30 days' worth of history -->
+            <maxHistory>1</maxHistory>
+        </rollingPolicy>
+
+        <encoder>
+            <pattern>%X{uuid} %date %level [%thread] %logger{10} [%file:%line] %msg%n</pattern>
+        </encoder>
+    </appender>
+
+    <!--<appender name="logstash-business" class="ch.qos.logback.core.rolling.RollingFileAppender">-->
+        <!--<filter class="ch.qos.logback.classic.filter.ThresholdFilter">-->
+            <!--<level>info</level>-->
+        <!--</filter>-->
+        <!--<file>logs/logstash-business.log_json</file>-->
+        <!--<rollingPolicy class="ch.qos.logback.core.rolling.TimeBasedRollingPolicy">-->
+            <!--<fileNamePattern>logs/logstash-business.log_json.%d{yyyy-MM-dd}</fileNamePattern>-->
+            <!--<maxHistory>1</maxHistory>-->
+        <!--</rollingPolicy>-->
+        <!--<encoder class="net.logstash.logback.encoder.LogstashEncoder">-->
+            <!--<customFields>{"project": "crawler", "type": "query-service"}</customFields>-->
+            <!--<includeCallerData>true</includeCallerData>-->
+            <!--<version>1</version>-->
+            <!--&lt;!&ndash;<jsonGeneratorDecorator class="com.alpha.tools.monitor.customizing.PrettyPrintingDecorator"/>&ndash;&gt;-->
+            <!--&lt;!&ndash;<jsonFactoryDecorator class="com.alpha.tools.monitor.customizing.JSONDecorator"/>&ndash;&gt;-->
+        <!--</encoder>-->
+    <!--</appender>-->
+
+    <logger name="com.example" additivity="false">
+        <level value="DEBUG" />
+        <appender-ref ref="console" />
+        <appender-ref ref="file" />
+        <!--<appender-ref ref="logstash-business" />-->
+    </logger>
+
+    <root level="DEBUG">
+        <appender-ref ref="console" />
+        <appender-ref ref="file" />
+        <!--<appender-ref ref="logstash-business" />-->
+    </root>
+</configuration>

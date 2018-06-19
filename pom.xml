@@ -20,6 +20,7 @@
         <module>stream</module>
         <module>tree</module>
         <module>rxjava</module>
+        <module>spring-web</module>
     </modules>
     <parent>
         <groupId>org.springframework.boot</groupId>

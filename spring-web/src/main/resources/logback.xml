@@ -3,7 +3,7 @@
 
     <appender name="console" class="ch.qos.logback.core.ConsoleAppender">
         <filter class="ch.qos.logback.classic.filter.ThresholdFilter">
-            <level>debug</level>
+            <level>info</level>
         </filter>
         <layout class="ch.qos.logback.classic.PatternLayout">
             <pattern>%X{uuid} %date %level [%thread] %logger{10} [%file:%line] %msg%n</pattern>
@@ -44,13 +44,13 @@
     <!--</appender>-->
 
     <logger name="com.example" additivity="false">
-        <level value="DEBUG" />
+        <level value="INFO" />
         <appender-ref ref="console" />
         <appender-ref ref="file" />
         <!--<appender-ref ref="logstash-business" />-->
     </logger>
 
-    <root level="DEBUG">
+    <root level="INFO">
         <appender-ref ref="console" />
         <appender-ref ref="file" />
         <!--<appender-ref ref="logstash-business" />-->

@@ -1,16 +1,17 @@
 package com.example.demo;
 
 import com.example.demo.dto.User;
+import com.example.demo.valid.First;
+import com.example.demo.valid.Group;
+import com.example.demo.valid.Second;
 import lombok.Getter;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.EnableAutoConfiguration;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.boot.autoconfigure.jdbc.DataSourceAutoConfiguration;
-import org.springframework.web.bind.annotation.GetMapping;
-import org.springframework.web.bind.annotation.PostMapping;
-import org.springframework.web.bind.annotation.RequestBody;
-import org.springframework.web.bind.annotation.RestController;
+import org.springframework.validation.annotation.Validated;
+import org.springframework.web.bind.annotation.*;
 
 import javax.validation.Valid;
 
@@ -25,7 +26,15 @@ public class DemoApplication {
     }
     
     @PostMapping("user")
-    public String getUser(@RequestBody @Valid User user){
+    @ResponseBody
+    public String getUser(@RequestBody @Validated(Group.class) User user){
+        log.info(user.toString());
+        return user.toString();
+    }
+
+    @PostMapping("user/job")
+    @ResponseBody
+    public String getUserAndJob(@RequestBody @Validated(Second.class) User user){
         log.info(user.toString());
         return user.toString();
     }

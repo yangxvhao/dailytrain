@@ -1,17 +1,10 @@
 package com.example.demo.config;
 
 import com.example.demo.annotation.ArgumentResolver;
-import org.springframework.beans.factory.ListableBeanFactory;
-import org.springframework.beans.factory.ObjectProvider;
-import org.springframework.boot.autoconfigure.web.HttpMessageConverters;
-import org.springframework.boot.autoconfigure.web.ResourceProperties;
-import org.springframework.boot.autoconfigure.web.WebMvcAutoConfiguration;
-import org.springframework.boot.autoconfigure.web.WebMvcProperties;
 import org.springframework.context.annotation.Configuration;
 import org.springframework.web.method.support.HandlerMethodArgumentResolver;
 import org.springframework.web.servlet.config.annotation.WebMvcConfigurerAdapter;
 
-import java.util.ArrayList;
 import java.util.List;
 
 /**
@@ -20,7 +13,7 @@ import java.util.List;
  * @author yangxvhao
  * @date 18-6-27.
  */
-@Configuration
+//@Configuration
 public class WebConfig extends WebMvcConfigurerAdapter {
     @Override
     public void addArgumentResolvers(List<HandlerMethodArgumentResolver> argumentResolvers) {

@@ -2,6 +2,7 @@ package com.example.demo.annotation;
 
 import com.alibaba.fastjson.JSON;
 import com.alibaba.fastjson.JSONObject;
+import com.example.demo.util.HttpUtils;
 import jodd.io.FileUtil;
 import lombok.extern.slf4j.Slf4j;
 import org.apache.commons.io.IOUtils;
@@ -35,30 +36,8 @@ public class ArgumentResolver implements HandlerMethodArgumentResolver {
 
     @Override
     public Object resolveArgument(MethodParameter methodParameter, ModelAndViewContainer modelAndViewContainer, NativeWebRequest nativeWebRequest, WebDataBinderFactory webDataBinderFactory) throws Exception {
-        HttpServletRequest request = nativeWebRequest.getNativeRequest(HttpServletRequest.class);
-        /**
-         * 只有Content-type是application/x-www-form-urlencoded时
-         * request.getParameterMap()才有值
-         * application/json要从request.getInputStream()获取
-         */
-        if (request.getMethod().equalsIgnoreCase(HttpMethod.POST.name())){
-            if(request.getContentType().equalsIgnoreCase(ContentType.APPLICATION_FORM_URLENCODED.getMimeType())){
-                JSONObject jsonObject = new JSONObject();
-                request.getParameterMap().forEach((s, strings) -> {
-                    log.info(s,strings);
-                    jsonObject.put(s, strings);
-                });
-                return JSON.parseObject(jsonObject.toJSONString(), methodParameter.getParameterType());
-            }
-            if(request.getContentType().equalsIgnoreCase(ContentType.APPLICATION_JSON.getMimeType())){
-                        
-                String body = IOUtils.toString(request.getInputStream(), request.getCharacterEncoding());
-                return JSON.parseObject(body, methodParameter.getParameterType());
-            }
-        }else if(request.getMethod().equalsIgnoreCase(HttpMethod.GET.name())){
-            return request.getQueryString();
-        }
         
-        return modelAndViewContainer.getDefaultModel().get(methodParameter.getParameterName());
+        return HttpUtils.getModelFromRequest(nativeWebRequest.getNativeRequest(HttpServletRequest.class), methodParameter.getParameterType());
     }
+    
 }

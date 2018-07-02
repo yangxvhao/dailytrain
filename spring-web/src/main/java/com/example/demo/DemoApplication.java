@@ -1,46 +1,65 @@
 package com.example.demo;
 
-import com.example.demo.dto.User;
-import com.example.demo.valid.First;
-import com.example.demo.valid.Group;
-import com.example.demo.valid.Second;
-import lombok.Getter;
+import com.example.demo.util.Receive;
 import lombok.extern.slf4j.Slf4j;
+import org.springframework.amqp.core.Binding;
+import org.springframework.amqp.core.BindingBuilder;
+import org.springframework.amqp.core.Queue;
+import org.springframework.amqp.core.TopicExchange;
+import org.springframework.amqp.rabbit.connection.CachingConnectionFactory;
+import org.springframework.amqp.rabbit.core.RabbitAdmin;
+import org.springframework.amqp.rabbit.listener.SimpleMessageListenerContainer;
+import org.springframework.amqp.rabbit.listener.adapter.MessageListenerAdapter;
 import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.boot.CommandLineRunner;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.EnableAutoConfiguration;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.boot.autoconfigure.jdbc.DataSourceAutoConfiguration;
 import org.springframework.context.ApplicationContext;
-import org.springframework.context.ConfigurableApplicationContext;
 import org.springframework.data.redis.core.RedisTemplate;
-import org.springframework.ui.Model;
 import org.springframework.util.StopWatch;
-import org.springframework.validation.annotation.Validated;
-import org.springframework.web.bind.annotation.*;
-
-import javax.validation.Valid;
+import org.springframework.web.bind.annotation.RestController;
 
 @SpringBootApplication()
 @EnableAutoConfiguration(exclude={DataSourceAutoConfiguration.class})
 @RestController("/")
 @Slf4j
-public class DemoApplication {
+public class DemoApplication implements CommandLineRunner {
     
     @Autowired
     RedisTemplate redisTemplate; 
+    
+    @Autowired
+    ApplicationContext context;
+    
+    
 
     public static void main(String[] args) {
-        StopWatch stopWatch = new StopWatch();
-        stopWatch.start();
-        
-        ApplicationContext context = SpringApplication.run(DemoApplication.class, args);
+        SpringApplication.run(DemoApplication.class, args);
+    }
+
+    @Override
+    public void run(String... strings) throws Exception {
+
         for (String bean : context.getBeanDefinitionNames()) {
             log.info(bean);
         }
-        stopWatch.stop();
+
+        RabbitAdmin rabbitAdmin = context.getBean(RabbitAdmin.class);
+        CachingConnectionFactory connectionFactory = context.getBean(CachingConnectionFactory.class);
         
-        log.info("application start cost time:{}ms, bean count:{}", stopWatch.getTotalTimeSeconds(), context.getBeanDefinitionCount());
+        TopicExchange exchange = new TopicExchange("quote");
+        rabbitAdmin.declareExchange(exchange);
+        Queue queue = new Queue("panda_insurance_china_quote");
+        rabbitAdmin.declareQueue(queue);
+        rabbitAdmin.declareBinding(BindingBuilder.bind(queue).to(exchange).with("100000.*.*.*.*.*.*.*.1.#"));
+
+        SimpleMessageListenerContainer listenerContainer = new SimpleMessageListenerContainer();
+        listenerContainer.setConnectionFactory(connectionFactory);
+        listenerContainer.setRabbitAdmin(rabbitAdmin);
+        listenerContainer.setQueues(queue);
+        listenerContainer.setMessageListener(new MessageListenerAdapter(new Receive(), "receive"));
+        listenerContainer.start();
     }
-    
 }

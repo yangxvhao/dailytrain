@@ -52,6 +52,11 @@ public class HttpUtils {
         return result;
     }
 
+    /**
+     * get方法获取参数
+     * @param data
+     * @return
+     */
     public static String getRequestBody(String data) {
         JSONObject jsonObject = new JSONObject();
         return Optional.ofNullable(data).map(s -> {

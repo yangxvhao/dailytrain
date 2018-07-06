@@ -1,8 +1,9 @@
 package com.example.demo;
 
-import com.example.demo.util.Receive;
+import com.example.demo.processor.Receive;
+import com.example.demo.processor.ReceiveA;
+import com.example.demo.processor.ReceiveB;
 import lombok.extern.slf4j.Slf4j;
-import org.springframework.amqp.core.Binding;
 import org.springframework.amqp.core.BindingBuilder;
 import org.springframework.amqp.core.Queue;
 import org.springframework.amqp.core.TopicExchange;
@@ -18,11 +19,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.boot.autoconfigure.jdbc.DataSourceAutoConfiguration;
 import org.springframework.context.ApplicationContext;
 import org.springframework.data.redis.core.RedisTemplate;
-import org.springframework.util.StopWatch;
 import org.springframework.web.bind.annotation.RestController;
-
-import java.util.concurrent.ExecutorService;
-import java.util.concurrent.Executors;
 
 @SpringBootApplication()
 @EnableAutoConfiguration(exclude={DataSourceAutoConfiguration.class})
@@ -54,20 +51,32 @@ public class DemoApplication implements CommandLineRunner {
         
         TopicExchange exchange = new TopicExchange("we-chat");
         rabbitAdmin.declareExchange(exchange);
-        Queue queue = new Queue("chat");
+        Queue queue = new Queue("chat1");
         rabbitAdmin.declareQueue(queue);
-        rabbitAdmin.declareBinding(BindingBuilder.bind(queue).to(exchange).with("100000.*.*.*.*.*.*.*.1.#"));
+        rabbitAdmin.declareBinding(BindingBuilder.bind(queue).to(exchange).with("1.#"));
 
+        Queue queue1 = new Queue("chat2");
+        rabbitAdmin.declareQueue(queue1);
+        rabbitAdmin.declareBinding(BindingBuilder.bind(queue1).to(exchange).with("1.#"));
+        
         SimpleMessageListenerContainer listenerContainer = new SimpleMessageListenerContainer();
+        SimpleMessageListenerContainer listenerContainer1 = new SimpleMessageListenerContainer();
         listenerContainer.setConnectionFactory(connectionFactory);
+        listenerContainer1.setConnectionFactory(connectionFactory);
         listenerContainer.setRabbitAdmin(rabbitAdmin);
         listenerContainer.setQueues(queue);
-        listenerContainer.setConcurrentConsumers(200);
-        ExecutorService executorService = Executors.newFixedThreadPool(2);
+        listenerContainer1.setQueues(queue1);
+        //设置并发的消费者数量
+        listenerContainer.setConcurrentConsumers(50);
+        //使用自定义的线程池
+//        ExecutorService executorService = Executors.newFixedThreadPool(2);
 //        listenerContainer.setTaskExecutor(executorService);
-        listenerContainer.setPrefetchCount(1);
+        //分给一个消费者要处理的消息数量，
+        listenerContainer.setPrefetchCount(8);
         
-        listenerContainer.setMessageListener(new MessageListenerAdapter(new Receive(), "receive"));
+        listenerContainer.setMessageListener(new MessageListenerAdapter(new ReceiveA(), "receive"));
+        listenerContainer1.setMessageListener(new MessageListenerAdapter(new ReceiveB(), "receive"));
         listenerContainer.start();
+        listenerContainer1.start();
     }
 }

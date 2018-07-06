@@ -21,7 +21,7 @@ public class ControllerB {
     @PostMapping("/send")
     public String sendAndReceive(@RequestBody String message){
         Message message1 = new Message(message.getBytes(), new MessageProperties());
-        String result = String.valueOf(rabbitTemplate.convertSendAndReceive("we-chat", "100000.0.0.0.0.0.0.0.1.", message));
+        String result = String.valueOf(rabbitTemplate.convertSendAndReceive("we-chat", "1.0000", message));
 //        Message result = rabbitTemplate.sendAndReceive("we-chat", "100000.0.0.0.0.0.0.0.1.", message1);
         return new String(result);
     }

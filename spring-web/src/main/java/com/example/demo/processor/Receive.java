@@ -1,4 +1,4 @@
-package com.example.demo.util;
+package com.example.demo.processor;
 
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.amqp.core.Message;
@@ -13,11 +13,11 @@ import static jodd.util.ThreadUtil.sleep;
  */
 @Slf4j
 @Component
-public class Receive {
+public abstract class Receive {
     public Object receive(Object message){
-        String messages = String.valueOf(message);
-        log.info("receive:{}", messages);
-        sleep(6 * 1000);
-        return "hello " + messages;
+        log.info("receive:{}", message);
+        return process(message);
     }
+    
+    public abstract Object process(Object message);
 }

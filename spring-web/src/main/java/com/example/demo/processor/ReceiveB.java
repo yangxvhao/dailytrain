@@ -13,7 +13,7 @@ public class ReceiveB extends Receive {
     @Override
     public Object process(Object message) {
         log.info("---BBB---");
-        sleep(5 * 1000);
+        sleep(3 * 1000);
         return "hello " + message + "I am B;";
     }
 }

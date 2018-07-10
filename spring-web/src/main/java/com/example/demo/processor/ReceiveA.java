@@ -14,6 +14,6 @@ public class ReceiveA extends Receive{
     public Object process(Object message) {
         log.info("---AAA---");
         sleep(3 * 1000);
-        return "hello" + message + "I am A;";
+        return "hello " + message + "I am A;";
     }
 }

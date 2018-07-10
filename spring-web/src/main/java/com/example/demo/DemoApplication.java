@@ -7,6 +7,7 @@ import lombok.extern.slf4j.Slf4j;
 import org.springframework.amqp.core.BindingBuilder;
 import org.springframework.amqp.core.Queue;
 import org.springframework.amqp.core.TopicExchange;
+import org.springframework.amqp.rabbit.AsyncRabbitTemplate;
 import org.springframework.amqp.rabbit.connection.CachingConnectionFactory;
 import org.springframework.amqp.rabbit.core.RabbitAdmin;
 import org.springframework.amqp.rabbit.listener.SimpleMessageListenerContainer;
@@ -18,6 +19,7 @@ import org.springframework.boot.autoconfigure.EnableAutoConfiguration;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.boot.autoconfigure.jdbc.DataSourceAutoConfiguration;
 import org.springframework.context.ApplicationContext;
+import org.springframework.context.annotation.Bean;
 import org.springframework.data.redis.core.RedisTemplate;
 import org.springframework.web.bind.annotation.RestController;
 
@@ -39,6 +41,7 @@ public class DemoApplication implements CommandLineRunner {
         SpringApplication.run(DemoApplication.class, args);
     }
 
+    
     @Override
     public void run(String... strings) throws Exception {
 
@@ -61,6 +64,7 @@ public class DemoApplication implements CommandLineRunner {
         
         SimpleMessageListenerContainer listenerContainer = new SimpleMessageListenerContainer();
         SimpleMessageListenerContainer listenerContainer1 = new SimpleMessageListenerContainer();
+        
         listenerContainer.setConnectionFactory(connectionFactory);
         listenerContainer1.setConnectionFactory(connectionFactory);
         listenerContainer.setRabbitAdmin(rabbitAdmin);
@@ -76,6 +80,7 @@ public class DemoApplication implements CommandLineRunner {
         
         listenerContainer.setMessageListener(new MessageListenerAdapter(new ReceiveA(), "receive"));
         listenerContainer1.setMessageListener(new MessageListenerAdapter(new ReceiveB(), "receive"));
+        
         listenerContainer.start();
         listenerContainer1.start();
     }

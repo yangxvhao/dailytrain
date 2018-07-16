@@ -21,6 +21,7 @@
         <module>tree</module>
         <module>rxjava</module>
         <module>spring-web</module>
+        <module>leetcode</module>
     </modules>
     <parent>
         <groupId>org.springframework.boot</groupId>

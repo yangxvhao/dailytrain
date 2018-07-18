@@ -49,7 +49,7 @@ public class GlobalController {
     public ModelAndView error(Exception e){
         e.printStackTrace();
         HashMap map = new HashMap(){{
-            put("error", e.getMessage());
+            put("error", e.getLocalizedMessage());
         }};
         return new ModelAndView(new MappingJackson2JsonView(), map);
     }

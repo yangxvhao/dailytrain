@@ -5,10 +5,11 @@ import com.example.demo.dto.User;
 import com.example.demo.valid.Group;
 import com.example.demo.valid.Second;
 import lombok.extern.slf4j.Slf4j;
-import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
 import org.springframework.validation.annotation.Validated;
 import org.springframework.web.bind.annotation.*;
+
+import javax.validation.Valid;
 
 /**
  * @RestController相当于@Response和＠Controller
@@ -21,22 +22,20 @@ import org.springframework.web.bind.annotation.*;
 @Slf4j
 public class ControllerA {
     
-    @GetMapping("get/{id}")
-    public String getParam(@ParamA String id){
-        return "id:" + id;
+    @GetMapping("get")
+    public String getParam(@ParamA User user){
+        return user.toString();
     }
     
     @PostMapping("user")
-    @ResponseBody
-    public String getUser(@ParamA User user, Model model){
+    public String getUser( @ParamA User user, Model model){
         log.info(user.toString());
         log.info("model:{}", model);
         return user.toString();
     }
 
     @PostMapping("user/job")
-    @ResponseBody
-    public String getUserAndJob(@ModelAttribute User user, Model model){
+    public String getUserAndJob(@Validated(Second.class) User user, Model model){
         log.info(user.toString());
         log.info("model:{}", model);
         return user.toString();

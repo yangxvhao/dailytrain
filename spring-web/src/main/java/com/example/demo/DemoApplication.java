@@ -1,25 +1,13 @@
 package com.example.demo;
 
-import com.example.demo.dto.User;
-import com.example.demo.valid.First;
-import com.example.demo.valid.Group;
-import com.example.demo.valid.Second;
-import lombok.Getter;
 import lombok.extern.slf4j.Slf4j;
-import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.EnableAutoConfiguration;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.boot.autoconfigure.jdbc.DataSourceAutoConfiguration;
 import org.springframework.context.ApplicationContext;
-import org.springframework.context.ConfigurableApplicationContext;
-import org.springframework.data.redis.core.RedisTemplate;
-import org.springframework.ui.Model;
 import org.springframework.util.StopWatch;
-import org.springframework.validation.annotation.Validated;
-import org.springframework.web.bind.annotation.*;
-
-import javax.validation.Valid;
+import org.springframework.web.bind.annotation.RestController;
 
 @SpringBootApplication()
 @EnableAutoConfiguration(exclude={DataSourceAutoConfiguration.class})
@@ -27,8 +15,8 @@ import javax.validation.Valid;
 @Slf4j
 public class DemoApplication {
     
-    @Autowired
-    RedisTemplate redisTemplate; 
+//    @Autowired
+//    RedisTemplate redisTemplate; 
 
     public static void main(String[] args) {
         StopWatch stopWatch = new StopWatch();

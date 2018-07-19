@@ -6,14 +6,13 @@ package com.yangxvhao.demo;
  */
 public class Topic1 {
     public static void main(String[] args) {
-        int[] result = twoSum(new int[]{1, 2, 7, 8, 10}, 9);
+        int[] result = twoSum(new int[]{3,2,4}, 6);
         System.out.println();
     }
 
     public static int[] twoSum(int[] nums, int target) {
-        int sum = 0;
         for (int i = 0; i < nums.length; i++) {
-            for (int i1 = nums.length - 1; i1 >= 0; i1--) {
+            for (int i1 = nums.length - 1; i1 > 0; i1--) {
                 if (nums[i] + nums[i1] == target)
                     return new int[]{i, i1};
             }

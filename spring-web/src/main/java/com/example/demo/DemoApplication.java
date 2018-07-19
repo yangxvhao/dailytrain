@@ -1,6 +1,6 @@
 package com.example.demo;
 
-import com.example.demo.processor.Receive;
+import lombok.extern.slf4j.Slf4j;
 import com.example.demo.processor.ReceiveA;
 import com.example.demo.processor.ReceiveB;
 import lombok.extern.slf4j.Slf4j;
@@ -19,8 +19,6 @@ import org.springframework.boot.autoconfigure.EnableAutoConfiguration;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.boot.autoconfigure.jdbc.DataSourceAutoConfiguration;
 import org.springframework.context.ApplicationContext;
-import org.springframework.context.annotation.Bean;
-import org.springframework.data.redis.core.RedisTemplate;
 import org.springframework.web.bind.annotation.RestController;
 
 @SpringBootApplication()
@@ -29,8 +27,8 @@ import org.springframework.web.bind.annotation.RestController;
 @Slf4j
 public class DemoApplication implements CommandLineRunner {
     
-    @Autowired
-    RedisTemplate redisTemplate; 
+//    @Autowired
+//    RedisTemplate redisTemplate; 
     
     @Autowired
     ApplicationContext context;

@@ -4,7 +4,8 @@ public class Topic2 {
     public static void main(String[] args) {
         ListNode l1 = new ListNode(2);
         l1.next = new ListNode(4);
-        l1.next.next = new ListNode(3);
+        l1.next.next = new ListNode(4);
+//        l1.next.next.next = new ListNode(5);
 
         ListNode l2 = new ListNode(5);
         l2.next = new ListNode(6);
@@ -16,22 +17,35 @@ public class Topic2 {
 
     public static ListNode addTwoNumbers(ListNode l1, ListNode l2) {
         ListNode sum = new ListNode(0);
-        while (l1.next != null || l2.next != null) {
-            if (l1 == null && l2!= null){
+        ListNode result = sum;
+        while (l1 != null || l2 != null) {
+
+            if (l1 == null && l2 != null) {
                 l1 = new ListNode(0);
             }
-            if(l1 != null&&l2 == null){
+            if (l1 != null && l2 == null) {
                 l2 = new ListNode(0);
             }
-            int sumTemp = l1.val + l2.val;
-            if (sumTemp > 10) {
+            int sumTemp = l1.val + l2.val + sum.val;
+            if (sumTemp >= 10) {
                 sumTemp = sumTemp - 10;
-                sum.next.val += 1;
-                sum.val = sumTemp;
+                if (sum.next == null) {
+                    sum.next = new ListNode(1);
+                } else {
+                    sum.next.val += 1;
+                }
             }
             sum.val = sumTemp;
+            l1 = l1.next;
+            l2 = l2.next;
+            if (sum.next == null && (l1 != null || l2 != null)) {
+                sum.next = new ListNode(0);
+                sum = sum.next;
+            } else {
+                sum = sum.next;
+            }
         }
-        return sum;
+        return result;
     }
 
     public static class ListNode {

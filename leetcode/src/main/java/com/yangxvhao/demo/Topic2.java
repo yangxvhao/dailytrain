@@ -6,7 +6,8 @@ package com.yangxvhao.demo;
  *
  * 你可以假设除了数字 0 之外，这两个数字都不会以零开头。
  * 
- * 
+ * @author yangxvhao
+ * @date 2018-07-18 下午6:06.
  */
 public class Topic2 {
     public static void main(String[] args) {

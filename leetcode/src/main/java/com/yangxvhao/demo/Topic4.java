@@ -18,6 +18,9 @@ public class Topic4 {
     public static double findMedianSortedArrays(int[] nums1, int[] nums2) {
         double average = 0;
         int n1 = nums1.length, n2 = nums2.length;
+        for (int i : nums1) {
+            
+        }
         
         return average;
     }

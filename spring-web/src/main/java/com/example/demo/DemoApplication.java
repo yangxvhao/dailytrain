@@ -21,8 +21,8 @@ import org.springframework.boot.autoconfigure.jdbc.DataSourceAutoConfiguration;
 import org.springframework.context.ApplicationContext;
 import org.springframework.web.bind.annotation.RestController;
 
-@SpringBootApplication()
-@EnableAutoConfiguration(exclude={DataSourceAutoConfiguration.class})
+//@SpringBootApplication()
+//@EnableAutoConfiguration(exclude={DataSourceAutoConfiguration.class})
 @RestController("/")
 @Slf4j
 public class DemoApplication implements CommandLineRunner {

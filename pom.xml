@@ -15,11 +15,9 @@
         <module>redis</module>
         <module>linkedlist</module>
         <module>design-patterns</module>
-        <module>stream</module>
-        <module>stream</module>
-        <module>stream</module>
         <module>tree</module>
         <module>rxjava</module>
+        <module>stream</module>
         <module>spring-web</module>
         <module>leetcode</module>
     </modules>
@@ -80,7 +78,11 @@
             <artifactId>commons-io</artifactId>
             <version>1.3.2</version>
         </dependency>
-
+        <dependency>
+            <groupId>com.alibaba</groupId>
+            <artifactId>fastjson</artifactId>
+            <version>1.2.46</version>
+        </dependency>
     </dependencies>
 
     <build>

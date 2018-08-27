@@ -4,7 +4,6 @@ import com.example.demo.valid.First;
 import com.example.demo.valid.Second;
 import lombok.Data;
 import lombok.ToString;
-import okhttp3.*;
 import org.apache.commons.io.IOUtils;
 import org.hibernate.validator.constraints.NotEmpty;
 

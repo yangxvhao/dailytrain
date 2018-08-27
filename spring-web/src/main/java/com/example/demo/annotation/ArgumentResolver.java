@@ -1,7 +1,5 @@
 package com.example.demo.annotation;
 
-import com.alibaba.fastjson.JSON;
-import com.alibaba.fastjson.JSONObject;
 import com.example.demo.util.HttpUtils;
 import jodd.io.FileUtil;
 import lombok.extern.slf4j.Slf4j;

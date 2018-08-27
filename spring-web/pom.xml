@@ -6,6 +6,13 @@
     <groupId>com.example.demo</groupId>
     <artifactId>spring-web</artifactId>
     <version>0.0.1-SNAPSHOT</version>
+    <dependencies>
+        <dependency>
+            <groupId>com.squareup.okhttp3</groupId>
+            <artifactId>okhttp</artifactId>
+            <version>3.9.1</version>
+        </dependency>
+    </dependencies>
     <packaging>jar</packaging>
 
     <name>spring-web</name>

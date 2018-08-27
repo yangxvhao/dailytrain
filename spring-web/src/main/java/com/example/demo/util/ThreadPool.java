@@ -2,14 +2,6 @@ package com.example.demo.util;
 
 import lombok.extern.slf4j.Slf4j;
 import okhttp3.*;
-import okio.Timeout;
-import org.apache.http.HttpClientConnection;
-import org.apache.http.client.HttpClient;
-import org.apache.http.client.methods.HttpPost;
-import org.apache.http.client.methods.HttpUriRequest;
-import org.apache.http.impl.client.CloseableHttpClient;
-import org.apache.http.impl.client.HttpClients;
-import org.springframework.data.redis.core.index.PathBasedRedisIndexDefinition;
 
 import java.io.IOException;
 import java.util.concurrent.Executor;

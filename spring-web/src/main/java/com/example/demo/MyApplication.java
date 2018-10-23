@@ -1,11 +1,12 @@
 package com.example.demo;
 
+import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.ApplicationArguments;
 import org.springframework.boot.ApplicationRunner;
 import org.springframework.boot.SpringApplication;
-import org.springframework.boot.autoconfigure.EnableAutoConfiguration;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.boot.autoconfigure.jdbc.DataSourceAutoConfiguration;
+import org.springframework.data.redis.core.StringRedisTemplate;
 
 import java.util.List;
 
@@ -13,9 +14,12 @@ import java.util.List;
  * @author yangxvhao
  * @date 2018-08-27 下午2:16.
  */
-@SpringBootApplication()
-@EnableAutoConfiguration(exclude={DataSourceAutoConfiguration.class})
+@SpringBootApplication(exclude = DataSourceAutoConfiguration.class)
 public class MyApplication implements ApplicationRunner {
+    
+    @Autowired
+    StringRedisTemplate stringRedisTemplate;
+    
     public static void main(String[] args) {
         SpringApplication.run(MyApplication.class, args);
     }

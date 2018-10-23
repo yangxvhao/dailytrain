@@ -1,0 +1,5 @@
+CREATE DATABASE my;
+CREATE TABLE person(
+	name VARCHAR(20),
+	age INTEGER
+)

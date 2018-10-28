@@ -2,14 +2,13 @@ package com.example.demo.controller;
 
 import com.example.demo.annotation.ParamA;
 import com.example.demo.dto.User;
-import com.example.demo.valid.Group;
 import com.example.demo.valid.Second;
 import lombok.extern.slf4j.Slf4j;
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.data.redis.core.RedisTemplate;
 import org.springframework.ui.Model;
 import org.springframework.validation.annotation.Validated;
 import org.springframework.web.bind.annotation.*;
-
-import javax.validation.Valid;
 
 /**
  * @RestController相当于@Response和＠Controller
@@ -21,9 +20,18 @@ import javax.validation.Valid;
 @RequestMapping("/a")
 @Slf4j
 public class ControllerA {
+    @Autowired
+    RedisTemplate redisTemplate;
+
+    @GetMapping("health")
+    @ResponseBody
+    public String heath(){
+        return "ok";
+    }
     
     @GetMapping("get")
     public String getParam(@ParamA User user){
+        redisTemplate.opsForList().leftPush("test", user);
         return user.toString();
     }
     

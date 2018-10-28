@@ -2,9 +2,6 @@ package com.yangxvhao.demo;
 
 
 import java.util.*;
-import java.util.stream.Collectors;
-import java.util.Arrays;
-import java.util.List;
 import java.util.stream.IntStream;
 import java.util.stream.Stream;
 
@@ -23,8 +20,11 @@ public class MainApp {
 //        
         Map<String, String> map = new HashMap<>();
         map.put("111", "aaa");
+        map.put("222", "aaaaa");
+        map.put("333", "aaaaaa");
+        map.put("444", "aaaa");
         map.put(null, null);
-        
+
         List listM = new ArrayList(map.entrySet());
         System.out.println();
         //step1 流的构造
@@ -45,13 +45,15 @@ public class MainApp {
 //        intStream.forEachOrdered(System.out::print);
 //        IntStream.range(1,10).forEach(System.out::println);
 //        IntStream.rangeClosed(1,10).forEach(System.out::println);
-        
+
 //        DoubleStream doubleStream = intStream.asDoubleStream();
 //        doubleStream.map(operand -> operand);
-        
+
 //        LongStream longStream = intStream.asLongStream();
 
-
+//        map.entrySet().stream().reduce((stringStringEntry, stringStringEntry2) ->
+//                        stringStringEntry.getValue().length() + stringStringEntry2.getValue().length(),
+//                (a, b) -> a.getValue().length() + b.getValue().length());
         System.out.println("hello world");
     }
 

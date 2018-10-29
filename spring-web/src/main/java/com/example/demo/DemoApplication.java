@@ -1,13 +1,11 @@
 package com.example.demo;
 
-import lombok.extern.slf4j.Slf4j;
 import com.example.demo.processor.ReceiveA;
 import com.example.demo.processor.ReceiveB;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.amqp.core.BindingBuilder;
 import org.springframework.amqp.core.Queue;
 import org.springframework.amqp.core.TopicExchange;
-import org.springframework.amqp.rabbit.AsyncRabbitTemplate;
 import org.springframework.amqp.rabbit.connection.CachingConnectionFactory;
 import org.springframework.amqp.rabbit.core.RabbitAdmin;
 import org.springframework.amqp.rabbit.listener.SimpleMessageListenerContainer;
@@ -15,15 +13,11 @@ import org.springframework.amqp.rabbit.listener.adapter.MessageListenerAdapter;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.boot.SpringApplication;
-import org.springframework.boot.autoconfigure.EnableAutoConfiguration;
-import org.springframework.boot.autoconfigure.SpringBootApplication;
-import org.springframework.boot.autoconfigure.jdbc.DataSourceAutoConfiguration;
 import org.springframework.context.ApplicationContext;
-import org.springframework.web.bind.annotation.RestController;
 
 //@SpringBootApplication()
 //@EnableAutoConfiguration(exclude={DataSourceAutoConfiguration.class})
-@RestController("/")
+//@RestController("/")
 @Slf4j
 public class DemoApplication implements CommandLineRunner {
     

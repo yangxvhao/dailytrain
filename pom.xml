@@ -21,6 +21,7 @@
         <module>spring-web</module>
         <module>leetcode</module>
         <module>mybatis</module>
+        <module>jdk-proxy</module>
     </modules>
     <parent>
         <groupId>org.springframework.boot</groupId>

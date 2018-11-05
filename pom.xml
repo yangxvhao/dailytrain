@@ -21,6 +21,9 @@
         <module>spring-web</module>
         <module>leetcode</module>
         <module>mybatis</module>
+        <module>thread</module>
+        <module>thread</module>
+        <module>algorithm</module>
     </modules>
     <parent>
         <groupId>org.springframework.boot</groupId>

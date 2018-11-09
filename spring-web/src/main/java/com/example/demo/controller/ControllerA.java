@@ -6,6 +6,7 @@ import com.example.demo.valid.Second;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.data.redis.core.RedisTemplate;
+import org.springframework.data.redis.core.StringRedisTemplate;
 import org.springframework.ui.Model;
 import org.springframework.validation.annotation.Validated;
 import org.springframework.web.bind.annotation.*;
@@ -20,8 +21,11 @@ import org.springframework.web.bind.annotation.*;
 @RequestMapping("/a")
 @Slf4j
 public class ControllerA {
+//    @Autowired
+//    RedisTemplate redisTemplate;
+
     @Autowired
-    RedisTemplate redisTemplate;
+    StringRedisTemplate redisTemplate;
 
     @GetMapping("health")
     @ResponseBody
@@ -31,7 +35,7 @@ public class ControllerA {
     
     @GetMapping("get")
     public String getParam(@ParamA User user){
-        redisTemplate.opsForList().leftPush("test", user);
+//        redisTemplate.opsForList().leftPush("test", user);
         return user.toString();
     }
     

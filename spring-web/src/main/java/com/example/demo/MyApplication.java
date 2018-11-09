@@ -9,6 +9,7 @@ import org.springframework.boot.autoconfigure.EnableAutoConfiguration;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.boot.autoconfigure.jdbc.DataSourceAutoConfiguration;
 import org.springframework.data.redis.core.RedisTemplate;
+import org.springframework.data.redis.core.StringRedisTemplate;
 
 import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;
@@ -22,8 +23,10 @@ import java.util.concurrent.TimeUnit;
 @SpringBootApplication()
 @EnableAutoConfiguration(exclude={DataSourceAutoConfiguration.class})
 public class MyApplication implements ApplicationRunner {
-    @Autowired
-    RedisTemplate redisTemplate;
+//    @Autowired
+//    RedisTemplate redisTemplate;
+    
+
     
     public static void main(String[] args) {
         SpringApplication.run(MyApplication.class, args);
@@ -31,12 +34,12 @@ public class MyApplication implements ApplicationRunner {
     
     @Override
     public void run(ApplicationArguments applicationArguments) throws Exception {
-        ExecutorService service = Executors.newSingleThreadExecutor();
-        service.execute(() -> {
-            while (true) {
-                String str = redisTemplate.opsForList().leftPop("test", 0, TimeUnit.SECONDS).toString();
-                log.info(str);
-            }
-        });
+//        ExecutorService service = Executors.newSingleThreadExecutor();
+//        service.execute(() -> {
+//            while (true) {
+//                String str = redisTemplate.opsForList().leftPop("test", 0, TimeUnit.SECONDS).toString();
+//                log.info(str);
+//            }
+//        });
     }
 }

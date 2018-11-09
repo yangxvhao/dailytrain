@@ -13,8 +13,9 @@ import java.util.List;
 @Component
 public class Mybean {
     @Autowired
-    public Mybean(ApplicationArguments arguments){
-        List<String> strings = arguments.getNonOptionArgs();
+    public Mybean(){
+//        List<String> strings = arguments.getNonOptionArgs();
+        System.out.println("-------------------------&&&&&&&&&&&&&-----------------");
         System.out.println();
     }
 }

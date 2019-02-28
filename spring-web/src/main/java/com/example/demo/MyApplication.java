@@ -20,8 +20,7 @@ import java.util.concurrent.TimeUnit;
  * @date 2018-08-27 下午2:16.
  */
 @Slf4j
-@SpringBootApplication()
-@EnableAutoConfiguration(exclude={DataSourceAutoConfiguration.class})
+@SpringBootApplication(exclude = {DataSourceAutoConfiguration.class})
 public class MyApplication implements ApplicationRunner {
 //    @Autowired
 //    RedisTemplate redisTemplate;

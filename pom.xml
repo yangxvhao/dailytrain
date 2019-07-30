@@ -24,6 +24,7 @@
         <module>jdk-proxy</module>
         <module>thread</module>
         <module>algorithm</module>
+        <module>my.servlet</module>
     </modules>
     <parent>
         <groupId>org.springframework.boot</groupId>

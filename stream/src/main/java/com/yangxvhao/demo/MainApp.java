@@ -1,7 +1,10 @@
 package com.yangxvhao.demo;
 
 
+import com.google.common.collect.Lists;
+
 import java.util.*;
+import java.util.stream.Collectors;
 import java.util.stream.IntStream;
 import java.util.stream.Stream;
 
@@ -10,6 +13,15 @@ import java.util.stream.Stream;
  */
 public class MainApp {
     public static void main(String... args) throws Exception {
+        List<Integer> integers = Lists.newArrayList();
+        integers.add(11);
+        integers.add(12);
+        integers.add(22);
+        integers.add(1);
+
+        integers = integers.stream().sorted(Comparator.comparing(integer -> integer)).collect(Collectors.toList());
+
+
 //        String [] strings1 = new String[]{"aaa", "sss", "sdjgji"};
 //        String [] strings2 = new String[]{"bbb", "dddd", "ddfdfda"};
 //
@@ -24,6 +36,7 @@ public class MainApp {
         map.put("333", "aaaaaa");
         map.put("444", "aaaa");
         map.put(null, null);
+
 
         List listM = new ArrayList(map.entrySet());
         System.out.println();

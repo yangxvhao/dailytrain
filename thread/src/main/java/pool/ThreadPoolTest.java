@@ -40,6 +40,11 @@ public class ThreadPoolTest {
                 int finalI = i;
                 myPool.execute(() -> {
                     latch.countDown();
+                    try {
+                        Thread.sleep(1000);
+                    } catch (InterruptedException e) {
+                        e.printStackTrace();
+                    }
                     System.out.println(Thread.currentThread().getName() + ":" + finalI);
                 });
 //                run(cachedThreadPool, i); 
@@ -52,7 +57,7 @@ public class ThreadPoolTest {
             }
         }
         try {
-            latch.await(19  * 1000, TimeUnit.MILLISECONDS);
+            latch.await(len * 1000, TimeUnit.MILLISECONDS);
         } catch (InterruptedException e) {
             e.printStackTrace();
         }

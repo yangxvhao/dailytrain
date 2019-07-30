@@ -27,7 +27,7 @@ public class RxJavaTest {
             add(1);add(2);add(3);add(4);
         }};
         Observable.from(integers)
-                .map(integer -> add(integer))
+                .map(RxJavaTest::add)
                 .flatMap(integer -> Observable.interval(2, TimeUnit.MINUTES))
                 .subscribe(System.out::println);
     }
@@ -61,9 +61,7 @@ public class RxJavaTest {
             Field field = tmp.getClass().getDeclaredField("value");
             field.setAccessible(true);
             field.set(tmp, 1000);
-        } catch (NoSuchFieldException e) {
-            e.printStackTrace();
-        } catch (IllegalAccessException e) {
+        } catch (NoSuchFieldException | IllegalAccessException e) {
             e.printStackTrace();
         }
         add(i);

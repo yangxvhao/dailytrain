@@ -8,7 +8,7 @@ import java.util.concurrent.CountDownLatch;
  * @author yangxuhao
  * @date 2019-09-30 15:51.
  */
-class Foo {
+class Topic1114 {
     private CountDownLatch second = new CountDownLatch(1);
     private CountDownLatch third = new CountDownLatch(1);
     public CountDownLatch getSecond(){
@@ -17,7 +17,7 @@ class Foo {
     public CountDownLatch getThird(){
         return third;
     }
-    public Foo() {
+    public Topic1114() {
 
     }
 

@@ -16,7 +16,7 @@ import java.util.List;
  * @author yangxvhao
  * @date 2018-09-27 下午5:40.
  */
-public class Start {
+public class MybatisStart {
     public static void main(String[] args) throws IOException {
         String resource = "mybatis-config.xml";
         InputStream inputStream = Resources.getResourceAsStream(resource);

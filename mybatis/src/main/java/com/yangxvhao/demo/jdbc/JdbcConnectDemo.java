@@ -19,10 +19,15 @@ public class JdbcConnectDemo {
             String name = "root";
             String password = "123456";
             Connection connection = DriverManager.getConnection(url, name, password);
+            String updateSql = "UPDATE test.person SET age=1000 where name = 'hello';";
+            int updateResult = connection.createStatement().executeUpdate(updateSql);
+
             String sql = "select * from person;";
             ResultSet resultSet = connection.createStatement().executeQuery(sql);
-            while (resultSet.next()){
+
+            while (resultSet.next()) {
                 String nameResult = resultSet.getString("name");
+                Integer age = resultSet.getInt("age");
             }
         } catch (ClassNotFoundException e) {
             e.printStackTrace();

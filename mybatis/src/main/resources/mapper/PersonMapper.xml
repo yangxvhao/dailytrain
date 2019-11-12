@@ -3,7 +3,16 @@
         PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
         "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
 <mapper namespace="com.yangxvhao.demo.mapper.PersonMapper">
-    <select id="selectList" resultType="com.yangxvhao.demo.model.Person">
-      select * from person
+    <resultMap id="BaseResultMap" type="com.yangxvhao.demo.model.Person">
+        <result column="name" property="name" jdbcType="VARCHAR" javaType="java.lang.String"></result>
+        <result column="age" property="age" jdbcType="INTEGER" javaType="java.lang.Long"></result>
+    </resultMap>
+    <sql id="Base_Column_List">
+        name, age
+    </sql>
+    <select id="selectList" resultMap="BaseResultMap">
+      select
+      <include refid="Base_Column_List"></include>
+       from person
     </select>
 </mapper>

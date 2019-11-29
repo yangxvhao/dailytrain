@@ -13,7 +13,7 @@
         <module>statemachine</module>
         <module>skiplist</module>
         <module>redis</module>
-        <module>linkedlist</module>
+        <module>collection</module>
         <module>design-patterns</module>
         <module>tree</module>
         <module>rxjava</module>

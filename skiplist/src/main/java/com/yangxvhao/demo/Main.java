@@ -2,6 +2,7 @@ package com.yangxvhao.demo;
 
 import org.springframework.util.StopWatch;
 
+import java.util.HashMap;
 import java.util.Random;
 
 /**
@@ -10,6 +11,10 @@ import java.util.Random;
  */
 public class Main {
     public static void main(String[] args) {
+        HashMap<String, String> map = new HashMap<>(4);
+        map.put("a", "a");
+        System.out.println();
+
         SkipList<Integer> skipList = new SkipList<>();
         StopWatch watch = new StopWatch();
         watch.start();

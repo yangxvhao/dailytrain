@@ -9,7 +9,7 @@ import lombok.Data;
  */
 
 @Data
-public class LinkedList<V> {
+public class LinkedListDemo<V> {
 
     @Data
     public class Node{

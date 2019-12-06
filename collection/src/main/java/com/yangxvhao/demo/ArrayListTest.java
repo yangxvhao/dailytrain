@@ -61,6 +61,31 @@ public class ArrayListTest {
         Integer integer1 = 2;
         Integer integer2 = 2;
         System.out.println(integer1 == ( integer2));
+        Integer integer100 = 200;
+        Integer integer200 = 200;
+        System.out.println(integer100 == ( integer200));
 
+    }
+
+    @Test
+    public void testString(){
+        String a = "a";
+        String b = "b";
+
+//        ab.intern();
+        String ab1 = "ab";
+        String ab2 = "a" + "b";
+        String ab = a + b;
+        String ab3 = new String("ab");
+        System.out.println(ab == ab1);
+        System.out.println(ab == ab2);
+        System.out.println(ab1 == ab2);
+    }
+
+    @Test
+    public void testListClassType(){
+        List<Integer> integerList = new ArrayList<>();
+            List<LinkedListDemo> stringList = new ArrayList<>();
+        System.out.println(integerList.getClass() == stringList.getClass());
     }
 }

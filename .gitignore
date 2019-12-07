@@ -24,3 +24,5 @@ nbdist/
 .nb-gradle/
 !/src/main/java/com/example/demo/statemachine/StateMachine.java
 /logs/
+*.hprof
+java_pid9988.hprof.analysis/

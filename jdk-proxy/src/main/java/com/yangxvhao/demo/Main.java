@@ -14,7 +14,8 @@ public class Main {
         ProxyHello proxyHello = new ProxyHello(new HelloImpl("tom"));
         proxyHello.show("how are you!");
         
-//        jdk-proxy
+//        jdk-proxy  这个设置可以保存代理对象到磁盘上
+        System.getProperties().put("sun.misc.ProxyGenerator.saveGeneratedFiles", "true");
         Hello hello = new HelloImpl("tom");
         Hello proxy = (Hello) Proxy.newProxyInstance(hello.getClass().getClassLoader(), new Class[]{Hello.class}, new HelloHandler(hello));
         proxy.show("world");

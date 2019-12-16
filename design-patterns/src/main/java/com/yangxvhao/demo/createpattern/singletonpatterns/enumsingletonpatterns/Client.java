@@ -21,8 +21,8 @@ public class Client {
         ExecutorService service = new ThreadPoolExecutor(8,8,1, TimeUnit.MINUTES, new ArrayBlockingQueue<>(10));
         for (int i = 0; i < 19; i++) {
             service.execute(() -> {
-//                log.info(Singleton.INSTANCE.getInstance().toString());
-                log.info(LoadBalance.getInstance().toString());
+                log.info(Singleton.INSTANCE.getInstance().toString());
+//                log.info(LoadBalance.getInstance().toString());
             });  
         }
         

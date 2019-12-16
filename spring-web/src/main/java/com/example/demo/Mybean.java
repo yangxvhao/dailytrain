@@ -10,7 +10,7 @@ import java.util.List;
  * @author yangxvhao
  * @date 2018-08-27 下午3:14.
  */
-@Component
+//@Component
 public class Mybean {
     @Autowired
     public Mybean(){

@@ -1,5 +1,6 @@
 package com.yangxvhao.demo;
 
+import com.yangxvhao.demo.request.HelloWorldRequest;
 import com.yangxvhao.demo.service.HelloWorldService;
 import org.apache.thrift.TException;
 import org.apache.thrift.protocol.TBinaryProtocol;
@@ -15,6 +16,11 @@ public class ClientDemo {
         try {
             tTransport.open();
             client.hello("hello world");
+            HelloWorldRequest request = new HelloWorldRequest();
+//            request.setAge(10);
+            request.setNameIsSet(false);
+            request.setName("name");
+            System.out.println(client.modify(request));
         } catch (TException e) {
             e.printStackTrace();
         }

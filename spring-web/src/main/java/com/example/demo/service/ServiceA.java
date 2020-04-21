@@ -2,6 +2,7 @@ package com.example.demo.service;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Component;
+import org.springframework.transaction.annotation.Transactional;
 
 import javax.annotation.PostConstruct;
 import javax.annotation.PreDestroy;
@@ -10,7 +11,7 @@ import javax.annotation.PreDestroy;
  * @author yangxuhao
  * @date 2019-12-06 18:14.
  */
-//@Component
+@Component
 public class ServiceA {
     @Autowired
     private ServiceB serviceB;
@@ -32,6 +33,11 @@ public class ServiceA {
     public void setServiceB(ServiceB serviceB) {
         System.out.println("--------------------setServiceB");
         this.serviceB = serviceB;
+    }
+
+    @Transactional
+    public void display(){
+        serviceB.print();
     }
 
     //    @Autowired

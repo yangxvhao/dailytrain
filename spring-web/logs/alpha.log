@@ -1,402 +1,646 @@
- 2018-07-10 14:00:43,108 INFO [main] c.e.d.u.ThreadPool [ThreadPool.java:43] running, threadNum:30
- 2018-07-10 14:00:43,121 INFO [main] c.e.d.u.ThreadPool [ThreadPool.java:43] running, threadNum:30
- 2018-07-10 14:00:43,122 INFO [main] c.e.d.u.ThreadPool [ThreadPool.java:43] running, threadNum:30
- 2018-07-10 14:00:43,123 INFO [main] c.e.d.u.ThreadPool [ThreadPool.java:43] running, threadNum:30
- 2018-07-10 14:00:43,126 INFO [main] c.e.d.u.ThreadPool [ThreadPool.java:43] running, threadNum:30
- 2018-07-10 14:00:43,135 INFO [main] c.e.d.u.ThreadPool [ThreadPool.java:43] running, threadNum:30
- 2018-07-10 14:00:43,135 INFO [main] c.e.d.u.ThreadPool [ThreadPool.java:43] running, threadNum:30
- 2018-07-10 14:00:43,135 INFO [main] c.e.d.u.ThreadPool [ThreadPool.java:43] running, threadNum:30
- 2018-07-10 14:00:43,136 INFO [main] c.e.d.u.ThreadPool [ThreadPool.java:43] running, threadNum:30
- 2018-07-10 14:00:43,141 INFO [main] c.e.d.u.ThreadPool [ThreadPool.java:43] running, threadNum:30
- 2018-07-10 14:00:43,142 INFO [main] c.e.d.u.ThreadPool [ThreadPool.java:43] running, threadNum:30
- 2018-07-10 14:00:43,147 INFO [main] c.e.d.u.ThreadPool [ThreadPool.java:43] running, threadNum:30
- 2018-07-10 14:00:43,147 INFO [main] c.e.d.u.ThreadPool [ThreadPool.java:43] running, threadNum:30
- 2018-07-10 14:00:43,147 INFO [main] c.e.d.u.ThreadPool [ThreadPool.java:43] running, threadNum:30
- 2018-07-10 14:00:43,148 INFO [main] c.e.d.u.ThreadPool [ThreadPool.java:43] running, threadNum:30
- 2018-07-10 14:00:43,153 INFO [main] c.e.d.u.ThreadPool [ThreadPool.java:43] running, threadNum:30
- 2018-07-10 14:00:43,154 INFO [main] c.e.d.u.ThreadPool [ThreadPool.java:43] running, threadNum:30
- 2018-07-10 14:00:43,154 INFO [main] c.e.d.u.ThreadPool [ThreadPool.java:43] running, threadNum:30
- 2018-07-10 14:00:43,154 INFO [main] c.e.d.u.ThreadPool [ThreadPool.java:43] running, threadNum:30
- 2018-07-10 14:00:43,154 INFO [main] c.e.d.u.ThreadPool [ThreadPool.java:43] running, threadNum:30
- 2018-07-10 14:00:43,155 INFO [main] c.e.d.u.ThreadPool [ThreadPool.java:43] running, threadNum:30
- 2018-07-10 14:00:43,155 INFO [main] c.e.d.u.ThreadPool [ThreadPool.java:43] running, threadNum:30
- 2018-07-10 14:00:43,156 INFO [main] c.e.d.u.ThreadPool [ThreadPool.java:43] running, threadNum:30
- 2018-07-10 14:00:43,156 INFO [main] c.e.d.u.ThreadPool [ThreadPool.java:43] running, threadNum:30
- 2018-07-10 14:00:43,156 INFO [main] c.e.d.u.ThreadPool [ThreadPool.java:43] running, threadNum:30
- 2018-07-10 14:00:43,157 INFO [main] c.e.d.u.ThreadPool [ThreadPool.java:43] running, threadNum:30
- 2018-07-10 14:00:43,157 INFO [main] c.e.d.u.ThreadPool [ThreadPool.java:43] running, threadNum:30
- 2018-07-10 14:00:43,157 INFO [main] c.e.d.u.ThreadPool [ThreadPool.java:43] running, threadNum:30
- 2018-07-10 14:00:43,158 INFO [main] c.e.d.u.ThreadPool [ThreadPool.java:43] running, threadNum:30
- 2018-07-10 14:00:43,158 INFO [main] c.e.d.u.ThreadPool [ThreadPool.java:43] running, threadNum:30
- 2018-07-10 14:00:43,165 INFO [main] c.e.d.u.ThreadPool [ThreadPool.java:43] running, threadNum:30
- 2018-07-10 14:00:43,166 INFO [main] c.e.d.u.ThreadPool [ThreadPool.java:43] running, threadNum:30
- 2018-07-10 14:00:43,166 INFO [main] c.e.d.u.ThreadPool [ThreadPool.java:43] running, threadNum:30
- 2018-07-10 14:00:43,166 INFO [main] c.e.d.u.ThreadPool [ThreadPool.java:43] running, threadNum:30
- 2018-07-10 14:00:43,167 INFO [main] c.e.d.u.ThreadPool [ThreadPool.java:43] running, threadNum:30
- 2018-07-10 14:00:43,167 INFO [main] c.e.d.u.ThreadPool [ThreadPool.java:43] running, threadNum:30
- 2018-07-10 14:00:43,167 INFO [main] c.e.d.u.ThreadPool [ThreadPool.java:43] running, threadNum:30
- 2018-07-10 14:00:43,167 INFO [main] c.e.d.u.ThreadPool [ThreadPool.java:43] running, threadNum:30
- 2018-07-10 14:00:43,167 INFO [main] c.e.d.u.ThreadPool [ThreadPool.java:43] running, threadNum:30
- 2018-07-10 14:00:43,168 INFO [main] c.e.d.u.ThreadPool [ThreadPool.java:43] running, threadNum:30
- 2018-07-10 14:00:43,168 INFO [main] c.e.d.u.ThreadPool [ThreadPool.java:43] running, threadNum:30
- 2018-07-10 14:00:43,168 INFO [main] c.e.d.u.ThreadPool [ThreadPool.java:43] running, threadNum:30
- 2018-07-10 14:00:43,168 INFO [main] c.e.d.u.ThreadPool [ThreadPool.java:43] running, threadNum:30
- 2018-07-10 14:00:43,168 INFO [main] c.e.d.u.ThreadPool [ThreadPool.java:43] running, threadNum:30
- 2018-07-10 14:00:43,168 INFO [main] c.e.d.u.ThreadPool [ThreadPool.java:43] running, threadNum:30
- 2018-07-10 14:00:43,169 INFO [main] c.e.d.u.ThreadPool [ThreadPool.java:43] running, threadNum:30
- 2018-07-10 14:00:43,169 INFO [main] c.e.d.u.ThreadPool [ThreadPool.java:43] running, threadNum:30
- 2018-07-10 14:00:43,169 INFO [main] c.e.d.u.ThreadPool [ThreadPool.java:43] running, threadNum:30
- 2018-07-10 14:00:43,169 INFO [main] c.e.d.u.ThreadPool [ThreadPool.java:43] running, threadNum:30
- 2018-07-10 14:00:43,169 INFO [main] c.e.d.u.ThreadPool [ThreadPool.java:43] running, threadNum:30
- 2018-07-10 14:00:43,170 INFO [main] c.e.d.u.ThreadPool [ThreadPool.java:43] running, threadNum:30
- 2018-07-10 14:00:43,170 INFO [main] c.e.d.u.ThreadPool [ThreadPool.java:43] running, threadNum:30
- 2018-07-10 14:00:43,170 INFO [main] c.e.d.u.ThreadPool [ThreadPool.java:43] running, threadNum:30
- 2018-07-10 14:00:43,170 INFO [main] c.e.d.u.ThreadPool [ThreadPool.java:43] running, threadNum:30
- 2018-07-10 14:00:43,170 INFO [main] c.e.d.u.ThreadPool [ThreadPool.java:43] running, threadNum:30
- 2018-07-10 14:00:43,171 INFO [main] c.e.d.u.ThreadPool [ThreadPool.java:43] running, threadNum:30
- 2018-07-10 14:00:43,171 INFO [main] c.e.d.u.ThreadPool [ThreadPool.java:43] running, threadNum:30
- 2018-07-10 14:00:43,171 INFO [main] c.e.d.u.ThreadPool [ThreadPool.java:43] running, threadNum:30
- 2018-07-10 14:00:43,171 INFO [main] c.e.d.u.ThreadPool [ThreadPool.java:43] running, threadNum:30
- 2018-07-10 14:00:43,171 INFO [main] c.e.d.u.ThreadPool [ThreadPool.java:43] running, threadNum:30
- 2018-07-10 14:00:43,171 INFO [main] c.e.d.u.ThreadPool [ThreadPool.java:43] running, threadNum:30
- 2018-07-10 14:00:43,172 INFO [main] c.e.d.u.ThreadPool [ThreadPool.java:43] running, threadNum:30
- 2018-07-10 14:00:43,172 INFO [main] c.e.d.u.ThreadPool [ThreadPool.java:43] running, threadNum:30
- 2018-07-10 14:00:43,172 INFO [main] c.e.d.u.ThreadPool [ThreadPool.java:43] running, threadNum:30
- 2018-07-10 14:00:43,172 INFO [main] c.e.d.u.ThreadPool [ThreadPool.java:43] running, threadNum:30
- 2018-07-10 14:00:43,172 INFO [main] c.e.d.u.ThreadPool [ThreadPool.java:43] running, threadNum:30
- 2018-07-10 14:00:43,173 INFO [main] c.e.d.u.ThreadPool [ThreadPool.java:43] running, threadNum:30
- 2018-07-10 14:00:43,173 INFO [main] c.e.d.u.ThreadPool [ThreadPool.java:43] running, threadNum:30
- 2018-07-10 14:00:43,173 INFO [main] c.e.d.u.ThreadPool [ThreadPool.java:43] running, threadNum:30
- 2018-07-10 14:00:43,173 INFO [main] c.e.d.u.ThreadPool [ThreadPool.java:43] running, threadNum:30
- 2018-07-10 14:00:43,173 INFO [main] c.e.d.u.ThreadPool [ThreadPool.java:43] running, threadNum:30
- 2018-07-10 14:00:43,173 INFO [main] c.e.d.u.ThreadPool [ThreadPool.java:43] running, threadNum:30
- 2018-07-10 14:00:43,174 INFO [main] c.e.d.u.ThreadPool [ThreadPool.java:43] running, threadNum:30
- 2018-07-10 14:00:43,174 INFO [main] c.e.d.u.ThreadPool [ThreadPool.java:43] running, threadNum:30
- 2018-07-10 14:00:43,174 INFO [main] c.e.d.u.ThreadPool [ThreadPool.java:43] running, threadNum:30
- 2018-07-10 14:00:43,174 INFO [main] c.e.d.u.ThreadPool [ThreadPool.java:43] running, threadNum:30
- 2018-07-10 14:00:43,174 INFO [main] c.e.d.u.ThreadPool [ThreadPool.java:43] running, threadNum:30
- 2018-07-10 14:00:43,174 INFO [main] c.e.d.u.ThreadPool [ThreadPool.java:43] running, threadNum:30
- 2018-07-10 14:00:43,175 INFO [main] c.e.d.u.ThreadPool [ThreadPool.java:43] running, threadNum:30
- 2018-07-10 14:00:43,175 INFO [main] c.e.d.u.ThreadPool [ThreadPool.java:43] running, threadNum:30
- 2018-07-10 14:00:43,175 INFO [main] c.e.d.u.ThreadPool [ThreadPool.java:43] running, threadNum:30
- 2018-07-10 14:00:43,175 INFO [main] c.e.d.u.ThreadPool [ThreadPool.java:43] running, threadNum:30
- 2018-07-10 14:00:43,175 INFO [main] c.e.d.u.ThreadPool [ThreadPool.java:43] running, threadNum:30
- 2018-07-10 14:00:43,175 INFO [main] c.e.d.u.ThreadPool [ThreadPool.java:43] running, threadNum:30
- 2018-07-10 14:00:43,176 INFO [main] c.e.d.u.ThreadPool [ThreadPool.java:43] running, threadNum:30
- 2018-07-10 14:00:43,176 INFO [main] c.e.d.u.ThreadPool [ThreadPool.java:43] running, threadNum:30
- 2018-07-10 14:00:43,176 INFO [main] c.e.d.u.ThreadPool [ThreadPool.java:43] running, threadNum:30
- 2018-07-10 14:00:43,176 INFO [main] c.e.d.u.ThreadPool [ThreadPool.java:43] running, threadNum:30
- 2018-07-10 14:00:43,176 INFO [main] c.e.d.u.ThreadPool [ThreadPool.java:43] running, threadNum:30
- 2018-07-10 14:00:43,177 INFO [main] c.e.d.u.ThreadPool [ThreadPool.java:43] running, threadNum:30
- 2018-07-10 14:00:43,177 INFO [main] c.e.d.u.ThreadPool [ThreadPool.java:43] running, threadNum:30
- 2018-07-10 14:00:43,177 INFO [main] c.e.d.u.ThreadPool [ThreadPool.java:43] running, threadNum:30
- 2018-07-10 14:00:43,177 INFO [main] c.e.d.u.ThreadPool [ThreadPool.java:43] running, threadNum:30
- 2018-07-10 14:00:43,177 INFO [main] c.e.d.u.ThreadPool [ThreadPool.java:43] running, threadNum:30
- 2018-07-10 14:00:43,178 INFO [main] c.e.d.u.ThreadPool [ThreadPool.java:43] running, threadNum:30
- 2018-07-10 14:00:43,178 INFO [main] c.e.d.u.ThreadPool [ThreadPool.java:43] running, threadNum:30
- 2018-07-10 14:00:43,178 INFO [main] c.e.d.u.ThreadPool [ThreadPool.java:43] running, threadNum:30
- 2018-07-10 14:00:43,178 INFO [main] c.e.d.u.ThreadPool [ThreadPool.java:43] running, threadNum:30
- 2018-07-10 14:00:43,178 INFO [main] c.e.d.u.ThreadPool [ThreadPool.java:43] running, threadNum:30
- 2018-07-10 14:00:43,178 INFO [main] c.e.d.u.ThreadPool [ThreadPool.java:43] running, threadNum:30
- 2018-07-10 14:00:43,178 INFO [main] c.e.d.u.ThreadPool [ThreadPool.java:43] running, threadNum:30
- 2018-07-10 14:00:43,179 INFO [main] c.e.d.u.ThreadPool [ThreadPool.java:43] running, threadNum:30
- 2018-07-10 14:00:43,179 INFO [main] c.e.d.u.ThreadPool [ThreadPool.java:43] running, threadNum:30
- 2018-07-10 14:00:43,179 INFO [main] c.e.d.u.ThreadPool [ThreadPool.java:43] running, threadNum:30
- 2018-07-10 14:00:43,179 INFO [main] c.e.d.u.ThreadPool [ThreadPool.java:43] running, threadNum:30
- 2018-07-10 14:00:43,179 INFO [main] c.e.d.u.ThreadPool [ThreadPool.java:43] running, threadNum:30
- 2018-07-10 14:00:43,179 INFO [main] c.e.d.u.ThreadPool [ThreadPool.java:43] running, threadNum:30
- 2018-07-10 14:00:43,179 INFO [main] c.e.d.u.ThreadPool [ThreadPool.java:43] running, threadNum:30
- 2018-07-10 14:00:43,180 INFO [main] c.e.d.u.ThreadPool [ThreadPool.java:43] running, threadNum:30
- 2018-07-10 14:00:43,180 INFO [main] c.e.d.u.ThreadPool [ThreadPool.java:43] running, threadNum:30
- 2018-07-10 14:00:43,180 INFO [main] c.e.d.u.ThreadPool [ThreadPool.java:43] running, threadNum:30
- 2018-07-10 14:00:43,180 INFO [main] c.e.d.u.ThreadPool [ThreadPool.java:43] running, threadNum:30
- 2018-07-10 14:00:43,180 INFO [main] c.e.d.u.ThreadPool [ThreadPool.java:43] running, threadNum:30
- 2018-07-10 14:00:43,180 INFO [main] c.e.d.u.ThreadPool [ThreadPool.java:43] running, threadNum:30
- 2018-07-10 14:00:43,180 INFO [main] c.e.d.u.ThreadPool [ThreadPool.java:43] running, threadNum:30
- 2018-07-10 14:00:43,181 INFO [main] c.e.d.u.ThreadPool [ThreadPool.java:43] running, threadNum:30
- 2018-07-10 14:00:43,181 INFO [main] c.e.d.u.ThreadPool [ThreadPool.java:43] running, threadNum:30
- 2018-07-10 14:00:43,181 INFO [main] c.e.d.u.ThreadPool [ThreadPool.java:43] running, threadNum:30
- 2018-07-10 14:00:43,181 INFO [main] c.e.d.u.ThreadPool [ThreadPool.java:43] running, threadNum:30
- 2018-07-10 14:00:43,181 INFO [main] c.e.d.u.ThreadPool [ThreadPool.java:43] running, threadNum:30
- 2018-07-10 14:00:43,181 INFO [main] c.e.d.u.ThreadPool [ThreadPool.java:43] running, threadNum:30
- 2018-07-10 14:00:43,181 INFO [main] c.e.d.u.ThreadPool [ThreadPool.java:43] running, threadNum:30
- 2018-07-10 14:00:43,182 INFO [main] c.e.d.u.ThreadPool [ThreadPool.java:43] running, threadNum:30
- 2018-07-10 14:00:43,182 INFO [main] c.e.d.u.ThreadPool [ThreadPool.java:43] running, threadNum:30
- 2018-07-10 14:00:43,182 INFO [main] c.e.d.u.ThreadPool [ThreadPool.java:43] running, threadNum:30
- 2018-07-10 14:00:43,182 INFO [main] c.e.d.u.ThreadPool [ThreadPool.java:43] running, threadNum:30
- 2018-07-10 14:00:43,182 INFO [main] c.e.d.u.ThreadPool [ThreadPool.java:43] running, threadNum:30
- 2018-07-10 14:00:43,182 INFO [main] c.e.d.u.ThreadPool [ThreadPool.java:43] running, threadNum:30
- 2018-07-10 14:00:43,183 INFO [main] c.e.d.u.ThreadPool [ThreadPool.java:43] running, threadNum:30
- 2018-07-10 14:00:43,187 INFO [main] c.e.d.u.ThreadPool [ThreadPool.java:43] running, threadNum:30
- 2018-07-10 14:00:43,189 INFO [main] c.e.d.u.ThreadPool [ThreadPool.java:43] running, threadNum:30
- 2018-07-10 14:00:43,190 INFO [main] c.e.d.u.ThreadPool [ThreadPool.java:43] running, threadNum:30
- 2018-07-10 14:00:43,190 INFO [main] c.e.d.u.ThreadPool [ThreadPool.java:43] running, threadNum:30
- 2018-07-10 14:00:43,190 INFO [main] c.e.d.u.ThreadPool [ThreadPool.java:43] running, threadNum:30
- 2018-07-10 14:00:43,190 INFO [main] c.e.d.u.ThreadPool [ThreadPool.java:43] running, threadNum:30
- 2018-07-10 14:00:43,190 INFO [main] c.e.d.u.ThreadPool [ThreadPool.java:43] running, threadNum:30
- 2018-07-10 14:00:43,190 INFO [main] c.e.d.u.ThreadPool [ThreadPool.java:43] running, threadNum:30
- 2018-07-10 14:00:43,191 INFO [main] c.e.d.u.ThreadPool [ThreadPool.java:43] running, threadNum:30
- 2018-07-10 14:00:43,191 INFO [main] c.e.d.u.ThreadPool [ThreadPool.java:43] running, threadNum:30
- 2018-07-10 14:00:43,191 INFO [main] c.e.d.u.ThreadPool [ThreadPool.java:43] running, threadNum:30
- 2018-07-10 14:00:43,191 INFO [main] c.e.d.u.ThreadPool [ThreadPool.java:43] running, threadNum:30
- 2018-07-10 14:00:43,191 INFO [main] c.e.d.u.ThreadPool [ThreadPool.java:43] running, threadNum:30
- 2018-07-10 14:00:43,191 INFO [main] c.e.d.u.ThreadPool [ThreadPool.java:43] running, threadNum:30
- 2018-07-10 14:00:43,192 INFO [main] c.e.d.u.ThreadPool [ThreadPool.java:43] running, threadNum:30
- 2018-07-10 14:00:43,193 INFO [main] c.e.d.u.ThreadPool [ThreadPool.java:43] running, threadNum:30
- 2018-07-10 14:00:43,194 INFO [main] c.e.d.u.ThreadPool [ThreadPool.java:43] running, threadNum:30
- 2018-07-10 14:00:43,194 INFO [main] c.e.d.u.ThreadPool [ThreadPool.java:43] running, threadNum:30
- 2018-07-10 14:00:43,194 INFO [main] c.e.d.u.ThreadPool [ThreadPool.java:43] running, threadNum:30
- 2018-07-10 14:00:43,194 INFO [main] c.e.d.u.ThreadPool [ThreadPool.java:43] running, threadNum:30
- 2018-07-10 14:00:43,194 INFO [main] c.e.d.u.ThreadPool [ThreadPool.java:43] running, threadNum:30
- 2018-07-10 14:00:43,195 INFO [main] c.e.d.u.ThreadPool [ThreadPool.java:43] running, threadNum:30
- 2018-07-10 14:00:43,195 INFO [main] c.e.d.u.ThreadPool [ThreadPool.java:43] running, threadNum:30
- 2018-07-10 14:00:43,195 INFO [main] c.e.d.u.ThreadPool [ThreadPool.java:43] running, threadNum:30
- 2018-07-10 14:00:43,195 INFO [main] c.e.d.u.ThreadPool [ThreadPool.java:43] running, threadNum:30
- 2018-07-10 14:00:43,195 INFO [main] c.e.d.u.ThreadPool [ThreadPool.java:43] running, threadNum:30
- 2018-07-10 14:00:43,195 INFO [main] c.e.d.u.ThreadPool [ThreadPool.java:43] running, threadNum:30
- 2018-07-10 14:00:43,196 INFO [main] c.e.d.u.ThreadPool [ThreadPool.java:43] running, threadNum:30
- 2018-07-10 14:00:43,196 INFO [main] c.e.d.u.ThreadPool [ThreadPool.java:43] running, threadNum:30
- 2018-07-10 14:00:43,196 INFO [main] c.e.d.u.ThreadPool [ThreadPool.java:43] running, threadNum:30
- 2018-07-10 14:00:43,196 INFO [main] c.e.d.u.ThreadPool [ThreadPool.java:43] running, threadNum:30
- 2018-07-10 14:00:43,196 INFO [main] c.e.d.u.ThreadPool [ThreadPool.java:43] running, threadNum:30
- 2018-07-10 14:00:43,196 INFO [main] c.e.d.u.ThreadPool [ThreadPool.java:43] running, threadNum:30
- 2018-07-10 14:00:43,197 INFO [main] c.e.d.u.ThreadPool [ThreadPool.java:43] running, threadNum:30
- 2018-07-10 14:00:43,197 INFO [main] c.e.d.u.ThreadPool [ThreadPool.java:43] running, threadNum:30
- 2018-07-10 14:00:43,197 INFO [main] c.e.d.u.ThreadPool [ThreadPool.java:43] running, threadNum:30
- 2018-07-10 14:00:43,197 INFO [main] c.e.d.u.ThreadPool [ThreadPool.java:43] running, threadNum:30
- 2018-07-10 14:00:43,197 INFO [main] c.e.d.u.ThreadPool [ThreadPool.java:43] running, threadNum:30
- 2018-07-10 14:00:43,197 INFO [main] c.e.d.u.ThreadPool [ThreadPool.java:43] running, threadNum:30
- 2018-07-10 14:00:43,198 INFO [main] c.e.d.u.ThreadPool [ThreadPool.java:43] running, threadNum:30
- 2018-07-10 14:00:43,198 INFO [main] c.e.d.u.ThreadPool [ThreadPool.java:43] running, threadNum:30
- 2018-07-10 14:00:43,198 INFO [main] c.e.d.u.ThreadPool [ThreadPool.java:43] running, threadNum:30
- 2018-07-10 14:00:43,198 INFO [main] c.e.d.u.ThreadPool [ThreadPool.java:43] running, threadNum:30
- 2018-07-10 14:00:43,198 INFO [main] c.e.d.u.ThreadPool [ThreadPool.java:43] running, threadNum:30
- 2018-07-10 14:00:43,198 INFO [main] c.e.d.u.ThreadPool [ThreadPool.java:43] running, threadNum:30
- 2018-07-10 14:00:43,198 INFO [main] c.e.d.u.ThreadPool [ThreadPool.java:43] running, threadNum:30
- 2018-07-10 14:00:43,199 INFO [main] c.e.d.u.ThreadPool [ThreadPool.java:43] running, threadNum:30
- 2018-07-10 14:00:43,199 INFO [main] c.e.d.u.ThreadPool [ThreadPool.java:43] running, threadNum:30
- 2018-07-10 14:00:43,199 INFO [main] c.e.d.u.ThreadPool [ThreadPool.java:43] running, threadNum:30
- 2018-07-10 14:00:43,199 INFO [main] c.e.d.u.ThreadPool [ThreadPool.java:43] running, threadNum:30
- 2018-07-10 14:00:43,200 INFO [main] c.e.d.u.ThreadPool [ThreadPool.java:43] running, threadNum:30
- 2018-07-10 14:00:43,200 INFO [main] c.e.d.u.ThreadPool [ThreadPool.java:43] running, threadNum:30
- 2018-07-10 14:00:43,200 INFO [main] c.e.d.u.ThreadPool [ThreadPool.java:43] running, threadNum:30
- 2018-07-10 14:00:43,200 INFO [main] c.e.d.u.ThreadPool [ThreadPool.java:43] running, threadNum:30
- 2018-07-10 14:00:43,201 INFO [main] c.e.d.u.ThreadPool [ThreadPool.java:43] running, threadNum:30
- 2018-07-10 14:00:43,206 INFO [main] c.e.d.u.ThreadPool [ThreadPool.java:43] running, threadNum:30
- 2018-07-10 14:00:43,206 INFO [main] c.e.d.u.ThreadPool [ThreadPool.java:43] running, threadNum:30
- 2018-07-10 14:00:43,207 INFO [main] c.e.d.u.ThreadPool [ThreadPool.java:43] running, threadNum:30
- 2018-07-10 14:00:43,208 INFO [main] c.e.d.u.ThreadPool [ThreadPool.java:43] running, threadNum:30
- 2018-07-10 14:00:43,212 INFO [main] c.e.d.u.ThreadPool [ThreadPool.java:43] running, threadNum:30
- 2018-07-10 14:00:43,212 INFO [main] c.e.d.u.ThreadPool [ThreadPool.java:43] running, threadNum:30
- 2018-07-10 14:00:43,212 INFO [main] c.e.d.u.ThreadPool [ThreadPool.java:43] running, threadNum:30
- 2018-07-10 14:00:43,213 INFO [main] c.e.d.u.ThreadPool [ThreadPool.java:43] running, threadNum:30
- 2018-07-10 14:00:43,213 INFO [main] c.e.d.u.ThreadPool [ThreadPool.java:43] running, threadNum:30
- 2018-07-10 14:00:43,214 INFO [main] c.e.d.u.ThreadPool [ThreadPool.java:43] running, threadNum:30
- 2018-07-10 14:00:43,215 INFO [main] c.e.d.u.ThreadPool [ThreadPool.java:43] running, threadNum:30
- 2018-07-10 14:00:43,215 INFO [main] c.e.d.u.ThreadPool [ThreadPool.java:43] running, threadNum:30
- 2018-07-10 14:00:43,215 INFO [main] c.e.d.u.ThreadPool [ThreadPool.java:43] running, threadNum:30
- 2018-07-10 14:00:43,215 INFO [main] c.e.d.u.ThreadPool [ThreadPool.java:43] running, threadNum:30
- 2018-07-10 14:00:43,219 INFO [main] c.e.d.u.ThreadPool [ThreadPool.java:43] running, threadNum:30
- 2018-07-10 14:00:43,220 INFO [main] c.e.d.u.ThreadPool [ThreadPool.java:43] running, threadNum:30
- 2018-07-10 14:01:13,221 INFO [main] c.e.d.DemoApplicationTests [DemoApplicationTests.java:34] sum:200,success:8
- 2018-07-10 15:04:20,439 INFO [main] c.e.d.u.ThreadPool [ThreadPool.java:43] running, threadNum:30
- 2018-07-10 15:04:20,444 INFO [main] c.e.d.u.ThreadPool [ThreadPool.java:43] running, threadNum:30
- 2018-07-10 15:04:20,447 INFO [main] c.e.d.u.ThreadPool [ThreadPool.java:43] running, threadNum:30
- 2018-07-10 15:04:20,448 INFO [main] c.e.d.u.ThreadPool [ThreadPool.java:43] running, threadNum:30
- 2018-07-10 15:04:20,448 INFO [main] c.e.d.u.ThreadPool [ThreadPool.java:43] running, threadNum:30
- 2018-07-10 15:04:20,448 INFO [main] c.e.d.u.ThreadPool [ThreadPool.java:43] running, threadNum:30
- 2018-07-10 15:04:20,449 INFO [main] c.e.d.u.ThreadPool [ThreadPool.java:43] running, threadNum:30
- 2018-07-10 15:04:20,450 INFO [main] c.e.d.u.ThreadPool [ThreadPool.java:43] running, threadNum:30
- 2018-07-10 15:04:20,451 INFO [main] c.e.d.u.ThreadPool [ThreadPool.java:43] running, threadNum:30
- 2018-07-10 15:04:20,452 INFO [main] c.e.d.u.ThreadPool [ThreadPool.java:43] running, threadNum:30
- 2018-07-10 15:04:20,453 INFO [main] c.e.d.u.ThreadPool [ThreadPool.java:43] running, threadNum:30
- 2018-07-10 15:04:20,453 INFO [main] c.e.d.u.ThreadPool [ThreadPool.java:43] running, threadNum:30
- 2018-07-10 15:04:20,453 INFO [main] c.e.d.u.ThreadPool [ThreadPool.java:43] running, threadNum:30
- 2018-07-10 15:04:20,454 INFO [main] c.e.d.u.ThreadPool [ThreadPool.java:43] running, threadNum:30
- 2018-07-10 15:04:20,454 INFO [main] c.e.d.u.ThreadPool [ThreadPool.java:43] running, threadNum:30
- 2018-07-10 15:04:20,454 INFO [main] c.e.d.u.ThreadPool [ThreadPool.java:43] running, threadNum:30
- 2018-07-10 15:04:20,457 INFO [main] c.e.d.u.ThreadPool [ThreadPool.java:43] running, threadNum:30
- 2018-07-10 15:04:20,460 INFO [main] c.e.d.u.ThreadPool [ThreadPool.java:43] running, threadNum:30
- 2018-07-10 15:04:20,463 INFO [main] c.e.d.u.ThreadPool [ThreadPool.java:43] running, threadNum:30
- 2018-07-10 15:04:20,467 INFO [main] c.e.d.u.ThreadPool [ThreadPool.java:43] running, threadNum:30
- 2018-07-10 15:04:20,470 INFO [main] c.e.d.u.ThreadPool [ThreadPool.java:43] running, threadNum:30
- 2018-07-10 15:04:20,471 INFO [main] c.e.d.u.ThreadPool [ThreadPool.java:43] running, threadNum:30
- 2018-07-10 15:04:20,472 INFO [main] c.e.d.u.ThreadPool [ThreadPool.java:43] running, threadNum:30
- 2018-07-10 15:04:20,477 INFO [main] c.e.d.u.ThreadPool [ThreadPool.java:43] running, threadNum:30
- 2018-07-10 15:04:20,478 INFO [main] c.e.d.u.ThreadPool [ThreadPool.java:43] running, threadNum:30
- 2018-07-10 15:04:20,479 INFO [main] c.e.d.u.ThreadPool [ThreadPool.java:43] running, threadNum:30
- 2018-07-10 15:04:20,479 INFO [main] c.e.d.u.ThreadPool [ThreadPool.java:43] running, threadNum:30
- 2018-07-10 15:04:20,479 INFO [main] c.e.d.u.ThreadPool [ThreadPool.java:43] running, threadNum:30
- 2018-07-10 15:04:20,480 INFO [main] c.e.d.u.ThreadPool [ThreadPool.java:43] running, threadNum:30
- 2018-07-10 15:04:20,480 INFO [main] c.e.d.u.ThreadPool [ThreadPool.java:43] running, threadNum:30
- 2018-07-10 15:04:20,481 INFO [main] c.e.d.u.ThreadPool [ThreadPool.java:43] running, threadNum:30
- 2018-07-10 15:04:20,489 INFO [main] c.e.d.u.ThreadPool [ThreadPool.java:43] running, threadNum:30
- 2018-07-10 15:04:20,490 INFO [main] c.e.d.u.ThreadPool [ThreadPool.java:43] running, threadNum:30
- 2018-07-10 15:04:20,491 INFO [main] c.e.d.u.ThreadPool [ThreadPool.java:43] running, threadNum:30
- 2018-07-10 15:04:20,491 INFO [main] c.e.d.u.ThreadPool [ThreadPool.java:43] running, threadNum:30
- 2018-07-10 15:04:20,491 INFO [main] c.e.d.u.ThreadPool [ThreadPool.java:43] running, threadNum:30
- 2018-07-10 15:04:20,492 INFO [main] c.e.d.u.ThreadPool [ThreadPool.java:43] running, threadNum:30
- 2018-07-10 15:04:20,492 INFO [main] c.e.d.u.ThreadPool [ThreadPool.java:43] running, threadNum:30
- 2018-07-10 15:04:20,492 INFO [main] c.e.d.u.ThreadPool [ThreadPool.java:43] running, threadNum:30
- 2018-07-10 15:04:20,492 INFO [main] c.e.d.u.ThreadPool [ThreadPool.java:43] running, threadNum:30
- 2018-07-10 15:04:20,493 INFO [main] c.e.d.u.ThreadPool [ThreadPool.java:43] running, threadNum:30
- 2018-07-10 15:04:20,493 INFO [main] c.e.d.u.ThreadPool [ThreadPool.java:43] running, threadNum:30
- 2018-07-10 15:04:20,493 INFO [main] c.e.d.u.ThreadPool [ThreadPool.java:43] running, threadNum:30
- 2018-07-10 15:04:20,493 INFO [main] c.e.d.u.ThreadPool [ThreadPool.java:43] running, threadNum:30
- 2018-07-10 15:04:20,493 INFO [main] c.e.d.u.ThreadPool [ThreadPool.java:43] running, threadNum:30
- 2018-07-10 15:04:20,494 INFO [main] c.e.d.u.ThreadPool [ThreadPool.java:43] running, threadNum:30
- 2018-07-10 15:04:20,494 INFO [main] c.e.d.u.ThreadPool [ThreadPool.java:43] running, threadNum:30
- 2018-07-10 15:04:20,494 INFO [main] c.e.d.u.ThreadPool [ThreadPool.java:43] running, threadNum:30
- 2018-07-10 15:04:20,494 INFO [main] c.e.d.u.ThreadPool [ThreadPool.java:43] running, threadNum:30
- 2018-07-10 15:04:20,495 INFO [main] c.e.d.u.ThreadPool [ThreadPool.java:43] running, threadNum:30
- 2018-07-10 15:04:20,495 INFO [main] c.e.d.u.ThreadPool [ThreadPool.java:43] running, threadNum:30
- 2018-07-10 15:04:20,495 INFO [main] c.e.d.u.ThreadPool [ThreadPool.java:43] running, threadNum:30
- 2018-07-10 15:04:20,495 INFO [main] c.e.d.u.ThreadPool [ThreadPool.java:43] running, threadNum:30
- 2018-07-10 15:04:20,495 INFO [main] c.e.d.u.ThreadPool [ThreadPool.java:43] running, threadNum:30
- 2018-07-10 15:04:20,496 INFO [main] c.e.d.u.ThreadPool [ThreadPool.java:43] running, threadNum:30
- 2018-07-10 15:04:20,496 INFO [main] c.e.d.u.ThreadPool [ThreadPool.java:43] running, threadNum:30
- 2018-07-10 15:04:20,496 INFO [main] c.e.d.u.ThreadPool [ThreadPool.java:43] running, threadNum:30
- 2018-07-10 15:04:20,496 INFO [main] c.e.d.u.ThreadPool [ThreadPool.java:43] running, threadNum:30
- 2018-07-10 15:04:20,496 INFO [main] c.e.d.u.ThreadPool [ThreadPool.java:43] running, threadNum:30
- 2018-07-10 15:04:20,497 INFO [main] c.e.d.u.ThreadPool [ThreadPool.java:43] running, threadNum:30
- 2018-07-10 15:04:20,497 INFO [main] c.e.d.u.ThreadPool [ThreadPool.java:43] running, threadNum:30
- 2018-07-10 15:04:20,497 INFO [main] c.e.d.u.ThreadPool [ThreadPool.java:43] running, threadNum:30
- 2018-07-10 15:04:20,497 INFO [main] c.e.d.u.ThreadPool [ThreadPool.java:43] running, threadNum:30
- 2018-07-10 15:04:20,498 INFO [main] c.e.d.u.ThreadPool [ThreadPool.java:43] running, threadNum:30
- 2018-07-10 15:04:20,502 INFO [main] c.e.d.u.ThreadPool [ThreadPool.java:43] running, threadNum:30
- 2018-07-10 15:04:20,502 INFO [main] c.e.d.u.ThreadPool [ThreadPool.java:43] running, threadNum:30
- 2018-07-10 15:04:20,502 INFO [main] c.e.d.u.ThreadPool [ThreadPool.java:43] running, threadNum:30
- 2018-07-10 15:04:20,503 INFO [main] c.e.d.u.ThreadPool [ThreadPool.java:43] running, threadNum:30
- 2018-07-10 15:04:20,503 INFO [main] c.e.d.u.ThreadPool [ThreadPool.java:43] running, threadNum:30
- 2018-07-10 15:04:20,503 INFO [main] c.e.d.u.ThreadPool [ThreadPool.java:43] running, threadNum:30
- 2018-07-10 15:04:20,503 INFO [main] c.e.d.u.ThreadPool [ThreadPool.java:43] running, threadNum:30
- 2018-07-10 15:04:20,503 INFO [main] c.e.d.u.ThreadPool [ThreadPool.java:43] running, threadNum:30
- 2018-07-10 15:04:20,503 INFO [main] c.e.d.u.ThreadPool [ThreadPool.java:43] running, threadNum:30
- 2018-07-10 15:04:20,503 INFO [main] c.e.d.u.ThreadPool [ThreadPool.java:43] running, threadNum:30
- 2018-07-10 15:04:20,503 INFO [main] c.e.d.u.ThreadPool [ThreadPool.java:43] running, threadNum:30
- 2018-07-10 15:04:20,504 INFO [main] c.e.d.u.ThreadPool [ThreadPool.java:43] running, threadNum:30
- 2018-07-10 15:04:20,504 INFO [main] c.e.d.u.ThreadPool [ThreadPool.java:43] running, threadNum:30
- 2018-07-10 15:04:20,504 INFO [main] c.e.d.u.ThreadPool [ThreadPool.java:43] running, threadNum:30
- 2018-07-10 15:04:20,504 INFO [main] c.e.d.u.ThreadPool [ThreadPool.java:43] running, threadNum:30
- 2018-07-10 15:04:20,504 INFO [main] c.e.d.u.ThreadPool [ThreadPool.java:43] running, threadNum:30
- 2018-07-10 15:04:20,504 INFO [main] c.e.d.u.ThreadPool [ThreadPool.java:43] running, threadNum:30
- 2018-07-10 15:04:20,504 INFO [main] c.e.d.u.ThreadPool [ThreadPool.java:43] running, threadNum:30
- 2018-07-10 15:04:20,504 INFO [main] c.e.d.u.ThreadPool [ThreadPool.java:43] running, threadNum:30
- 2018-07-10 15:04:20,504 INFO [main] c.e.d.u.ThreadPool [ThreadPool.java:43] running, threadNum:30
- 2018-07-10 15:04:20,505 INFO [main] c.e.d.u.ThreadPool [ThreadPool.java:43] running, threadNum:30
- 2018-07-10 15:04:20,505 INFO [main] c.e.d.u.ThreadPool [ThreadPool.java:43] running, threadNum:30
- 2018-07-10 15:04:20,505 INFO [main] c.e.d.u.ThreadPool [ThreadPool.java:43] running, threadNum:30
- 2018-07-10 15:04:20,505 INFO [main] c.e.d.u.ThreadPool [ThreadPool.java:43] running, threadNum:30
- 2018-07-10 15:04:20,505 INFO [main] c.e.d.u.ThreadPool [ThreadPool.java:43] running, threadNum:30
- 2018-07-10 15:04:20,505 INFO [main] c.e.d.u.ThreadPool [ThreadPool.java:43] running, threadNum:30
- 2018-07-10 15:04:20,505 INFO [main] c.e.d.u.ThreadPool [ThreadPool.java:43] running, threadNum:30
- 2018-07-10 15:04:20,506 INFO [main] c.e.d.u.ThreadPool [ThreadPool.java:43] running, threadNum:30
- 2018-07-10 15:04:20,506 INFO [main] c.e.d.u.ThreadPool [ThreadPool.java:43] running, threadNum:30
- 2018-07-10 15:04:20,506 INFO [main] c.e.d.u.ThreadPool [ThreadPool.java:43] running, threadNum:30
- 2018-07-10 15:04:20,506 INFO [main] c.e.d.u.ThreadPool [ThreadPool.java:43] running, threadNum:30
- 2018-07-10 15:04:20,506 INFO [main] c.e.d.u.ThreadPool [ThreadPool.java:43] running, threadNum:30
- 2018-07-10 15:04:20,506 INFO [main] c.e.d.u.ThreadPool [ThreadPool.java:43] running, threadNum:30
- 2018-07-10 15:04:20,506 INFO [main] c.e.d.u.ThreadPool [ThreadPool.java:43] running, threadNum:30
- 2018-07-10 15:04:20,506 INFO [main] c.e.d.u.ThreadPool [ThreadPool.java:43] running, threadNum:30
- 2018-07-10 15:04:20,507 INFO [main] c.e.d.u.ThreadPool [ThreadPool.java:43] running, threadNum:30
- 2018-07-10 15:04:20,507 INFO [main] c.e.d.u.ThreadPool [ThreadPool.java:43] running, threadNum:30
- 2018-07-10 15:04:20,507 INFO [main] c.e.d.u.ThreadPool [ThreadPool.java:43] running, threadNum:30
- 2018-07-10 15:04:20,507 INFO [main] c.e.d.u.ThreadPool [ThreadPool.java:43] running, threadNum:30
- 2018-07-10 15:04:20,507 INFO [main] c.e.d.u.ThreadPool [ThreadPool.java:43] running, threadNum:30
- 2018-07-10 15:04:20,507 INFO [main] c.e.d.u.ThreadPool [ThreadPool.java:43] running, threadNum:30
- 2018-07-10 15:04:20,507 INFO [main] c.e.d.u.ThreadPool [ThreadPool.java:43] running, threadNum:30
- 2018-07-10 15:04:20,507 INFO [main] c.e.d.u.ThreadPool [ThreadPool.java:43] running, threadNum:30
- 2018-07-10 15:04:20,508 INFO [main] c.e.d.u.ThreadPool [ThreadPool.java:43] running, threadNum:30
- 2018-07-10 15:04:20,508 INFO [main] c.e.d.u.ThreadPool [ThreadPool.java:43] running, threadNum:30
- 2018-07-10 15:04:20,508 INFO [main] c.e.d.u.ThreadPool [ThreadPool.java:43] running, threadNum:30
- 2018-07-10 15:04:20,508 INFO [main] c.e.d.u.ThreadPool [ThreadPool.java:43] running, threadNum:30
- 2018-07-10 15:04:20,508 INFO [main] c.e.d.u.ThreadPool [ThreadPool.java:43] running, threadNum:30
- 2018-07-10 15:04:20,508 INFO [main] c.e.d.u.ThreadPool [ThreadPool.java:43] running, threadNum:30
- 2018-07-10 15:04:20,508 INFO [main] c.e.d.u.ThreadPool [ThreadPool.java:43] running, threadNum:30
- 2018-07-10 15:04:20,509 INFO [main] c.e.d.u.ThreadPool [ThreadPool.java:43] running, threadNum:30
- 2018-07-10 15:04:20,509 INFO [main] c.e.d.u.ThreadPool [ThreadPool.java:43] running, threadNum:30
- 2018-07-10 15:04:20,509 INFO [main] c.e.d.u.ThreadPool [ThreadPool.java:43] running, threadNum:30
- 2018-07-10 15:04:20,509 INFO [main] c.e.d.u.ThreadPool [ThreadPool.java:43] running, threadNum:30
- 2018-07-10 15:04:20,509 INFO [main] c.e.d.u.ThreadPool [ThreadPool.java:43] running, threadNum:30
- 2018-07-10 15:04:20,509 INFO [main] c.e.d.u.ThreadPool [ThreadPool.java:43] running, threadNum:30
- 2018-07-10 15:04:20,509 INFO [main] c.e.d.u.ThreadPool [ThreadPool.java:43] running, threadNum:30
- 2018-07-10 15:04:20,510 INFO [main] c.e.d.u.ThreadPool [ThreadPool.java:43] running, threadNum:30
- 2018-07-10 15:04:20,510 INFO [main] c.e.d.u.ThreadPool [ThreadPool.java:43] running, threadNum:30
- 2018-07-10 15:04:20,510 INFO [main] c.e.d.u.ThreadPool [ThreadPool.java:43] running, threadNum:30
- 2018-07-10 15:04:20,510 INFO [main] c.e.d.u.ThreadPool [ThreadPool.java:43] running, threadNum:30
- 2018-07-10 15:04:20,510 INFO [main] c.e.d.u.ThreadPool [ThreadPool.java:43] running, threadNum:30
- 2018-07-10 15:04:20,510 INFO [main] c.e.d.u.ThreadPool [ThreadPool.java:43] running, threadNum:30
- 2018-07-10 15:04:20,510 INFO [main] c.e.d.u.ThreadPool [ThreadPool.java:43] running, threadNum:30
- 2018-07-10 15:04:20,511 INFO [main] c.e.d.u.ThreadPool [ThreadPool.java:43] running, threadNum:30
- 2018-07-10 15:04:20,511 INFO [main] c.e.d.u.ThreadPool [ThreadPool.java:43] running, threadNum:30
- 2018-07-10 15:04:20,511 INFO [main] c.e.d.u.ThreadPool [ThreadPool.java:43] running, threadNum:30
- 2018-07-10 15:04:20,511 INFO [main] c.e.d.u.ThreadPool [ThreadPool.java:43] running, threadNum:30
- 2018-07-10 15:04:20,511 INFO [main] c.e.d.u.ThreadPool [ThreadPool.java:43] running, threadNum:30
- 2018-07-10 15:04:20,511 INFO [main] c.e.d.u.ThreadPool [ThreadPool.java:43] running, threadNum:30
- 2018-07-10 15:04:20,511 INFO [main] c.e.d.u.ThreadPool [ThreadPool.java:43] running, threadNum:30
- 2018-07-10 15:04:20,511 INFO [main] c.e.d.u.ThreadPool [ThreadPool.java:43] running, threadNum:30
- 2018-07-10 15:04:20,514 INFO [main] c.e.d.u.ThreadPool [ThreadPool.java:43] running, threadNum:30
- 2018-07-10 15:04:20,514 INFO [main] c.e.d.u.ThreadPool [ThreadPool.java:43] running, threadNum:30
- 2018-07-10 15:04:20,515 INFO [main] c.e.d.u.ThreadPool [ThreadPool.java:43] running, threadNum:30
- 2018-07-10 15:04:20,515 INFO [main] c.e.d.u.ThreadPool [ThreadPool.java:43] running, threadNum:30
- 2018-07-10 15:04:20,515 INFO [main] c.e.d.u.ThreadPool [ThreadPool.java:43] running, threadNum:30
- 2018-07-10 15:04:20,516 INFO [main] c.e.d.u.ThreadPool [ThreadPool.java:43] running, threadNum:30
- 2018-07-10 15:04:20,516 INFO [main] c.e.d.u.ThreadPool [ThreadPool.java:43] running, threadNum:30
- 2018-07-10 15:04:20,517 INFO [main] c.e.d.u.ThreadPool [ThreadPool.java:43] running, threadNum:30
- 2018-07-10 15:04:20,518 INFO [main] c.e.d.u.ThreadPool [ThreadPool.java:43] running, threadNum:30
- 2018-07-10 15:04:20,518 INFO [main] c.e.d.u.ThreadPool [ThreadPool.java:43] running, threadNum:30
- 2018-07-10 15:04:20,518 INFO [main] c.e.d.u.ThreadPool [ThreadPool.java:43] running, threadNum:30
- 2018-07-10 15:04:20,519 INFO [main] c.e.d.u.ThreadPool [ThreadPool.java:43] running, threadNum:30
- 2018-07-10 15:04:20,519 INFO [main] c.e.d.u.ThreadPool [ThreadPool.java:43] running, threadNum:30
- 2018-07-10 15:04:20,519 INFO [main] c.e.d.u.ThreadPool [ThreadPool.java:43] running, threadNum:30
- 2018-07-10 15:04:20,519 INFO [main] c.e.d.u.ThreadPool [ThreadPool.java:43] running, threadNum:30
- 2018-07-10 15:04:20,519 INFO [main] c.e.d.u.ThreadPool [ThreadPool.java:43] running, threadNum:30
- 2018-07-10 15:04:20,520 INFO [main] c.e.d.u.ThreadPool [ThreadPool.java:43] running, threadNum:30
- 2018-07-10 15:04:20,520 INFO [main] c.e.d.u.ThreadPool [ThreadPool.java:43] running, threadNum:30
- 2018-07-10 15:04:20,520 INFO [main] c.e.d.u.ThreadPool [ThreadPool.java:43] running, threadNum:30
- 2018-07-10 15:04:20,520 INFO [main] c.e.d.u.ThreadPool [ThreadPool.java:43] running, threadNum:30
- 2018-07-10 15:04:20,520 INFO [main] c.e.d.u.ThreadPool [ThreadPool.java:43] running, threadNum:30
- 2018-07-10 15:04:20,520 INFO [main] c.e.d.u.ThreadPool [ThreadPool.java:43] running, threadNum:30
- 2018-07-10 15:04:20,521 INFO [main] c.e.d.u.ThreadPool [ThreadPool.java:43] running, threadNum:30
- 2018-07-10 15:04:20,521 INFO [main] c.e.d.u.ThreadPool [ThreadPool.java:43] running, threadNum:30
- 2018-07-10 15:04:20,521 INFO [main] c.e.d.u.ThreadPool [ThreadPool.java:43] running, threadNum:30
- 2018-07-10 15:04:20,521 INFO [main] c.e.d.u.ThreadPool [ThreadPool.java:43] running, threadNum:30
- 2018-07-10 15:04:20,521 INFO [main] c.e.d.u.ThreadPool [ThreadPool.java:43] running, threadNum:30
- 2018-07-10 15:04:20,521 INFO [main] c.e.d.u.ThreadPool [ThreadPool.java:43] running, threadNum:30
- 2018-07-10 15:04:20,521 INFO [main] c.e.d.u.ThreadPool [ThreadPool.java:43] running, threadNum:30
- 2018-07-10 15:04:20,522 INFO [main] c.e.d.u.ThreadPool [ThreadPool.java:43] running, threadNum:30
- 2018-07-10 15:04:20,522 INFO [main] c.e.d.u.ThreadPool [ThreadPool.java:43] running, threadNum:30
- 2018-07-10 15:04:20,522 INFO [main] c.e.d.u.ThreadPool [ThreadPool.java:43] running, threadNum:30
- 2018-07-10 15:04:20,522 INFO [main] c.e.d.u.ThreadPool [ThreadPool.java:43] running, threadNum:30
- 2018-07-10 15:04:20,522 INFO [main] c.e.d.u.ThreadPool [ThreadPool.java:43] running, threadNum:30
- 2018-07-10 15:04:20,522 INFO [main] c.e.d.u.ThreadPool [ThreadPool.java:43] running, threadNum:30
- 2018-07-10 15:04:20,522 INFO [main] c.e.d.u.ThreadPool [ThreadPool.java:43] running, threadNum:30
- 2018-07-10 15:04:20,522 INFO [main] c.e.d.u.ThreadPool [ThreadPool.java:43] running, threadNum:30
- 2018-07-10 15:04:20,522 INFO [main] c.e.d.u.ThreadPool [ThreadPool.java:43] running, threadNum:30
- 2018-07-10 15:04:20,523 INFO [main] c.e.d.u.ThreadPool [ThreadPool.java:43] running, threadNum:30
- 2018-07-10 15:04:20,523 INFO [main] c.e.d.u.ThreadPool [ThreadPool.java:43] running, threadNum:30
- 2018-07-10 15:04:20,523 INFO [main] c.e.d.u.ThreadPool [ThreadPool.java:43] running, threadNum:30
- 2018-07-10 15:04:20,523 INFO [main] c.e.d.u.ThreadPool [ThreadPool.java:43] running, threadNum:30
- 2018-07-10 15:04:20,523 INFO [main] c.e.d.u.ThreadPool [ThreadPool.java:43] running, threadNum:30
- 2018-07-10 15:04:20,523 INFO [main] c.e.d.u.ThreadPool [ThreadPool.java:43] running, threadNum:30
- 2018-07-10 15:04:20,523 INFO [main] c.e.d.u.ThreadPool [ThreadPool.java:43] running, threadNum:30
- 2018-07-10 15:04:20,523 INFO [main] c.e.d.u.ThreadPool [ThreadPool.java:43] running, threadNum:30
- 2018-07-10 15:04:20,523 INFO [main] c.e.d.u.ThreadPool [ThreadPool.java:43] running, threadNum:30
- 2018-07-10 15:04:20,524 INFO [main] c.e.d.u.ThreadPool [ThreadPool.java:43] running, threadNum:30
- 2018-07-10 15:04:20,524 INFO [main] c.e.d.u.ThreadPool [ThreadPool.java:43] running, threadNum:30
- 2018-07-10 15:04:20,524 INFO [main] c.e.d.u.ThreadPool [ThreadPool.java:43] running, threadNum:30
- 2018-07-10 15:04:20,524 INFO [main] c.e.d.u.ThreadPool [ThreadPool.java:43] running, threadNum:30
- 2018-07-10 15:04:20,524 INFO [main] c.e.d.u.ThreadPool [ThreadPool.java:43] running, threadNum:30
- 2018-07-10 15:04:20,524 INFO [main] c.e.d.u.ThreadPool [ThreadPool.java:43] running, threadNum:30
- 2018-07-10 15:04:20,524 INFO [main] c.e.d.u.ThreadPool [ThreadPool.java:43] running, threadNum:30
- 2018-07-10 15:04:20,524 INFO [main] c.e.d.u.ThreadPool [ThreadPool.java:43] running, threadNum:30
- 2018-07-10 15:04:20,524 INFO [main] c.e.d.u.ThreadPool [ThreadPool.java:43] running, threadNum:30
- 2018-07-10 15:04:20,525 INFO [main] c.e.d.u.ThreadPool [ThreadPool.java:43] running, threadNum:30
- 2018-07-10 15:04:20,525 INFO [main] c.e.d.u.ThreadPool [ThreadPool.java:43] running, threadNum:30
- 2018-07-10 15:04:20,525 INFO [main] c.e.d.u.ThreadPool [ThreadPool.java:43] running, threadNum:30
- 2018-07-10 15:04:20,525 INFO [main] c.e.d.u.ThreadPool [ThreadPool.java:43] running, threadNum:30
- 2018-07-10 15:04:20,525 INFO [main] c.e.d.u.ThreadPool [ThreadPool.java:43] running, threadNum:30
- 2018-07-10 15:04:20,525 INFO [main] c.e.d.u.ThreadPool [ThreadPool.java:43] running, threadNum:30
- 2018-07-10 15:04:20,526 INFO [main] c.e.d.u.ThreadPool [ThreadPool.java:43] running, threadNum:30
- 2018-07-10 15:04:20,526 INFO [main] c.e.d.u.ThreadPool [ThreadPool.java:43] running, threadNum:30
- 2018-07-10 15:04:50,527 INFO [main] c.e.d.DemoApplicationTests [DemoApplicationTests.java:34] sum:200,success:1
+ 2020-04-21 08:40:49,691 INFO [main] o.s.b.t.c.SpringBootTestContextBootstrapper [AbstractTestContextBootstrapper.java:319] Neither @ContextConfiguration nor @ContextHierarchy found for test class [com.example.demo.DemoApplicationTests], using SpringBootContextLoader
+ 2020-04-21 08:40:49,728 INFO [main] o.s.t.c.s.AbstractContextLoader [AbstractContextLoader.java:264] Could not detect default resource locations for test class [com.example.demo.DemoApplicationTests]: no resource found for suffixes {-context.xml, Context.groovy}.
+ 2020-04-21 08:40:49,729 INFO [main] o.s.t.c.s.AnnotationConfigContextLoaderUtils [AnnotationConfigContextLoaderUtils.java:81] Could not detect default configuration classes for test class [com.example.demo.DemoApplicationTests]: DemoApplicationTests does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+ 2020-04-21 08:40:57,854 INFO [main] o.s.b.t.c.SpringBootTestContextBootstrapper [SpringBootTestContextBootstrapper.java:206] Found @SpringBootConfiguration com.example.demo.MyApplication for test class com.example.demo.DemoApplicationTests
+ 2020-04-21 08:40:57,862 INFO [main] o.s.b.t.c.SpringBootTestContextBootstrapper [AbstractTestContextBootstrapper.java:260] Loaded default TestExecutionListener class names from location [META-INF/spring.factories]: [org.springframework.boot.test.mock.mockito.MockitoTestExecutionListener, org.springframework.boot.test.mock.mockito.ResetMocksTestExecutionListener, org.springframework.boot.test.autoconfigure.restdocs.RestDocsTestExecutionListener, org.springframework.boot.test.autoconfigure.web.client.MockRestServiceServerResetTestExecutionListener, org.springframework.boot.test.autoconfigure.web.servlet.MockMvcPrintOnlyOnFailureTestExecutionListener, org.springframework.boot.test.autoconfigure.web.servlet.WebDriverTestExecutionListener, org.springframework.test.context.web.ServletTestExecutionListener, org.springframework.test.context.support.DirtiesContextBeforeModesTestExecutionListener, org.springframework.test.context.support.DependencyInjectionTestExecutionListener, org.springframework.test.context.support.DirtiesContextTestExecutionListener, org.springframework.test.context.transaction.TransactionalTestExecutionListener, org.springframework.test.context.jdbc.SqlScriptsTestExecutionListener]
+ 2020-04-21 08:40:57,886 INFO [main] o.s.b.t.c.SpringBootTestContextBootstrapper [AbstractTestContextBootstrapper.java:187] Using TestExecutionListeners: [org.springframework.test.context.web.ServletTestExecutionListener@7a7f2a, org.springframework.test.context.support.DirtiesContextBeforeModesTestExecutionListener@a5b703, org.springframework.boot.test.autoconfigure.SpringBootDependencyInjectionTestExecutionListener@a7ed1f, org.springframework.test.context.support.DirtiesContextTestExecutionListener@1a247d1, org.springframework.test.context.transaction.TransactionalTestExecutionListener@b2fc20, org.springframework.test.context.jdbc.SqlScriptsTestExecutionListener@14c4b1a, org.springframework.boot.test.mock.mockito.ResetMocksTestExecutionListener@3e88f9, org.springframework.boot.test.autoconfigure.web.servlet.WebDriverTestExecutionListener@10fd5a0, org.springframework.boot.test.autoconfigure.web.client.MockRestServiceServerResetTestExecutionListener@e7619d, org.springframework.boot.test.mock.mockito.MockitoTestExecutionListener@15ee280, org.springframework.boot.test.autoconfigure.restdocs.RestDocsTestExecutionListener@1a1c212, org.springframework.boot.test.autoconfigure.web.servlet.MockMvcPrintOnlyOnFailureTestExecutionListener@a2bc93]
+ 2020-04-21 08:40:58,348 INFO [main] c.e.d.DemoApplicationTests [StartupInfoLogger.java:48] Starting DemoApplicationTests on DESKTOP-4UADTF8 with PID 17156 (started by yangx in C:\Users\yangx\IdeaProjects\dailytrain\spring-web)
+ 2020-04-21 08:40:58,348 INFO [main] c.e.d.DemoApplicationTests [SpringApplication.java:593] No active profile set, falling back to default profiles: default
+ 2020-04-21 08:40:58,391 INFO [main] o.s.w.c.s.GenericWebApplicationContext [AbstractApplicationContext.java:583] Refreshing org.springframework.web.context.support.GenericWebApplicationContext@eade6c: startup date [Tue Apr 21 08:40:58 CST 2020]; root of context hierarchy
+ 2020-04-21 08:40:58,735 INFO [background-preinit] o.h.v.i.u.Version [Version.java:30] HV000001: Hibernate Validator 5.3.5.Final
+ 2020-04-21 08:40:59,331 INFO [main] o.s.d.r.c.RepositoryConfigurationDelegate [RepositoryConfigurationDelegate.java:165] Multiple Spring Data modules found, entering strict repository configuration mode!
+ 2020-04-21 08:40:59,886 INFO [main] o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker [PostProcessorRegistrationDelegate.java:325] Bean 'org.springframework.amqp.rabbit.annotation.RabbitBootstrapConfiguration' of type [org.springframework.amqp.rabbit.annotation.RabbitBootstrapConfiguration$$EnhancerBySpringCGLIB$$5cfcb0b3] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+ 2020-04-21 08:41:00,867 WARN [main] o.s.w.c.s.GenericWebApplicationContext [AbstractApplicationContext.java:551] Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'serverEndpointExporter' defined in class path resource [com/example/demo/config/WebSocketConfig.class]: Invocation of init method failed; nested exception is java.lang.IllegalStateException: javax.websocket.server.ServerContainer not available
+ 2020-04-21 08:41:00,902 INFO [main] o.s.b.a.l.AutoConfigurationReportLoggingInitializer [AutoConfigurationReportLoggingInitializer.java:101] 
+
+Error starting ApplicationContext. To display the auto-configuration report re-run your application with 'debug' enabled.
+ 2020-04-21 08:41:00,940 ERROR [main] o.s.b.SpringApplication [SpringApplication.java:771] Application startup failed
+org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'serverEndpointExporter' defined in class path resource [com/example/demo/config/WebSocketConfig.class]: Invocation of init method failed; nested exception is java.lang.IllegalStateException: javax.websocket.server.ServerContainer not available
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.initializeBean(AbstractAutowireCapableBeanFactory.java:1628)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:555)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:483)
+	at org.springframework.beans.factory.support.AbstractBeanFactory$1.getObject(AbstractBeanFactory.java:306)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:230)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:302)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:197)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons(DefaultListableBeanFactory.java:761)
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:867)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:543)
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:693)
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:360)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:303)
+	at org.springframework.boot.test.context.SpringBootContextLoader.loadContext(SpringBootContextLoader.java:120)
+	at org.springframework.test.context.cache.DefaultCacheAwareContextLoaderDelegate.loadContextInternal(DefaultCacheAwareContextLoaderDelegate.java:98)
+	at org.springframework.test.context.cache.DefaultCacheAwareContextLoaderDelegate.loadContext(DefaultCacheAwareContextLoaderDelegate.java:116)
+	at org.springframework.test.context.support.DefaultTestContext.getApplicationContext(DefaultTestContext.java:83)
+	at org.springframework.test.context.web.ServletTestExecutionListener.setUpRequestContextIfNecessary(ServletTestExecutionListener.java:189)
+	at org.springframework.test.context.web.ServletTestExecutionListener.prepareTestInstance(ServletTestExecutionListener.java:131)
+	at org.springframework.test.context.TestContextManager.prepareTestInstance(TestContextManager.java:230)
+	at org.springframework.test.context.junit4.SpringJUnit4ClassRunner.createTest(SpringJUnit4ClassRunner.java:228)
+	at org.springframework.test.context.junit4.SpringJUnit4ClassRunner$1.runReflectiveCall(SpringJUnit4ClassRunner.java:287)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.springframework.test.context.junit4.SpringJUnit4ClassRunner.methodBlock(SpringJUnit4ClassRunner.java:289)
+	at org.springframework.test.context.junit4.SpringJUnit4ClassRunner.runChild(SpringJUnit4ClassRunner.java:247)
+	at org.springframework.test.context.junit4.SpringJUnit4ClassRunner.runChild(SpringJUnit4ClassRunner.java:94)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)
+	at org.springframework.test.context.junit4.statements.RunBeforeTestClassCallbacks.evaluate(RunBeforeTestClassCallbacks.java:61)
+	at org.springframework.test.context.junit4.statements.RunAfterTestClassCallbacks.evaluate(RunAfterTestClassCallbacks.java:70)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363)
+	at org.springframework.test.context.junit4.SpringJUnit4ClassRunner.run(SpringJUnit4ClassRunner.java:191)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:137)
+	at com.intellij.junit4.JUnit4IdeaTestRunner.startRunnerWithArgs(JUnit4IdeaTestRunner.java:68)
+	at com.intellij.rt.execution.junit.IdeaTestRunner$Repeater.startRunnerWithArgs(IdeaTestRunner.java:47)
+	at com.intellij.rt.execution.junit.JUnitStarter.prepareStreamsAndStart(JUnitStarter.java:242)
+	at com.intellij.rt.execution.junit.JUnitStarter.main(JUnitStarter.java:70)
+Caused by: java.lang.IllegalStateException: javax.websocket.server.ServerContainer not available
+	at org.springframework.util.Assert.state(Assert.java:70)
+	at org.springframework.web.socket.server.standard.ServerEndpointExporter.afterPropertiesSet(ServerEndpointExporter.java:102)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.invokeInitMethods(AbstractAutowireCapableBeanFactory.java:1687)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.initializeBean(AbstractAutowireCapableBeanFactory.java:1624)
+	... 39 common frames omitted
+ 2020-04-21 08:41:00,953 ERROR [main] o.s.t.c.TestContextManager [TestContextManager.java:234] Caught exception while allowing TestExecutionListener [org.springframework.test.context.web.ServletTestExecutionListener@7a7f2a] to prepare test instance [com.example.demo.DemoApplicationTests@1e0a27d]
+java.lang.IllegalStateException: Failed to load ApplicationContext
+	at org.springframework.test.context.cache.DefaultCacheAwareContextLoaderDelegate.loadContext(DefaultCacheAwareContextLoaderDelegate.java:124)
+	at org.springframework.test.context.support.DefaultTestContext.getApplicationContext(DefaultTestContext.java:83)
+	at org.springframework.test.context.web.ServletTestExecutionListener.setUpRequestContextIfNecessary(ServletTestExecutionListener.java:189)
+	at org.springframework.test.context.web.ServletTestExecutionListener.prepareTestInstance(ServletTestExecutionListener.java:131)
+	at org.springframework.test.context.TestContextManager.prepareTestInstance(TestContextManager.java:230)
+	at org.springframework.test.context.junit4.SpringJUnit4ClassRunner.createTest(SpringJUnit4ClassRunner.java:228)
+	at org.springframework.test.context.junit4.SpringJUnit4ClassRunner$1.runReflectiveCall(SpringJUnit4ClassRunner.java:287)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.springframework.test.context.junit4.SpringJUnit4ClassRunner.methodBlock(SpringJUnit4ClassRunner.java:289)
+	at org.springframework.test.context.junit4.SpringJUnit4ClassRunner.runChild(SpringJUnit4ClassRunner.java:247)
+	at org.springframework.test.context.junit4.SpringJUnit4ClassRunner.runChild(SpringJUnit4ClassRunner.java:94)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)
+	at org.springframework.test.context.junit4.statements.RunBeforeTestClassCallbacks.evaluate(RunBeforeTestClassCallbacks.java:61)
+	at org.springframework.test.context.junit4.statements.RunAfterTestClassCallbacks.evaluate(RunAfterTestClassCallbacks.java:70)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363)
+	at org.springframework.test.context.junit4.SpringJUnit4ClassRunner.run(SpringJUnit4ClassRunner.java:191)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:137)
+	at com.intellij.junit4.JUnit4IdeaTestRunner.startRunnerWithArgs(JUnit4IdeaTestRunner.java:68)
+	at com.intellij.rt.execution.junit.IdeaTestRunner$Repeater.startRunnerWithArgs(IdeaTestRunner.java:47)
+	at com.intellij.rt.execution.junit.JUnitStarter.prepareStreamsAndStart(JUnitStarter.java:242)
+	at com.intellij.rt.execution.junit.JUnitStarter.main(JUnitStarter.java:70)
+Caused by: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'serverEndpointExporter' defined in class path resource [com/example/demo/config/WebSocketConfig.class]: Invocation of init method failed; nested exception is java.lang.IllegalStateException: javax.websocket.server.ServerContainer not available
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.initializeBean(AbstractAutowireCapableBeanFactory.java:1628)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:555)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:483)
+	at org.springframework.beans.factory.support.AbstractBeanFactory$1.getObject(AbstractBeanFactory.java:306)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:230)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:302)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:197)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons(DefaultListableBeanFactory.java:761)
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:867)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:543)
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:693)
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:360)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:303)
+	at org.springframework.boot.test.context.SpringBootContextLoader.loadContext(SpringBootContextLoader.java:120)
+	at org.springframework.test.context.cache.DefaultCacheAwareContextLoaderDelegate.loadContextInternal(DefaultCacheAwareContextLoaderDelegate.java:98)
+	at org.springframework.test.context.cache.DefaultCacheAwareContextLoaderDelegate.loadContext(DefaultCacheAwareContextLoaderDelegate.java:116)
+	... 24 common frames omitted
+Caused by: java.lang.IllegalStateException: javax.websocket.server.ServerContainer not available
+	at org.springframework.util.Assert.state(Assert.java:70)
+	at org.springframework.web.socket.server.standard.ServerEndpointExporter.afterPropertiesSet(ServerEndpointExporter.java:102)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.invokeInitMethods(AbstractAutowireCapableBeanFactory.java:1687)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.initializeBean(AbstractAutowireCapableBeanFactory.java:1624)
+	... 39 common frames omitted
+ 2020-04-21 08:44:37,052 INFO [main] o.s.b.t.c.SpringBootTestContextBootstrapper [AbstractTestContextBootstrapper.java:319] Neither @ContextConfiguration nor @ContextHierarchy found for test class [com.example.demo.DemoApplicationTests], using SpringBootContextLoader
+ 2020-04-21 08:44:37,062 INFO [main] o.s.t.c.s.AbstractContextLoader [AbstractContextLoader.java:264] Could not detect default resource locations for test class [com.example.demo.DemoApplicationTests]: no resource found for suffixes {-context.xml, Context.groovy}.
+ 2020-04-21 08:44:37,063 INFO [main] o.s.t.c.s.AnnotationConfigContextLoaderUtils [AnnotationConfigContextLoaderUtils.java:81] Could not detect default configuration classes for test class [com.example.demo.DemoApplicationTests]: DemoApplicationTests does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+ 2020-04-21 08:44:37,195 INFO [main] o.s.b.t.c.SpringBootTestContextBootstrapper [SpringBootTestContextBootstrapper.java:206] Found @SpringBootConfiguration com.example.demo.MyApplication for test class com.example.demo.DemoApplicationTests
+ 2020-04-21 08:44:37,202 INFO [main] o.s.b.t.c.SpringBootTestContextBootstrapper [AbstractTestContextBootstrapper.java:260] Loaded default TestExecutionListener class names from location [META-INF/spring.factories]: [org.springframework.boot.test.mock.mockito.MockitoTestExecutionListener, org.springframework.boot.test.mock.mockito.ResetMocksTestExecutionListener, org.springframework.boot.test.autoconfigure.restdocs.RestDocsTestExecutionListener, org.springframework.boot.test.autoconfigure.web.client.MockRestServiceServerResetTestExecutionListener, org.springframework.boot.test.autoconfigure.web.servlet.MockMvcPrintOnlyOnFailureTestExecutionListener, org.springframework.boot.test.autoconfigure.web.servlet.WebDriverTestExecutionListener, org.springframework.test.context.web.ServletTestExecutionListener, org.springframework.test.context.support.DirtiesContextBeforeModesTestExecutionListener, org.springframework.test.context.support.DependencyInjectionTestExecutionListener, org.springframework.test.context.support.DirtiesContextTestExecutionListener, org.springframework.test.context.transaction.TransactionalTestExecutionListener, org.springframework.test.context.jdbc.SqlScriptsTestExecutionListener]
+ 2020-04-21 08:44:37,227 INFO [main] o.s.b.t.c.SpringBootTestContextBootstrapper [AbstractTestContextBootstrapper.java:187] Using TestExecutionListeners: [org.springframework.test.context.web.ServletTestExecutionListener@10d80ed, org.springframework.test.context.support.DirtiesContextBeforeModesTestExecutionListener@18e8894, org.springframework.boot.test.autoconfigure.SpringBootDependencyInjectionTestExecutionListener@fdd820, org.springframework.test.context.support.DirtiesContextTestExecutionListener@128763c, org.springframework.test.context.transaction.TransactionalTestExecutionListener@25951c, org.springframework.test.context.jdbc.SqlScriptsTestExecutionListener@1f47664, org.springframework.boot.test.autoconfigure.web.servlet.MockMvcPrintOnlyOnFailureTestExecutionListener@11a9022, org.springframework.boot.test.autoconfigure.web.servlet.WebDriverTestExecutionListener@1c9876b, org.springframework.boot.test.mock.mockito.ResetMocksTestExecutionListener@1666ebb, org.springframework.boot.test.mock.mockito.MockitoTestExecutionListener@1976a65, org.springframework.boot.test.autoconfigure.restdocs.RestDocsTestExecutionListener@1f72f5, org.springframework.boot.test.autoconfigure.web.client.MockRestServiceServerResetTestExecutionListener@12c5e02]
+ 2020-04-21 08:44:37,635 INFO [main] c.e.d.DemoApplicationTests [StartupInfoLogger.java:48] Starting DemoApplicationTests on DESKTOP-4UADTF8 with PID 11260 (started by yangx in C:\Users\yangx\IdeaProjects\dailytrain\spring-web)
+ 2020-04-21 08:44:37,636 INFO [main] c.e.d.DemoApplicationTests [SpringApplication.java:593] No active profile set, falling back to default profiles: default
+ 2020-04-21 08:44:37,656 INFO [main] o.s.w.c.s.GenericWebApplicationContext [AbstractApplicationContext.java:583] Refreshing org.springframework.web.context.support.GenericWebApplicationContext@12c0e88: startup date [Tue Apr 21 08:44:37 CST 2020]; root of context hierarchy
+ 2020-04-21 08:44:37,943 INFO [background-preinit] o.h.v.i.u.Version [Version.java:30] HV000001: Hibernate Validator 5.3.5.Final
+ 2020-04-21 08:44:38,536 INFO [main] o.s.d.r.c.RepositoryConfigurationDelegate [RepositoryConfigurationDelegate.java:165] Multiple Spring Data modules found, entering strict repository configuration mode!
+ 2020-04-21 08:44:39,098 INFO [main] o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker [PostProcessorRegistrationDelegate.java:325] Bean 'org.springframework.amqp.rabbit.annotation.RabbitBootstrapConfiguration' of type [org.springframework.amqp.rabbit.annotation.RabbitBootstrapConfiguration$$EnhancerBySpringCGLIB$$6ec3e124] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+ 2020-04-21 08:44:40,025 WARN [main] o.s.w.c.s.GenericWebApplicationContext [AbstractApplicationContext.java:551] Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'serverEndpointExporter' defined in class path resource [com/example/demo/config/WebSocketConfig.class]: Invocation of init method failed; nested exception is java.lang.IllegalStateException: javax.websocket.server.ServerContainer not available
+ 2020-04-21 08:44:40,057 INFO [main] o.s.b.a.l.AutoConfigurationReportLoggingInitializer [AutoConfigurationReportLoggingInitializer.java:101] 
+
+Error starting ApplicationContext. To display the auto-configuration report re-run your application with 'debug' enabled.
+ 2020-04-21 08:44:40,088 ERROR [main] o.s.b.SpringApplication [SpringApplication.java:771] Application startup failed
+org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'serverEndpointExporter' defined in class path resource [com/example/demo/config/WebSocketConfig.class]: Invocation of init method failed; nested exception is java.lang.IllegalStateException: javax.websocket.server.ServerContainer not available
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.initializeBean(AbstractAutowireCapableBeanFactory.java:1628)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:555)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:483)
+	at org.springframework.beans.factory.support.AbstractBeanFactory$1.getObject(AbstractBeanFactory.java:306)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:230)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:302)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:197)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons(DefaultListableBeanFactory.java:761)
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:867)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:543)
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:693)
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:360)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:303)
+	at org.springframework.boot.test.context.SpringBootContextLoader.loadContext(SpringBootContextLoader.java:120)
+	at org.springframework.test.context.cache.DefaultCacheAwareContextLoaderDelegate.loadContextInternal(DefaultCacheAwareContextLoaderDelegate.java:98)
+	at org.springframework.test.context.cache.DefaultCacheAwareContextLoaderDelegate.loadContext(DefaultCacheAwareContextLoaderDelegate.java:116)
+	at org.springframework.test.context.support.DefaultTestContext.getApplicationContext(DefaultTestContext.java:83)
+	at org.springframework.test.context.web.ServletTestExecutionListener.setUpRequestContextIfNecessary(ServletTestExecutionListener.java:189)
+	at org.springframework.test.context.web.ServletTestExecutionListener.prepareTestInstance(ServletTestExecutionListener.java:131)
+	at org.springframework.test.context.TestContextManager.prepareTestInstance(TestContextManager.java:230)
+	at org.springframework.test.context.junit4.SpringJUnit4ClassRunner.createTest(SpringJUnit4ClassRunner.java:228)
+	at org.springframework.test.context.junit4.SpringJUnit4ClassRunner$1.runReflectiveCall(SpringJUnit4ClassRunner.java:287)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.springframework.test.context.junit4.SpringJUnit4ClassRunner.methodBlock(SpringJUnit4ClassRunner.java:289)
+	at org.springframework.test.context.junit4.SpringJUnit4ClassRunner.runChild(SpringJUnit4ClassRunner.java:247)
+	at org.springframework.test.context.junit4.SpringJUnit4ClassRunner.runChild(SpringJUnit4ClassRunner.java:94)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)
+	at org.springframework.test.context.junit4.statements.RunBeforeTestClassCallbacks.evaluate(RunBeforeTestClassCallbacks.java:61)
+	at org.springframework.test.context.junit4.statements.RunAfterTestClassCallbacks.evaluate(RunAfterTestClassCallbacks.java:70)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363)
+	at org.springframework.test.context.junit4.SpringJUnit4ClassRunner.run(SpringJUnit4ClassRunner.java:191)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:137)
+	at com.intellij.junit4.JUnit4IdeaTestRunner.startRunnerWithArgs(JUnit4IdeaTestRunner.java:68)
+	at com.intellij.rt.execution.junit.IdeaTestRunner$Repeater.startRunnerWithArgs(IdeaTestRunner.java:47)
+	at com.intellij.rt.execution.junit.JUnitStarter.prepareStreamsAndStart(JUnitStarter.java:242)
+	at com.intellij.rt.execution.junit.JUnitStarter.main(JUnitStarter.java:70)
+Caused by: java.lang.IllegalStateException: javax.websocket.server.ServerContainer not available
+	at org.springframework.util.Assert.state(Assert.java:70)
+	at org.springframework.web.socket.server.standard.ServerEndpointExporter.afterPropertiesSet(ServerEndpointExporter.java:102)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.invokeInitMethods(AbstractAutowireCapableBeanFactory.java:1687)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.initializeBean(AbstractAutowireCapableBeanFactory.java:1624)
+	... 39 common frames omitted
+ 2020-04-21 08:44:40,099 ERROR [main] o.s.t.c.TestContextManager [TestContextManager.java:234] Caught exception while allowing TestExecutionListener [org.springframework.test.context.web.ServletTestExecutionListener@10d80ed] to prepare test instance [com.example.demo.DemoApplicationTests@14e6a90]
+java.lang.IllegalStateException: Failed to load ApplicationContext
+	at org.springframework.test.context.cache.DefaultCacheAwareContextLoaderDelegate.loadContext(DefaultCacheAwareContextLoaderDelegate.java:124)
+	at org.springframework.test.context.support.DefaultTestContext.getApplicationContext(DefaultTestContext.java:83)
+	at org.springframework.test.context.web.ServletTestExecutionListener.setUpRequestContextIfNecessary(ServletTestExecutionListener.java:189)
+	at org.springframework.test.context.web.ServletTestExecutionListener.prepareTestInstance(ServletTestExecutionListener.java:131)
+	at org.springframework.test.context.TestContextManager.prepareTestInstance(TestContextManager.java:230)
+	at org.springframework.test.context.junit4.SpringJUnit4ClassRunner.createTest(SpringJUnit4ClassRunner.java:228)
+	at org.springframework.test.context.junit4.SpringJUnit4ClassRunner$1.runReflectiveCall(SpringJUnit4ClassRunner.java:287)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.springframework.test.context.junit4.SpringJUnit4ClassRunner.methodBlock(SpringJUnit4ClassRunner.java:289)
+	at org.springframework.test.context.junit4.SpringJUnit4ClassRunner.runChild(SpringJUnit4ClassRunner.java:247)
+	at org.springframework.test.context.junit4.SpringJUnit4ClassRunner.runChild(SpringJUnit4ClassRunner.java:94)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)
+	at org.springframework.test.context.junit4.statements.RunBeforeTestClassCallbacks.evaluate(RunBeforeTestClassCallbacks.java:61)
+	at org.springframework.test.context.junit4.statements.RunAfterTestClassCallbacks.evaluate(RunAfterTestClassCallbacks.java:70)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363)
+	at org.springframework.test.context.junit4.SpringJUnit4ClassRunner.run(SpringJUnit4ClassRunner.java:191)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:137)
+	at com.intellij.junit4.JUnit4IdeaTestRunner.startRunnerWithArgs(JUnit4IdeaTestRunner.java:68)
+	at com.intellij.rt.execution.junit.IdeaTestRunner$Repeater.startRunnerWithArgs(IdeaTestRunner.java:47)
+	at com.intellij.rt.execution.junit.JUnitStarter.prepareStreamsAndStart(JUnitStarter.java:242)
+	at com.intellij.rt.execution.junit.JUnitStarter.main(JUnitStarter.java:70)
+Caused by: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'serverEndpointExporter' defined in class path resource [com/example/demo/config/WebSocketConfig.class]: Invocation of init method failed; nested exception is java.lang.IllegalStateException: javax.websocket.server.ServerContainer not available
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.initializeBean(AbstractAutowireCapableBeanFactory.java:1628)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:555)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:483)
+	at org.springframework.beans.factory.support.AbstractBeanFactory$1.getObject(AbstractBeanFactory.java:306)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:230)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:302)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:197)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons(DefaultListableBeanFactory.java:761)
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:867)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:543)
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:693)
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:360)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:303)
+	at org.springframework.boot.test.context.SpringBootContextLoader.loadContext(SpringBootContextLoader.java:120)
+	at org.springframework.test.context.cache.DefaultCacheAwareContextLoaderDelegate.loadContextInternal(DefaultCacheAwareContextLoaderDelegate.java:98)
+	at org.springframework.test.context.cache.DefaultCacheAwareContextLoaderDelegate.loadContext(DefaultCacheAwareContextLoaderDelegate.java:116)
+	... 24 common frames omitted
+Caused by: java.lang.IllegalStateException: javax.websocket.server.ServerContainer not available
+	at org.springframework.util.Assert.state(Assert.java:70)
+	at org.springframework.web.socket.server.standard.ServerEndpointExporter.afterPropertiesSet(ServerEndpointExporter.java:102)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.invokeInitMethods(AbstractAutowireCapableBeanFactory.java:1687)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.initializeBean(AbstractAutowireCapableBeanFactory.java:1624)
+	... 39 common frames omitted
+ 2020-04-21 08:45:09,127 INFO [main] o.s.b.t.c.SpringBootTestContextBootstrapper [AbstractTestContextBootstrapper.java:319] Neither @ContextConfiguration nor @ContextHierarchy found for test class [com.example.demo.DemoApplicationTests], using SpringBootContextLoader
+ 2020-04-21 08:45:09,135 INFO [main] o.s.t.c.s.AbstractContextLoader [AbstractContextLoader.java:264] Could not detect default resource locations for test class [com.example.demo.DemoApplicationTests]: no resource found for suffixes {-context.xml, Context.groovy}.
+ 2020-04-21 08:45:09,136 INFO [main] o.s.t.c.s.AnnotationConfigContextLoaderUtils [AnnotationConfigContextLoaderUtils.java:81] Could not detect default configuration classes for test class [com.example.demo.DemoApplicationTests]: DemoApplicationTests does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+ 2020-04-21 08:45:09,264 INFO [main] o.s.b.t.c.SpringBootTestContextBootstrapper [SpringBootTestContextBootstrapper.java:206] Found @SpringBootConfiguration com.example.demo.MyApplication for test class com.example.demo.DemoApplicationTests
+ 2020-04-21 08:45:09,271 INFO [main] o.s.b.t.c.SpringBootTestContextBootstrapper [AbstractTestContextBootstrapper.java:260] Loaded default TestExecutionListener class names from location [META-INF/spring.factories]: [org.springframework.boot.test.mock.mockito.MockitoTestExecutionListener, org.springframework.boot.test.mock.mockito.ResetMocksTestExecutionListener, org.springframework.boot.test.autoconfigure.restdocs.RestDocsTestExecutionListener, org.springframework.boot.test.autoconfigure.web.client.MockRestServiceServerResetTestExecutionListener, org.springframework.boot.test.autoconfigure.web.servlet.MockMvcPrintOnlyOnFailureTestExecutionListener, org.springframework.boot.test.autoconfigure.web.servlet.WebDriverTestExecutionListener, org.springframework.test.context.web.ServletTestExecutionListener, org.springframework.test.context.support.DirtiesContextBeforeModesTestExecutionListener, org.springframework.test.context.support.DependencyInjectionTestExecutionListener, org.springframework.test.context.support.DirtiesContextTestExecutionListener, org.springframework.test.context.transaction.TransactionalTestExecutionListener, org.springframework.test.context.jdbc.SqlScriptsTestExecutionListener]
+ 2020-04-21 08:45:09,295 INFO [main] o.s.b.t.c.SpringBootTestContextBootstrapper [AbstractTestContextBootstrapper.java:187] Using TestExecutionListeners: [org.springframework.test.context.web.ServletTestExecutionListener@13529a, org.springframework.test.context.support.DirtiesContextBeforeModesTestExecutionListener@c9bd38, org.springframework.boot.test.autoconfigure.SpringBootDependencyInjectionTestExecutionListener@12e19ca, org.springframework.test.context.support.DirtiesContextTestExecutionListener@10d80ed, org.springframework.test.context.transaction.TransactionalTestExecutionListener@18e8894, org.springframework.test.context.jdbc.SqlScriptsTestExecutionListener@fdd820, org.springframework.boot.test.mock.mockito.ResetMocksTestExecutionListener@128763c, org.springframework.boot.test.autoconfigure.web.client.MockRestServiceServerResetTestExecutionListener@25951c, org.springframework.boot.test.autoconfigure.restdocs.RestDocsTestExecutionListener@1f47664, org.springframework.boot.test.autoconfigure.web.servlet.MockMvcPrintOnlyOnFailureTestExecutionListener@11a9022, org.springframework.boot.test.mock.mockito.MockitoTestExecutionListener@1c9876b, org.springframework.boot.test.autoconfigure.web.servlet.WebDriverTestExecutionListener@1666ebb]
+ 2020-04-21 08:45:09,681 INFO [main] c.e.d.DemoApplicationTests [StartupInfoLogger.java:48] Starting DemoApplicationTests on DESKTOP-4UADTF8 with PID 16812 (started by yangx in C:\Users\yangx\IdeaProjects\dailytrain\spring-web)
+ 2020-04-21 08:45:09,682 INFO [main] c.e.d.DemoApplicationTests [SpringApplication.java:593] No active profile set, falling back to default profiles: default
+ 2020-04-21 08:45:09,699 INFO [main] o.s.w.c.s.GenericWebApplicationContext [AbstractApplicationContext.java:583] Refreshing org.springframework.web.context.support.GenericWebApplicationContext@12c0e88: startup date [Tue Apr 21 08:45:09 CST 2020]; root of context hierarchy
+ 2020-04-21 08:45:09,991 INFO [background-preinit] o.h.v.i.u.Version [Version.java:30] HV000001: Hibernate Validator 5.3.5.Final
+ 2020-04-21 08:45:10,585 INFO [main] o.s.d.r.c.RepositoryConfigurationDelegate [RepositoryConfigurationDelegate.java:165] Multiple Spring Data modules found, entering strict repository configuration mode!
+ 2020-04-21 08:45:11,146 INFO [main] o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker [PostProcessorRegistrationDelegate.java:325] Bean 'org.springframework.amqp.rabbit.annotation.RabbitBootstrapConfiguration' of type [org.springframework.amqp.rabbit.annotation.RabbitBootstrapConfiguration$$EnhancerBySpringCGLIB$$41237d90] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+ 2020-04-21 08:45:14,646 INFO [main] o.s.w.s.m.m.a.RequestMappingHandlerAdapter [RequestMappingHandlerAdapter.java:534] Looking for @ControllerAdvice: org.springframework.web.context.support.GenericWebApplicationContext@12c0e88: startup date [Tue Apr 21 08:45:09 CST 2020]; root of context hierarchy
+ 2020-04-21 08:45:14,673 INFO [main] o.s.w.s.m.m.a.RequestMappingHandlerAdapter [RequestMappingHandlerAdapter.java:547] Detected @ModelAttribute methods in globalController
+ 2020-04-21 08:45:15,226 INFO [main] o.s.w.s.m.m.a.RequestMappingHandlerMapping [AbstractHandlerMethodMapping.java:543] Mapped "{[/a/get],methods=[GET]}" onto public java.lang.String com.example.demo.controller.ControllerA.getParam(com.example.demo.dto.User)
+ 2020-04-21 08:45:15,232 INFO [main] o.s.w.s.m.m.a.RequestMappingHandlerMapping [AbstractHandlerMethodMapping.java:543] Mapped "{[/a/health],methods=[GET]}" onto public java.lang.String com.example.demo.controller.ControllerA.heath()
+ 2020-04-21 08:45:15,233 INFO [main] o.s.w.s.m.m.a.RequestMappingHandlerMapping [AbstractHandlerMethodMapping.java:543] Mapped "{[/a/user],methods=[POST]}" onto public java.lang.String com.example.demo.controller.ControllerA.getUser(com.example.demo.dto.User,org.springframework.ui.Model)
+ 2020-04-21 08:45:15,233 INFO [main] o.s.w.s.m.m.a.RequestMappingHandlerMapping [AbstractHandlerMethodMapping.java:543] Mapped "{[/a/user/job],methods=[POST]}" onto public java.lang.String com.example.demo.controller.ControllerA.getUserAndJob(com.example.demo.dto.User,org.springframework.ui.Model)
+ 2020-04-21 08:45:15,234 INFO [main] o.s.w.s.m.m.a.RequestMappingHandlerMapping [AbstractHandlerMethodMapping.java:543] Mapped "{[/rabbit/send],methods=[POST]}" onto public java.lang.String com.example.demo.controller.ControllerB.sendAndReceive(java.lang.String)
+ 2020-04-21 08:45:15,236 INFO [main] o.s.w.s.m.m.a.RequestMappingHandlerMapping [AbstractHandlerMethodMapping.java:543] Mapped "{[/send/{id}/{message}],methods=[GET]}" onto public java.lang.String com.example.demo.controller.ControllerC.sendMessage(java.lang.String,java.lang.String) throws java.io.IOException
+ 2020-04-21 08:45:15,237 INFO [main] o.s.w.s.m.m.a.RequestMappingHandlerMapping [AbstractHandlerMethodMapping.java:543] Mapped "{[/export/excel],methods=[GET]}" onto public void com.example.demo.controller.ControllerFile.exportFile(javax.servlet.http.HttpServletResponse)
+ 2020-04-21 08:45:15,240 INFO [main] o.s.w.s.m.m.a.RequestMappingHandlerMapping [AbstractHandlerMethodMapping.java:543] Mapped "{[/error]}" onto public org.springframework.http.ResponseEntity<java.util.Map<java.lang.String, java.lang.Object>> org.springframework.boot.autoconfigure.web.BasicErrorController.error(javax.servlet.http.HttpServletRequest)
+ 2020-04-21 08:45:15,241 INFO [main] o.s.w.s.m.m.a.RequestMappingHandlerMapping [AbstractHandlerMethodMapping.java:543] Mapped "{[/error],produces=[text/html]}" onto public org.springframework.web.servlet.ModelAndView org.springframework.boot.autoconfigure.web.BasicErrorController.errorHtml(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse)
+ 2020-04-21 08:45:15,385 INFO [main] o.s.w.s.h.SimpleUrlHandlerMapping [AbstractUrlHandlerMapping.java:362] Mapped URL path [/webjars/**] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+ 2020-04-21 08:45:15,385 INFO [main] o.s.w.s.h.SimpleUrlHandlerMapping [AbstractUrlHandlerMapping.java:362] Mapped URL path [/**] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+ 2020-04-21 08:45:15,475 INFO [main] o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver [ExceptionHandlerExceptionResolver.java:273] Detected @ExceptionHandler methods in globalController
+ 2020-04-21 08:45:15,617 INFO [main] o.s.w.s.h.SimpleUrlHandlerMapping [AbstractUrlHandlerMapping.java:362] Mapped URL path [/**/favicon.ico] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+ 2020-04-21 08:45:16,870 INFO [main] o.s.b.a.e.m.EndpointHandlerMapping [AbstractHandlerMethodMapping.java:543] Mapped "{[/auditevents || /auditevents.json],methods=[GET],produces=[application/vnd.spring-boot.actuator.v1+json || application/json]}" onto public org.springframework.http.ResponseEntity<?> org.springframework.boot.actuate.endpoint.mvc.AuditEventsMvcEndpoint.findByPrincipalAndAfterAndType(java.lang.String,java.util.Date,java.lang.String)
+ 2020-04-21 08:45:16,872 INFO [main] o.s.b.a.e.m.EndpointHandlerMapping [AbstractHandlerMethodMapping.java:543] Mapped "{[/trace || /trace.json],methods=[GET],produces=[application/vnd.spring-boot.actuator.v1+json || application/json]}" onto public java.lang.Object org.springframework.boot.actuate.endpoint.mvc.EndpointMvcAdapter.invoke()
+ 2020-04-21 08:45:16,873 INFO [main] o.s.b.a.e.m.EndpointHandlerMapping [AbstractHandlerMethodMapping.java:543] Mapped "{[/dump || /dump.json],methods=[GET],produces=[application/vnd.spring-boot.actuator.v1+json || application/json]}" onto public java.lang.Object org.springframework.boot.actuate.endpoint.mvc.EndpointMvcAdapter.invoke()
+ 2020-04-21 08:45:16,873 INFO [main] o.s.b.a.e.m.EndpointHandlerMapping [AbstractHandlerMethodMapping.java:543] Mapped "{[/mappings || /mappings.json],methods=[GET],produces=[application/vnd.spring-boot.actuator.v1+json || application/json]}" onto public java.lang.Object org.springframework.boot.actuate.endpoint.mvc.EndpointMvcAdapter.invoke()
+ 2020-04-21 08:45:16,874 INFO [main] o.s.b.a.e.m.EndpointHandlerMapping [AbstractHandlerMethodMapping.java:543] Mapped "{[/configprops || /configprops.json],methods=[GET],produces=[application/vnd.spring-boot.actuator.v1+json || application/json]}" onto public java.lang.Object org.springframework.boot.actuate.endpoint.mvc.EndpointMvcAdapter.invoke()
+ 2020-04-21 08:45:16,874 INFO [main] o.s.b.a.e.m.EndpointHandlerMapping [AbstractHandlerMethodMapping.java:543] Mapped "{[/info || /info.json],methods=[GET],produces=[application/vnd.spring-boot.actuator.v1+json || application/json]}" onto public java.lang.Object org.springframework.boot.actuate.endpoint.mvc.EndpointMvcAdapter.invoke()
+ 2020-04-21 08:45:16,875 INFO [main] o.s.b.a.e.m.EndpointHandlerMapping [AbstractHandlerMethodMapping.java:543] Mapped "{[/autoconfig || /autoconfig.json],methods=[GET],produces=[application/vnd.spring-boot.actuator.v1+json || application/json]}" onto public java.lang.Object org.springframework.boot.actuate.endpoint.mvc.EndpointMvcAdapter.invoke()
+ 2020-04-21 08:45:16,878 INFO [main] o.s.b.a.e.m.EndpointHandlerMapping [AbstractHandlerMethodMapping.java:543] Mapped "{[/heapdump || /heapdump.json],methods=[GET],produces=[application/octet-stream]}" onto public void org.springframework.boot.actuate.endpoint.mvc.HeapdumpMvcEndpoint.invoke(boolean,javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse) throws java.io.IOException,javax.servlet.ServletException
+ 2020-04-21 08:45:16,884 INFO [main] o.s.b.a.e.m.EndpointHandlerMapping [AbstractHandlerMethodMapping.java:543] Mapped "{[/metrics/{name:.*}],methods=[GET],produces=[application/vnd.spring-boot.actuator.v1+json || application/json]}" onto public java.lang.Object org.springframework.boot.actuate.endpoint.mvc.MetricsMvcEndpoint.value(java.lang.String)
+ 2020-04-21 08:45:16,885 INFO [main] o.s.b.a.e.m.EndpointHandlerMapping [AbstractHandlerMethodMapping.java:543] Mapped "{[/metrics || /metrics.json],methods=[GET],produces=[application/vnd.spring-boot.actuator.v1+json || application/json]}" onto public java.lang.Object org.springframework.boot.actuate.endpoint.mvc.EndpointMvcAdapter.invoke()
+ 2020-04-21 08:45:16,885 INFO [main] o.s.b.a.e.m.EndpointHandlerMapping [AbstractHandlerMethodMapping.java:543] Mapped "{[/beans || /beans.json],methods=[GET],produces=[application/vnd.spring-boot.actuator.v1+json || application/json]}" onto public java.lang.Object org.springframework.boot.actuate.endpoint.mvc.EndpointMvcAdapter.invoke()
+ 2020-04-21 08:45:16,886 INFO [main] o.s.b.a.e.m.EndpointHandlerMapping [AbstractHandlerMethodMapping.java:543] Mapped "{[/env/{name:.*}],methods=[GET],produces=[application/vnd.spring-boot.actuator.v1+json || application/json]}" onto public java.lang.Object org.springframework.boot.actuate.endpoint.mvc.EnvironmentMvcEndpoint.value(java.lang.String)
+ 2020-04-21 08:45:16,888 INFO [main] o.s.b.a.e.m.EndpointHandlerMapping [AbstractHandlerMethodMapping.java:543] Mapped "{[/env || /env.json],methods=[GET],produces=[application/vnd.spring-boot.actuator.v1+json || application/json]}" onto public java.lang.Object org.springframework.boot.actuate.endpoint.mvc.EndpointMvcAdapter.invoke()
+ 2020-04-21 08:45:16,889 INFO [main] o.s.b.a.e.m.EndpointHandlerMapping [AbstractHandlerMethodMapping.java:543] Mapped "{[/health || /health.json],methods=[GET],produces=[application/vnd.spring-boot.actuator.v1+json || application/json]}" onto public java.lang.Object org.springframework.boot.actuate.endpoint.mvc.HealthMvcEndpoint.invoke(javax.servlet.http.HttpServletRequest,java.security.Principal)
+ 2020-04-21 08:45:16,896 INFO [main] o.s.b.a.e.m.EndpointHandlerMapping [AbstractHandlerMethodMapping.java:543] Mapped "{[/loggers/{name:.*}],methods=[GET],produces=[application/vnd.spring-boot.actuator.v1+json || application/json]}" onto public java.lang.Object org.springframework.boot.actuate.endpoint.mvc.LoggersMvcEndpoint.get(java.lang.String)
+ 2020-04-21 08:45:16,896 INFO [main] o.s.b.a.e.m.EndpointHandlerMapping [AbstractHandlerMethodMapping.java:543] Mapped "{[/loggers/{name:.*}],methods=[POST],consumes=[application/vnd.spring-boot.actuator.v1+json || application/json],produces=[application/vnd.spring-boot.actuator.v1+json || application/json]}" onto public java.lang.Object org.springframework.boot.actuate.endpoint.mvc.LoggersMvcEndpoint.set(java.lang.String,java.util.Map<java.lang.String, java.lang.String>)
+ 2020-04-21 08:45:16,898 INFO [main] o.s.b.a.e.m.EndpointHandlerMapping [AbstractHandlerMethodMapping.java:543] Mapped "{[/loggers || /loggers.json],methods=[GET],produces=[application/vnd.spring-boot.actuator.v1+json || application/json]}" onto public java.lang.Object org.springframework.boot.actuate.endpoint.mvc.EndpointMvcAdapter.invoke()
+ 2020-04-21 08:45:18,084 INFO [main] o.s.c.s.DefaultLifecycleProcessor [DefaultLifecycleProcessor.java:343] Starting beans in phase -2147482648
+ 2020-04-21 08:45:18,084 INFO [main] o.s.c.s.DefaultLifecycleProcessor [DefaultLifecycleProcessor.java:343] Starting beans in phase 2147483647
+ 2020-04-21 08:45:18,194 INFO [main] c.e.d.DemoApplicationTests [StartupInfoLogger.java:57] Started DemoApplicationTests in 8.785 seconds (JVM running for 9.714)
+ 2020-04-21 08:46:15,887 INFO [Thread-4] o.s.w.c.s.GenericWebApplicationContext [AbstractApplicationContext.java:984] Closing org.springframework.web.context.support.GenericWebApplicationContext@12c0e88: startup date [Tue Apr 21 08:45:09 CST 2020]; root of context hierarchy
+ 2020-04-21 08:46:15,903 INFO [Thread-4] o.s.c.s.DefaultLifecycleProcessor [DefaultLifecycleProcessor.java:358] Stopping beans in phase 2147483647
+ 2020-04-21 08:46:15,913 INFO [Thread-4] o.s.c.s.DefaultLifecycleProcessor [DefaultLifecycleProcessor.java:358] Stopping beans in phase -2147482648
+ 2020-04-21 08:47:11,291 INFO [main] o.s.b.t.c.SpringBootTestContextBootstrapper [AbstractTestContextBootstrapper.java:319] Neither @ContextConfiguration nor @ContextHierarchy found for test class [com.example.demo.DemoApplicationTests], using SpringBootContextLoader
+ 2020-04-21 08:47:11,299 INFO [main] o.s.t.c.s.AbstractContextLoader [AbstractContextLoader.java:264] Could not detect default resource locations for test class [com.example.demo.DemoApplicationTests]: no resource found for suffixes {-context.xml, Context.groovy}.
+ 2020-04-21 08:47:11,300 INFO [main] o.s.t.c.s.AnnotationConfigContextLoaderUtils [AnnotationConfigContextLoaderUtils.java:81] Could not detect default configuration classes for test class [com.example.demo.DemoApplicationTests]: DemoApplicationTests does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+ 2020-04-21 08:47:11,434 INFO [main] o.s.b.t.c.SpringBootTestContextBootstrapper [SpringBootTestContextBootstrapper.java:206] Found @SpringBootConfiguration com.example.demo.MyApplication for test class com.example.demo.DemoApplicationTests
+ 2020-04-21 08:47:11,440 INFO [main] o.s.b.t.c.SpringBootTestContextBootstrapper [AbstractTestContextBootstrapper.java:260] Loaded default TestExecutionListener class names from location [META-INF/spring.factories]: [org.springframework.boot.test.mock.mockito.MockitoTestExecutionListener, org.springframework.boot.test.mock.mockito.ResetMocksTestExecutionListener, org.springframework.boot.test.autoconfigure.restdocs.RestDocsTestExecutionListener, org.springframework.boot.test.autoconfigure.web.client.MockRestServiceServerResetTestExecutionListener, org.springframework.boot.test.autoconfigure.web.servlet.MockMvcPrintOnlyOnFailureTestExecutionListener, org.springframework.boot.test.autoconfigure.web.servlet.WebDriverTestExecutionListener, org.springframework.test.context.web.ServletTestExecutionListener, org.springframework.test.context.support.DirtiesContextBeforeModesTestExecutionListener, org.springframework.test.context.support.DependencyInjectionTestExecutionListener, org.springframework.test.context.support.DirtiesContextTestExecutionListener, org.springframework.test.context.transaction.TransactionalTestExecutionListener, org.springframework.test.context.jdbc.SqlScriptsTestExecutionListener]
+ 2020-04-21 08:47:11,465 INFO [main] o.s.b.t.c.SpringBootTestContextBootstrapper [AbstractTestContextBootstrapper.java:187] Using TestExecutionListeners: [org.springframework.test.context.web.ServletTestExecutionListener@13529a, org.springframework.test.context.support.DirtiesContextBeforeModesTestExecutionListener@c9bd38, org.springframework.boot.test.autoconfigure.SpringBootDependencyInjectionTestExecutionListener@12e19ca, org.springframework.test.context.support.DirtiesContextTestExecutionListener@10d80ed, org.springframework.test.context.transaction.TransactionalTestExecutionListener@18e8894, org.springframework.test.context.jdbc.SqlScriptsTestExecutionListener@fdd820, org.springframework.boot.test.mock.mockito.MockitoTestExecutionListener@128763c, org.springframework.boot.test.autoconfigure.restdocs.RestDocsTestExecutionListener@25951c, org.springframework.boot.test.mock.mockito.ResetMocksTestExecutionListener@1f47664, org.springframework.boot.test.autoconfigure.web.client.MockRestServiceServerResetTestExecutionListener@11a9022, org.springframework.boot.test.autoconfigure.web.servlet.WebDriverTestExecutionListener@1c9876b, org.springframework.boot.test.autoconfigure.web.servlet.MockMvcPrintOnlyOnFailureTestExecutionListener@1666ebb]
+ 2020-04-21 08:47:11,860 INFO [main] c.e.d.DemoApplicationTests [StartupInfoLogger.java:48] Starting DemoApplicationTests on DESKTOP-4UADTF8 with PID 5840 (started by yangx in C:\Users\yangx\IdeaProjects\dailytrain\spring-web)
+ 2020-04-21 08:47:11,861 INFO [main] c.e.d.DemoApplicationTests [SpringApplication.java:593] No active profile set, falling back to default profiles: default
+ 2020-04-21 08:47:11,881 INFO [main] o.s.w.c.s.GenericWebApplicationContext [AbstractApplicationContext.java:583] Refreshing org.springframework.web.context.support.GenericWebApplicationContext@1bd0be: startup date [Tue Apr 21 08:47:11 CST 2020]; root of context hierarchy
+ 2020-04-21 08:47:12,167 INFO [background-preinit] o.h.v.i.u.Version [Version.java:30] HV000001: Hibernate Validator 5.3.5.Final
+ 2020-04-21 08:47:12,755 INFO [main] o.s.d.r.c.RepositoryConfigurationDelegate [RepositoryConfigurationDelegate.java:165] Multiple Spring Data modules found, entering strict repository configuration mode!
+ 2020-04-21 08:47:13,318 INFO [main] o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker [PostProcessorRegistrationDelegate.java:325] Bean 'org.springframework.amqp.rabbit.annotation.RabbitBootstrapConfiguration' of type [org.springframework.amqp.rabbit.annotation.RabbitBootstrapConfiguration$$EnhancerBySpringCGLIB$$94eac742] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+ 2020-04-21 08:47:16,790 INFO [main] o.s.w.s.m.m.a.RequestMappingHandlerAdapter [RequestMappingHandlerAdapter.java:534] Looking for @ControllerAdvice: org.springframework.web.context.support.GenericWebApplicationContext@1bd0be: startup date [Tue Apr 21 08:47:11 CST 2020]; root of context hierarchy
+ 2020-04-21 08:47:16,818 INFO [main] o.s.w.s.m.m.a.RequestMappingHandlerAdapter [RequestMappingHandlerAdapter.java:547] Detected @ModelAttribute methods in globalController
+ 2020-04-21 08:47:17,351 INFO [main] o.s.w.s.m.m.a.RequestMappingHandlerMapping [AbstractHandlerMethodMapping.java:543] Mapped "{[/a/health],methods=[GET]}" onto public java.lang.String com.example.demo.controller.ControllerA.heath()
+ 2020-04-21 08:47:17,367 INFO [main] o.s.w.s.m.m.a.RequestMappingHandlerMapping [AbstractHandlerMethodMapping.java:543] Mapped "{[/a/user],methods=[POST]}" onto public java.lang.String com.example.demo.controller.ControllerA.getUser(com.example.demo.dto.User,org.springframework.ui.Model)
+ 2020-04-21 08:47:17,368 INFO [main] o.s.w.s.m.m.a.RequestMappingHandlerMapping [AbstractHandlerMethodMapping.java:543] Mapped "{[/a/get],methods=[GET]}" onto public java.lang.String com.example.demo.controller.ControllerA.getParam(com.example.demo.dto.User)
+ 2020-04-21 08:47:17,368 INFO [main] o.s.w.s.m.m.a.RequestMappingHandlerMapping [AbstractHandlerMethodMapping.java:543] Mapped "{[/a/user/job],methods=[POST]}" onto public java.lang.String com.example.demo.controller.ControllerA.getUserAndJob(com.example.demo.dto.User,org.springframework.ui.Model)
+ 2020-04-21 08:47:17,369 INFO [main] o.s.w.s.m.m.a.RequestMappingHandlerMapping [AbstractHandlerMethodMapping.java:543] Mapped "{[/rabbit/send],methods=[POST]}" onto public java.lang.String com.example.demo.controller.ControllerB.sendAndReceive(java.lang.String)
+ 2020-04-21 08:47:17,370 INFO [main] o.s.w.s.m.m.a.RequestMappingHandlerMapping [AbstractHandlerMethodMapping.java:543] Mapped "{[/send/{id}/{message}],methods=[GET]}" onto public java.lang.String com.example.demo.controller.ControllerC.sendMessage(java.lang.String,java.lang.String) throws java.io.IOException
+ 2020-04-21 08:47:17,371 INFO [main] o.s.w.s.m.m.a.RequestMappingHandlerMapping [AbstractHandlerMethodMapping.java:543] Mapped "{[/export/excel],methods=[GET]}" onto public void com.example.demo.controller.ControllerFile.exportFile(javax.servlet.http.HttpServletResponse)
+ 2020-04-21 08:47:17,374 INFO [main] o.s.w.s.m.m.a.RequestMappingHandlerMapping [AbstractHandlerMethodMapping.java:543] Mapped "{[/error]}" onto public org.springframework.http.ResponseEntity<java.util.Map<java.lang.String, java.lang.Object>> org.springframework.boot.autoconfigure.web.BasicErrorController.error(javax.servlet.http.HttpServletRequest)
+ 2020-04-21 08:47:17,375 INFO [main] o.s.w.s.m.m.a.RequestMappingHandlerMapping [AbstractHandlerMethodMapping.java:543] Mapped "{[/error],produces=[text/html]}" onto public org.springframework.web.servlet.ModelAndView org.springframework.boot.autoconfigure.web.BasicErrorController.errorHtml(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse)
+ 2020-04-21 08:47:17,534 INFO [main] o.s.w.s.h.SimpleUrlHandlerMapping [AbstractUrlHandlerMapping.java:362] Mapped URL path [/webjars/**] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+ 2020-04-21 08:47:17,534 INFO [main] o.s.w.s.h.SimpleUrlHandlerMapping [AbstractUrlHandlerMapping.java:362] Mapped URL path [/**] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+ 2020-04-21 08:47:17,623 INFO [main] o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver [ExceptionHandlerExceptionResolver.java:273] Detected @ExceptionHandler methods in globalController
+ 2020-04-21 08:47:17,708 INFO [main] o.s.w.s.h.SimpleUrlHandlerMapping [AbstractUrlHandlerMapping.java:362] Mapped URL path [/**/favicon.ico] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+ 2020-04-21 08:47:18,905 INFO [main] o.s.b.a.e.m.EndpointHandlerMapping [AbstractHandlerMethodMapping.java:543] Mapped "{[/heapdump || /heapdump.json],methods=[GET],produces=[application/octet-stream]}" onto public void org.springframework.boot.actuate.endpoint.mvc.HeapdumpMvcEndpoint.invoke(boolean,javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse) throws java.io.IOException,javax.servlet.ServletException
+ 2020-04-21 08:47:18,906 INFO [main] o.s.b.a.e.m.EndpointHandlerMapping [AbstractHandlerMethodMapping.java:543] Mapped "{[/dump || /dump.json],methods=[GET],produces=[application/vnd.spring-boot.actuator.v1+json || application/json]}" onto public java.lang.Object org.springframework.boot.actuate.endpoint.mvc.EndpointMvcAdapter.invoke()
+ 2020-04-21 08:47:18,909 INFO [main] o.s.b.a.e.m.EndpointHandlerMapping [AbstractHandlerMethodMapping.java:543] Mapped "{[/metrics/{name:.*}],methods=[GET],produces=[application/vnd.spring-boot.actuator.v1+json || application/json]}" onto public java.lang.Object org.springframework.boot.actuate.endpoint.mvc.MetricsMvcEndpoint.value(java.lang.String)
+ 2020-04-21 08:47:18,909 INFO [main] o.s.b.a.e.m.EndpointHandlerMapping [AbstractHandlerMethodMapping.java:543] Mapped "{[/metrics || /metrics.json],methods=[GET],produces=[application/vnd.spring-boot.actuator.v1+json || application/json]}" onto public java.lang.Object org.springframework.boot.actuate.endpoint.mvc.EndpointMvcAdapter.invoke()
+ 2020-04-21 08:47:18,910 INFO [main] o.s.b.a.e.m.EndpointHandlerMapping [AbstractHandlerMethodMapping.java:543] Mapped "{[/configprops || /configprops.json],methods=[GET],produces=[application/vnd.spring-boot.actuator.v1+json || application/json]}" onto public java.lang.Object org.springframework.boot.actuate.endpoint.mvc.EndpointMvcAdapter.invoke()
+ 2020-04-21 08:47:18,916 INFO [main] o.s.b.a.e.m.EndpointHandlerMapping [AbstractHandlerMethodMapping.java:543] Mapped "{[/loggers/{name:.*}],methods=[GET],produces=[application/vnd.spring-boot.actuator.v1+json || application/json]}" onto public java.lang.Object org.springframework.boot.actuate.endpoint.mvc.LoggersMvcEndpoint.get(java.lang.String)
+ 2020-04-21 08:47:18,917 INFO [main] o.s.b.a.e.m.EndpointHandlerMapping [AbstractHandlerMethodMapping.java:543] Mapped "{[/loggers/{name:.*}],methods=[POST],consumes=[application/vnd.spring-boot.actuator.v1+json || application/json],produces=[application/vnd.spring-boot.actuator.v1+json || application/json]}" onto public java.lang.Object org.springframework.boot.actuate.endpoint.mvc.LoggersMvcEndpoint.set(java.lang.String,java.util.Map<java.lang.String, java.lang.String>)
+ 2020-04-21 08:47:18,919 INFO [main] o.s.b.a.e.m.EndpointHandlerMapping [AbstractHandlerMethodMapping.java:543] Mapped "{[/loggers || /loggers.json],methods=[GET],produces=[application/vnd.spring-boot.actuator.v1+json || application/json]}" onto public java.lang.Object org.springframework.boot.actuate.endpoint.mvc.EndpointMvcAdapter.invoke()
+ 2020-04-21 08:47:18,919 INFO [main] o.s.b.a.e.m.EndpointHandlerMapping [AbstractHandlerMethodMapping.java:543] Mapped "{[/info || /info.json],methods=[GET],produces=[application/vnd.spring-boot.actuator.v1+json || application/json]}" onto public java.lang.Object org.springframework.boot.actuate.endpoint.mvc.EndpointMvcAdapter.invoke()
+ 2020-04-21 08:47:18,920 INFO [main] o.s.b.a.e.m.EndpointHandlerMapping [AbstractHandlerMethodMapping.java:543] Mapped "{[/mappings || /mappings.json],methods=[GET],produces=[application/vnd.spring-boot.actuator.v1+json || application/json]}" onto public java.lang.Object org.springframework.boot.actuate.endpoint.mvc.EndpointMvcAdapter.invoke()
+ 2020-04-21 08:47:18,926 INFO [main] o.s.b.a.e.m.EndpointHandlerMapping [AbstractHandlerMethodMapping.java:543] Mapped "{[/beans || /beans.json],methods=[GET],produces=[application/vnd.spring-boot.actuator.v1+json || application/json]}" onto public java.lang.Object org.springframework.boot.actuate.endpoint.mvc.EndpointMvcAdapter.invoke()
+ 2020-04-21 08:47:18,927 INFO [main] o.s.b.a.e.m.EndpointHandlerMapping [AbstractHandlerMethodMapping.java:543] Mapped "{[/auditevents || /auditevents.json],methods=[GET],produces=[application/vnd.spring-boot.actuator.v1+json || application/json]}" onto public org.springframework.http.ResponseEntity<?> org.springframework.boot.actuate.endpoint.mvc.AuditEventsMvcEndpoint.findByPrincipalAndAfterAndType(java.lang.String,java.util.Date,java.lang.String)
+ 2020-04-21 08:47:18,929 INFO [main] o.s.b.a.e.m.EndpointHandlerMapping [AbstractHandlerMethodMapping.java:543] Mapped "{[/trace || /trace.json],methods=[GET],produces=[application/vnd.spring-boot.actuator.v1+json || application/json]}" onto public java.lang.Object org.springframework.boot.actuate.endpoint.mvc.EndpointMvcAdapter.invoke()
+ 2020-04-21 08:47:18,929 INFO [main] o.s.b.a.e.m.EndpointHandlerMapping [AbstractHandlerMethodMapping.java:543] Mapped "{[/autoconfig || /autoconfig.json],methods=[GET],produces=[application/vnd.spring-boot.actuator.v1+json || application/json]}" onto public java.lang.Object org.springframework.boot.actuate.endpoint.mvc.EndpointMvcAdapter.invoke()
+ 2020-04-21 08:47:18,930 INFO [main] o.s.b.a.e.m.EndpointHandlerMapping [AbstractHandlerMethodMapping.java:543] Mapped "{[/health || /health.json],methods=[GET],produces=[application/vnd.spring-boot.actuator.v1+json || application/json]}" onto public java.lang.Object org.springframework.boot.actuate.endpoint.mvc.HealthMvcEndpoint.invoke(javax.servlet.http.HttpServletRequest,java.security.Principal)
+ 2020-04-21 08:47:18,931 INFO [main] o.s.b.a.e.m.EndpointHandlerMapping [AbstractHandlerMethodMapping.java:543] Mapped "{[/env/{name:.*}],methods=[GET],produces=[application/vnd.spring-boot.actuator.v1+json || application/json]}" onto public java.lang.Object org.springframework.boot.actuate.endpoint.mvc.EnvironmentMvcEndpoint.value(java.lang.String)
+ 2020-04-21 08:47:18,931 INFO [main] o.s.b.a.e.m.EndpointHandlerMapping [AbstractHandlerMethodMapping.java:543] Mapped "{[/env || /env.json],methods=[GET],produces=[application/vnd.spring-boot.actuator.v1+json || application/json]}" onto public java.lang.Object org.springframework.boot.actuate.endpoint.mvc.EndpointMvcAdapter.invoke()
+ 2020-04-21 08:47:20,129 INFO [main] o.s.c.s.DefaultLifecycleProcessor [DefaultLifecycleProcessor.java:343] Starting beans in phase -2147482648
+ 2020-04-21 08:47:20,129 INFO [main] o.s.c.s.DefaultLifecycleProcessor [DefaultLifecycleProcessor.java:343] Starting beans in phase 2147483647
+ 2020-04-21 08:47:20,237 INFO [main] c.e.d.DemoApplicationTests [StartupInfoLogger.java:57] Started DemoApplicationTests in 8.654 seconds (JVM running for 9.581)
+ 2020-04-21 08:47:20,833 INFO [Thread-4] o.s.w.c.s.GenericWebApplicationContext [AbstractApplicationContext.java:984] Closing org.springframework.web.context.support.GenericWebApplicationContext@1bd0be: startup date [Tue Apr 21 08:47:11 CST 2020]; root of context hierarchy
+ 2020-04-21 08:47:20,846 INFO [Thread-4] o.s.c.s.DefaultLifecycleProcessor [DefaultLifecycleProcessor.java:358] Stopping beans in phase 2147483647
+ 2020-04-21 08:47:20,857 INFO [Thread-4] o.s.c.s.DefaultLifecycleProcessor [DefaultLifecycleProcessor.java:358] Stopping beans in phase -2147482648
+ 2020-04-21 08:47:35,125 INFO [main] o.s.b.t.c.SpringBootTestContextBootstrapper [AbstractTestContextBootstrapper.java:319] Neither @ContextConfiguration nor @ContextHierarchy found for test class [com.example.demo.DemoApplicationTests], using SpringBootContextLoader
+ 2020-04-21 08:47:35,131 INFO [main] o.s.t.c.s.AbstractContextLoader [AbstractContextLoader.java:264] Could not detect default resource locations for test class [com.example.demo.DemoApplicationTests]: no resource found for suffixes {-context.xml, Context.groovy}.
+ 2020-04-21 08:47:35,132 INFO [main] o.s.t.c.s.AnnotationConfigContextLoaderUtils [AnnotationConfigContextLoaderUtils.java:81] Could not detect default configuration classes for test class [com.example.demo.DemoApplicationTests]: DemoApplicationTests does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+ 2020-04-21 08:47:35,264 INFO [main] o.s.b.t.c.SpringBootTestContextBootstrapper [SpringBootTestContextBootstrapper.java:206] Found @SpringBootConfiguration com.example.demo.MyApplication for test class com.example.demo.DemoApplicationTests
+ 2020-04-21 08:47:35,271 INFO [main] o.s.b.t.c.SpringBootTestContextBootstrapper [AbstractTestContextBootstrapper.java:260] Loaded default TestExecutionListener class names from location [META-INF/spring.factories]: [org.springframework.boot.test.mock.mockito.MockitoTestExecutionListener, org.springframework.boot.test.mock.mockito.ResetMocksTestExecutionListener, org.springframework.boot.test.autoconfigure.restdocs.RestDocsTestExecutionListener, org.springframework.boot.test.autoconfigure.web.client.MockRestServiceServerResetTestExecutionListener, org.springframework.boot.test.autoconfigure.web.servlet.MockMvcPrintOnlyOnFailureTestExecutionListener, org.springframework.boot.test.autoconfigure.web.servlet.WebDriverTestExecutionListener, org.springframework.test.context.web.ServletTestExecutionListener, org.springframework.test.context.support.DirtiesContextBeforeModesTestExecutionListener, org.springframework.test.context.support.DependencyInjectionTestExecutionListener, org.springframework.test.context.support.DirtiesContextTestExecutionListener, org.springframework.test.context.transaction.TransactionalTestExecutionListener, org.springframework.test.context.jdbc.SqlScriptsTestExecutionListener]
+ 2020-04-21 08:47:35,295 INFO [main] o.s.b.t.c.SpringBootTestContextBootstrapper [AbstractTestContextBootstrapper.java:187] Using TestExecutionListeners: [org.springframework.test.context.web.ServletTestExecutionListener@1ce8fd9, org.springframework.test.context.support.DirtiesContextBeforeModesTestExecutionListener@9bcfb6, org.springframework.boot.test.autoconfigure.SpringBootDependencyInjectionTestExecutionListener@194beb9, org.springframework.test.context.support.DirtiesContextTestExecutionListener@348e6, org.springframework.test.context.transaction.TransactionalTestExecutionListener@1f8b5b8, org.springframework.test.context.jdbc.SqlScriptsTestExecutionListener@1202fce, org.springframework.boot.test.autoconfigure.web.client.MockRestServiceServerResetTestExecutionListener@1993c65, org.springframework.boot.test.autoconfigure.restdocs.RestDocsTestExecutionListener@1911f88, org.springframework.boot.test.autoconfigure.web.servlet.MockMvcPrintOnlyOnFailureTestExecutionListener@11c29b7, org.springframework.boot.test.mock.mockito.ResetMocksTestExecutionListener@16025c5, org.springframework.boot.test.autoconfigure.web.servlet.WebDriverTestExecutionListener@1284218, org.springframework.boot.test.mock.mockito.MockitoTestExecutionListener@7a7f2a]
+ 2020-04-21 08:47:35,685 INFO [main] c.e.d.DemoApplicationTests [StartupInfoLogger.java:48] Starting DemoApplicationTests on DESKTOP-4UADTF8 with PID 15452 (started by yangx in C:\Users\yangx\IdeaProjects\dailytrain\spring-web)
+ 2020-04-21 08:47:35,685 INFO [main] c.e.d.DemoApplicationTests [SpringApplication.java:593] No active profile set, falling back to default profiles: default
+ 2020-04-21 08:47:35,705 INFO [main] o.s.w.c.s.GenericWebApplicationContext [AbstractApplicationContext.java:583] Refreshing org.springframework.web.context.support.GenericWebApplicationContext@1baa903: startup date [Tue Apr 21 08:47:35 CST 2020]; root of context hierarchy
+ 2020-04-21 08:47:35,996 INFO [background-preinit] o.h.v.i.u.Version [Version.java:30] HV000001: Hibernate Validator 5.3.5.Final
+ 2020-04-21 08:47:36,585 INFO [main] o.s.d.r.c.RepositoryConfigurationDelegate [RepositoryConfigurationDelegate.java:165] Multiple Spring Data modules found, entering strict repository configuration mode!
+ 2020-04-21 08:47:37,147 INFO [main] o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker [PostProcessorRegistrationDelegate.java:325] Bean 'org.springframework.amqp.rabbit.annotation.RabbitBootstrapConfiguration' of type [org.springframework.amqp.rabbit.annotation.RabbitBootstrapConfiguration$$EnhancerBySpringCGLIB$$bad99699] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+ 2020-04-21 08:47:41,938 INFO [main] o.s.w.s.m.m.a.RequestMappingHandlerAdapter [RequestMappingHandlerAdapter.java:534] Looking for @ControllerAdvice: org.springframework.web.context.support.GenericWebApplicationContext@1baa903: startup date [Tue Apr 21 08:47:35 CST 2020]; root of context hierarchy
+ 2020-04-21 08:47:41,970 INFO [main] o.s.w.s.m.m.a.RequestMappingHandlerAdapter [RequestMappingHandlerAdapter.java:547] Detected @ModelAttribute methods in globalController
+ 2020-04-21 08:47:42,540 INFO [main] o.s.w.s.m.m.a.RequestMappingHandlerMapping [AbstractHandlerMethodMapping.java:543] Mapped "{[/a/health],methods=[GET]}" onto public java.lang.String com.example.demo.controller.ControllerA.heath()
+ 2020-04-21 08:47:42,558 INFO [main] o.s.w.s.m.m.a.RequestMappingHandlerMapping [AbstractHandlerMethodMapping.java:543] Mapped "{[/a/user],methods=[POST]}" onto public java.lang.String com.example.demo.controller.ControllerA.getUser(com.example.demo.dto.User,org.springframework.ui.Model)
+ 2020-04-21 08:47:42,558 INFO [main] o.s.w.s.m.m.a.RequestMappingHandlerMapping [AbstractHandlerMethodMapping.java:543] Mapped "{[/a/get],methods=[GET]}" onto public java.lang.String com.example.demo.controller.ControllerA.getParam(com.example.demo.dto.User)
+ 2020-04-21 08:47:42,558 INFO [main] o.s.w.s.m.m.a.RequestMappingHandlerMapping [AbstractHandlerMethodMapping.java:543] Mapped "{[/a/user/job],methods=[POST]}" onto public java.lang.String com.example.demo.controller.ControllerA.getUserAndJob(com.example.demo.dto.User,org.springframework.ui.Model)
+ 2020-04-21 08:47:42,559 INFO [main] o.s.w.s.m.m.a.RequestMappingHandlerMapping [AbstractHandlerMethodMapping.java:543] Mapped "{[/rabbit/send],methods=[POST]}" onto public java.lang.String com.example.demo.controller.ControllerB.sendAndReceive(java.lang.String)
+ 2020-04-21 08:47:42,561 INFO [main] o.s.w.s.m.m.a.RequestMappingHandlerMapping [AbstractHandlerMethodMapping.java:543] Mapped "{[/send/{id}/{message}],methods=[GET]}" onto public java.lang.String com.example.demo.controller.ControllerC.sendMessage(java.lang.String,java.lang.String) throws java.io.IOException
+ 2020-04-21 08:47:42,562 INFO [main] o.s.w.s.m.m.a.RequestMappingHandlerMapping [AbstractHandlerMethodMapping.java:543] Mapped "{[/export/excel],methods=[GET]}" onto public void com.example.demo.controller.ControllerFile.exportFile(javax.servlet.http.HttpServletResponse)
+ 2020-04-21 08:47:42,565 INFO [main] o.s.w.s.m.m.a.RequestMappingHandlerMapping [AbstractHandlerMethodMapping.java:543] Mapped "{[/error]}" onto public org.springframework.http.ResponseEntity<java.util.Map<java.lang.String, java.lang.Object>> org.springframework.boot.autoconfigure.web.BasicErrorController.error(javax.servlet.http.HttpServletRequest)
+ 2020-04-21 08:47:42,565 INFO [main] o.s.w.s.m.m.a.RequestMappingHandlerMapping [AbstractHandlerMethodMapping.java:543] Mapped "{[/error],produces=[text/html]}" onto public org.springframework.web.servlet.ModelAndView org.springframework.boot.autoconfigure.web.BasicErrorController.errorHtml(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse)
+ 2020-04-21 08:47:42,752 INFO [main] o.s.w.s.h.SimpleUrlHandlerMapping [AbstractUrlHandlerMapping.java:362] Mapped URL path [/webjars/**] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+ 2020-04-21 08:47:42,754 INFO [main] o.s.w.s.h.SimpleUrlHandlerMapping [AbstractUrlHandlerMapping.java:362] Mapped URL path [/**] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+ 2020-04-21 08:47:42,849 INFO [main] o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver [ExceptionHandlerExceptionResolver.java:273] Detected @ExceptionHandler methods in globalController
+ 2020-04-21 08:47:42,942 INFO [main] o.s.w.s.h.SimpleUrlHandlerMapping [AbstractUrlHandlerMapping.java:362] Mapped URL path [/**/favicon.ico] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+ 2020-04-21 08:47:44,308 INFO [main] o.s.b.a.e.m.EndpointHandlerMapping [AbstractHandlerMethodMapping.java:543] Mapped "{[/trace || /trace.json],methods=[GET],produces=[application/vnd.spring-boot.actuator.v1+json || application/json]}" onto public java.lang.Object org.springframework.boot.actuate.endpoint.mvc.EndpointMvcAdapter.invoke()
+ 2020-04-21 08:47:44,310 INFO [main] o.s.b.a.e.m.EndpointHandlerMapping [AbstractHandlerMethodMapping.java:543] Mapped "{[/mappings || /mappings.json],methods=[GET],produces=[application/vnd.spring-boot.actuator.v1+json || application/json]}" onto public java.lang.Object org.springframework.boot.actuate.endpoint.mvc.EndpointMvcAdapter.invoke()
+ 2020-04-21 08:47:44,311 INFO [main] o.s.b.a.e.m.EndpointHandlerMapping [AbstractHandlerMethodMapping.java:543] Mapped "{[/health || /health.json],methods=[GET],produces=[application/vnd.spring-boot.actuator.v1+json || application/json]}" onto public java.lang.Object org.springframework.boot.actuate.endpoint.mvc.HealthMvcEndpoint.invoke(javax.servlet.http.HttpServletRequest,java.security.Principal)
+ 2020-04-21 08:47:44,312 INFO [main] o.s.b.a.e.m.EndpointHandlerMapping [AbstractHandlerMethodMapping.java:543] Mapped "{[/autoconfig || /autoconfig.json],methods=[GET],produces=[application/vnd.spring-boot.actuator.v1+json || application/json]}" onto public java.lang.Object org.springframework.boot.actuate.endpoint.mvc.EndpointMvcAdapter.invoke()
+ 2020-04-21 08:47:44,313 INFO [main] o.s.b.a.e.m.EndpointHandlerMapping [AbstractHandlerMethodMapping.java:543] Mapped "{[/beans || /beans.json],methods=[GET],produces=[application/vnd.spring-boot.actuator.v1+json || application/json]}" onto public java.lang.Object org.springframework.boot.actuate.endpoint.mvc.EndpointMvcAdapter.invoke()
+ 2020-04-21 08:47:44,313 INFO [main] o.s.b.a.e.m.EndpointHandlerMapping [AbstractHandlerMethodMapping.java:543] Mapped "{[/info || /info.json],methods=[GET],produces=[application/vnd.spring-boot.actuator.v1+json || application/json]}" onto public java.lang.Object org.springframework.boot.actuate.endpoint.mvc.EndpointMvcAdapter.invoke()
+ 2020-04-21 08:47:44,316 INFO [main] o.s.b.a.e.m.EndpointHandlerMapping [AbstractHandlerMethodMapping.java:543] Mapped "{[/configprops || /configprops.json],methods=[GET],produces=[application/vnd.spring-boot.actuator.v1+json || application/json]}" onto public java.lang.Object org.springframework.boot.actuate.endpoint.mvc.EndpointMvcAdapter.invoke()
+ 2020-04-21 08:47:44,317 INFO [main] o.s.b.a.e.m.EndpointHandlerMapping [AbstractHandlerMethodMapping.java:543] Mapped "{[/auditevents || /auditevents.json],methods=[GET],produces=[application/vnd.spring-boot.actuator.v1+json || application/json]}" onto public org.springframework.http.ResponseEntity<?> org.springframework.boot.actuate.endpoint.mvc.AuditEventsMvcEndpoint.findByPrincipalAndAfterAndType(java.lang.String,java.util.Date,java.lang.String)
+ 2020-04-21 08:47:44,323 INFO [main] o.s.b.a.e.m.EndpointHandlerMapping [AbstractHandlerMethodMapping.java:543] Mapped "{[/dump || /dump.json],methods=[GET],produces=[application/vnd.spring-boot.actuator.v1+json || application/json]}" onto public java.lang.Object org.springframework.boot.actuate.endpoint.mvc.EndpointMvcAdapter.invoke()
+ 2020-04-21 08:47:44,327 INFO [main] o.s.b.a.e.m.EndpointHandlerMapping [AbstractHandlerMethodMapping.java:543] Mapped "{[/metrics/{name:.*}],methods=[GET],produces=[application/vnd.spring-boot.actuator.v1+json || application/json]}" onto public java.lang.Object org.springframework.boot.actuate.endpoint.mvc.MetricsMvcEndpoint.value(java.lang.String)
+ 2020-04-21 08:47:44,327 INFO [main] o.s.b.a.e.m.EndpointHandlerMapping [AbstractHandlerMethodMapping.java:543] Mapped "{[/metrics || /metrics.json],methods=[GET],produces=[application/vnd.spring-boot.actuator.v1+json || application/json]}" onto public java.lang.Object org.springframework.boot.actuate.endpoint.mvc.EndpointMvcAdapter.invoke()
+ 2020-04-21 08:47:44,328 INFO [main] o.s.b.a.e.m.EndpointHandlerMapping [AbstractHandlerMethodMapping.java:543] Mapped "{[/heapdump || /heapdump.json],methods=[GET],produces=[application/octet-stream]}" onto public void org.springframework.boot.actuate.endpoint.mvc.HeapdumpMvcEndpoint.invoke(boolean,javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse) throws java.io.IOException,javax.servlet.ServletException
+ 2020-04-21 08:47:44,335 INFO [main] o.s.b.a.e.m.EndpointHandlerMapping [AbstractHandlerMethodMapping.java:543] Mapped "{[/loggers/{name:.*}],methods=[GET],produces=[application/vnd.spring-boot.actuator.v1+json || application/json]}" onto public java.lang.Object org.springframework.boot.actuate.endpoint.mvc.LoggersMvcEndpoint.get(java.lang.String)
+ 2020-04-21 08:47:44,338 INFO [main] o.s.b.a.e.m.EndpointHandlerMapping [AbstractHandlerMethodMapping.java:543] Mapped "{[/loggers/{name:.*}],methods=[POST],consumes=[application/vnd.spring-boot.actuator.v1+json || application/json],produces=[application/vnd.spring-boot.actuator.v1+json || application/json]}" onto public java.lang.Object org.springframework.boot.actuate.endpoint.mvc.LoggersMvcEndpoint.set(java.lang.String,java.util.Map<java.lang.String, java.lang.String>)
+ 2020-04-21 08:47:44,338 INFO [main] o.s.b.a.e.m.EndpointHandlerMapping [AbstractHandlerMethodMapping.java:543] Mapped "{[/loggers || /loggers.json],methods=[GET],produces=[application/vnd.spring-boot.actuator.v1+json || application/json]}" onto public java.lang.Object org.springframework.boot.actuate.endpoint.mvc.EndpointMvcAdapter.invoke()
+ 2020-04-21 08:47:44,339 INFO [main] o.s.b.a.e.m.EndpointHandlerMapping [AbstractHandlerMethodMapping.java:543] Mapped "{[/env/{name:.*}],methods=[GET],produces=[application/vnd.spring-boot.actuator.v1+json || application/json]}" onto public java.lang.Object org.springframework.boot.actuate.endpoint.mvc.EnvironmentMvcEndpoint.value(java.lang.String)
+ 2020-04-21 08:47:44,340 INFO [main] o.s.b.a.e.m.EndpointHandlerMapping [AbstractHandlerMethodMapping.java:543] Mapped "{[/env || /env.json],methods=[GET],produces=[application/vnd.spring-boot.actuator.v1+json || application/json]}" onto public java.lang.Object org.springframework.boot.actuate.endpoint.mvc.EndpointMvcAdapter.invoke()
+ 2020-04-21 08:47:45,788 INFO [main] o.s.c.s.DefaultLifecycleProcessor [DefaultLifecycleProcessor.java:343] Starting beans in phase -2147482648
+ 2020-04-21 08:47:45,788 INFO [main] o.s.c.s.DefaultLifecycleProcessor [DefaultLifecycleProcessor.java:343] Starting beans in phase 2147483647
+ 2020-04-21 08:47:45,930 INFO [main] c.e.d.DemoApplicationTests [StartupInfoLogger.java:57] Started DemoApplicationTests in 10.519 seconds (JVM running for 11.453)
+ 2020-04-21 08:48:20,800 INFO [Thread-4] o.s.w.c.s.GenericWebApplicationContext [AbstractApplicationContext.java:984] Closing org.springframework.web.context.support.GenericWebApplicationContext@1baa903: startup date [Tue Apr 21 08:47:35 CST 2020]; root of context hierarchy
+ 2020-04-21 08:48:20,816 INFO [Thread-4] o.s.c.s.DefaultLifecycleProcessor [DefaultLifecycleProcessor.java:358] Stopping beans in phase 2147483647
+ 2020-04-21 08:48:20,827 INFO [Thread-4] o.s.c.s.DefaultLifecycleProcessor [DefaultLifecycleProcessor.java:358] Stopping beans in phase -2147482648
+ 2020-04-21 08:49:07,847 INFO [main] o.s.b.t.c.SpringBootTestContextBootstrapper [AbstractTestContextBootstrapper.java:319] Neither @ContextConfiguration nor @ContextHierarchy found for test class [com.example.demo.DemoApplicationTests], using SpringBootContextLoader
+ 2020-04-21 08:49:07,855 INFO [main] o.s.t.c.s.AbstractContextLoader [AbstractContextLoader.java:264] Could not detect default resource locations for test class [com.example.demo.DemoApplicationTests]: no resource found for suffixes {-context.xml, Context.groovy}.
+ 2020-04-21 08:49:07,923 INFO [main] o.s.b.t.c.SpringBootTestContextBootstrapper [AbstractTestContextBootstrapper.java:260] Loaded default TestExecutionListener class names from location [META-INF/spring.factories]: [org.springframework.boot.test.mock.mockito.MockitoTestExecutionListener, org.springframework.boot.test.mock.mockito.ResetMocksTestExecutionListener, org.springframework.boot.test.autoconfigure.restdocs.RestDocsTestExecutionListener, org.springframework.boot.test.autoconfigure.web.client.MockRestServiceServerResetTestExecutionListener, org.springframework.boot.test.autoconfigure.web.servlet.MockMvcPrintOnlyOnFailureTestExecutionListener, org.springframework.boot.test.autoconfigure.web.servlet.WebDriverTestExecutionListener, org.springframework.test.context.web.ServletTestExecutionListener, org.springframework.test.context.support.DirtiesContextBeforeModesTestExecutionListener, org.springframework.test.context.support.DependencyInjectionTestExecutionListener, org.springframework.test.context.support.DirtiesContextTestExecutionListener, org.springframework.test.context.transaction.TransactionalTestExecutionListener, org.springframework.test.context.jdbc.SqlScriptsTestExecutionListener]
+ 2020-04-21 08:49:07,947 INFO [main] o.s.b.t.c.SpringBootTestContextBootstrapper [AbstractTestContextBootstrapper.java:187] Using TestExecutionListeners: [org.springframework.test.context.web.ServletTestExecutionListener@194fad1, org.springframework.test.context.support.DirtiesContextBeforeModesTestExecutionListener@abb146, org.springframework.boot.test.autoconfigure.SpringBootDependencyInjectionTestExecutionListener@12c8e7b, org.springframework.test.context.support.DirtiesContextTestExecutionListener@1f8f5ae, org.springframework.test.context.transaction.TransactionalTestExecutionListener@11cd9b2, org.springframework.test.context.jdbc.SqlScriptsTestExecutionListener@467116, org.springframework.boot.test.autoconfigure.web.servlet.MockMvcPrintOnlyOnFailureTestExecutionListener@17a7f33, org.springframework.boot.test.autoconfigure.restdocs.RestDocsTestExecutionListener@10da477, org.springframework.boot.test.autoconfigure.web.client.MockRestServiceServerResetTestExecutionListener@7933ad, org.springframework.boot.test.mock.mockito.ResetMocksTestExecutionListener@1bc27f5, org.springframework.boot.test.mock.mockito.MockitoTestExecutionListener@1b759d6, org.springframework.boot.test.autoconfigure.web.servlet.WebDriverTestExecutionListener@18d604b]
+ 2020-04-21 08:49:08,390 INFO [main] c.e.d.DemoApplicationTests [StartupInfoLogger.java:48] Starting DemoApplicationTests on DESKTOP-4UADTF8 with PID 7292 (started by yangx in C:\Users\yangx\IdeaProjects\dailytrain\spring-web)
+ 2020-04-21 08:49:08,391 INFO [main] c.e.d.DemoApplicationTests [SpringApplication.java:593] No active profile set, falling back to default profiles: default
+ 2020-04-21 08:49:08,408 INFO [main] o.s.b.c.e.AnnotationConfigEmbeddedWebApplicationContext [AbstractApplicationContext.java:583] Refreshing org.springframework.boot.context.embedded.AnnotationConfigEmbeddedWebApplicationContext@183159f: startup date [Tue Apr 21 08:49:08 CST 2020]; root of context hierarchy
+ 2020-04-21 08:49:08,567 WARN [main] o.s.b.c.e.AnnotationConfigEmbeddedWebApplicationContext [AbstractApplicationContext.java:551] Exception encountered during context initialization - cancelling refresh attempt: org.springframework.context.ApplicationContextException: Unable to start embedded container; nested exception is org.springframework.context.ApplicationContextException: Unable to start EmbeddedWebApplicationContext due to missing EmbeddedServletContainerFactory bean.
+ 2020-04-21 08:49:08,579 ERROR [main] o.s.b.SpringApplication [SpringApplication.java:771] Application startup failed
+org.springframework.context.ApplicationContextException: Unable to start embedded container; nested exception is org.springframework.context.ApplicationContextException: Unable to start EmbeddedWebApplicationContext due to missing EmbeddedServletContainerFactory bean.
+	at org.springframework.boot.context.embedded.EmbeddedWebApplicationContext.onRefresh(EmbeddedWebApplicationContext.java:137)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:537)
+	at org.springframework.boot.context.embedded.EmbeddedWebApplicationContext.refresh(EmbeddedWebApplicationContext.java:122)
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:693)
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:360)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:303)
+	at org.springframework.boot.test.context.SpringBootContextLoader.loadContext(SpringBootContextLoader.java:120)
+	at org.springframework.test.context.cache.DefaultCacheAwareContextLoaderDelegate.loadContextInternal(DefaultCacheAwareContextLoaderDelegate.java:98)
+	at org.springframework.test.context.cache.DefaultCacheAwareContextLoaderDelegate.loadContext(DefaultCacheAwareContextLoaderDelegate.java:116)
+	at org.springframework.test.context.support.DefaultTestContext.getApplicationContext(DefaultTestContext.java:83)
+	at org.springframework.test.context.support.DependencyInjectionTestExecutionListener.injectDependencies(DependencyInjectionTestExecutionListener.java:117)
+	at org.springframework.test.context.support.DependencyInjectionTestExecutionListener.prepareTestInstance(DependencyInjectionTestExecutionListener.java:83)
+	at org.springframework.boot.test.autoconfigure.SpringBootDependencyInjectionTestExecutionListener.prepareTestInstance(SpringBootDependencyInjectionTestExecutionListener.java:44)
+	at org.springframework.test.context.TestContextManager.prepareTestInstance(TestContextManager.java:230)
+	at org.springframework.test.context.junit4.SpringJUnit4ClassRunner.createTest(SpringJUnit4ClassRunner.java:228)
+	at org.springframework.test.context.junit4.SpringJUnit4ClassRunner$1.runReflectiveCall(SpringJUnit4ClassRunner.java:287)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.springframework.test.context.junit4.SpringJUnit4ClassRunner.methodBlock(SpringJUnit4ClassRunner.java:289)
+	at org.springframework.test.context.junit4.SpringJUnit4ClassRunner.runChild(SpringJUnit4ClassRunner.java:247)
+	at org.springframework.test.context.junit4.SpringJUnit4ClassRunner.runChild(SpringJUnit4ClassRunner.java:94)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)
+	at org.springframework.test.context.junit4.statements.RunBeforeTestClassCallbacks.evaluate(RunBeforeTestClassCallbacks.java:61)
+	at org.springframework.test.context.junit4.statements.RunAfterTestClassCallbacks.evaluate(RunAfterTestClassCallbacks.java:70)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363)
+	at org.springframework.test.context.junit4.SpringJUnit4ClassRunner.run(SpringJUnit4ClassRunner.java:191)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:137)
+	at com.intellij.junit4.JUnit4IdeaTestRunner.startRunnerWithArgs(JUnit4IdeaTestRunner.java:68)
+	at com.intellij.rt.execution.junit.IdeaTestRunner$Repeater.startRunnerWithArgs(IdeaTestRunner.java:47)
+	at com.intellij.rt.execution.junit.JUnitStarter.prepareStreamsAndStart(JUnitStarter.java:242)
+	at com.intellij.rt.execution.junit.JUnitStarter.main(JUnitStarter.java:70)
+Caused by: org.springframework.context.ApplicationContextException: Unable to start EmbeddedWebApplicationContext due to missing EmbeddedServletContainerFactory bean.
+	at org.springframework.boot.context.embedded.EmbeddedWebApplicationContext.getEmbeddedServletContainerFactory(EmbeddedWebApplicationContext.java:189)
+	at org.springframework.boot.context.embedded.EmbeddedWebApplicationContext.createEmbeddedServletContainer(EmbeddedWebApplicationContext.java:162)
+	at org.springframework.boot.context.embedded.EmbeddedWebApplicationContext.onRefresh(EmbeddedWebApplicationContext.java:134)
+	... 33 common frames omitted
+ 2020-04-21 08:49:08,647 INFO [main] c.e.d.DemoApplicationTests [StartupInfoLogger.java:48] Starting DemoApplicationTests on DESKTOP-4UADTF8 with PID 7292 (started by yangx in C:\Users\yangx\IdeaProjects\dailytrain\spring-web)
+ 2020-04-21 08:49:08,647 INFO [main] c.e.d.DemoApplicationTests [SpringApplication.java:593] No active profile set, falling back to default profiles: default
+ 2020-04-21 08:49:08,648 INFO [background-preinit] o.h.v.i.u.Version [Version.java:30] HV000001: Hibernate Validator 5.3.5.Final
+ 2020-04-21 08:49:08,649 INFO [main] o.s.b.c.e.AnnotationConfigEmbeddedWebApplicationContext [AbstractApplicationContext.java:583] Refreshing org.springframework.boot.context.embedded.AnnotationConfigEmbeddedWebApplicationContext@c0b664: startup date [Tue Apr 21 08:49:08 CST 2020]; root of context hierarchy
+ 2020-04-21 08:49:08,707 WARN [main] o.s.b.c.e.AnnotationConfigEmbeddedWebApplicationContext [AbstractApplicationContext.java:551] Exception encountered during context initialization - cancelling refresh attempt: org.springframework.context.ApplicationContextException: Unable to start embedded container; nested exception is org.springframework.context.ApplicationContextException: Unable to start EmbeddedWebApplicationContext due to missing EmbeddedServletContainerFactory bean.
+ 2020-04-21 08:49:08,711 ERROR [main] o.s.b.SpringApplication [SpringApplication.java:771] Application startup failed
+org.springframework.context.ApplicationContextException: Unable to start embedded container; nested exception is org.springframework.context.ApplicationContextException: Unable to start EmbeddedWebApplicationContext due to missing EmbeddedServletContainerFactory bean.
+	at org.springframework.boot.context.embedded.EmbeddedWebApplicationContext.onRefresh(EmbeddedWebApplicationContext.java:137)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:537)
+	at org.springframework.boot.context.embedded.EmbeddedWebApplicationContext.refresh(EmbeddedWebApplicationContext.java:122)
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:693)
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:360)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:303)
+	at org.springframework.boot.test.context.SpringBootContextLoader.loadContext(SpringBootContextLoader.java:120)
+	at org.springframework.test.context.cache.DefaultCacheAwareContextLoaderDelegate.loadContextInternal(DefaultCacheAwareContextLoaderDelegate.java:98)
+	at org.springframework.test.context.cache.DefaultCacheAwareContextLoaderDelegate.loadContext(DefaultCacheAwareContextLoaderDelegate.java:116)
+	at org.springframework.test.context.support.DefaultTestContext.getApplicationContext(DefaultTestContext.java:83)
+	at org.springframework.boot.test.autoconfigure.SpringBootDependencyInjectionTestExecutionListener.outputConditionEvaluationReport(SpringBootDependencyInjectionTestExecutionListener.java:54)
+	at org.springframework.boot.test.autoconfigure.SpringBootDependencyInjectionTestExecutionListener.prepareTestInstance(SpringBootDependencyInjectionTestExecutionListener.java:47)
+	at org.springframework.test.context.TestContextManager.prepareTestInstance(TestContextManager.java:230)
+	at org.springframework.test.context.junit4.SpringJUnit4ClassRunner.createTest(SpringJUnit4ClassRunner.java:228)
+	at org.springframework.test.context.junit4.SpringJUnit4ClassRunner$1.runReflectiveCall(SpringJUnit4ClassRunner.java:287)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.springframework.test.context.junit4.SpringJUnit4ClassRunner.methodBlock(SpringJUnit4ClassRunner.java:289)
+	at org.springframework.test.context.junit4.SpringJUnit4ClassRunner.runChild(SpringJUnit4ClassRunner.java:247)
+	at org.springframework.test.context.junit4.SpringJUnit4ClassRunner.runChild(SpringJUnit4ClassRunner.java:94)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)
+	at org.springframework.test.context.junit4.statements.RunBeforeTestClassCallbacks.evaluate(RunBeforeTestClassCallbacks.java:61)
+	at org.springframework.test.context.junit4.statements.RunAfterTestClassCallbacks.evaluate(RunAfterTestClassCallbacks.java:70)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363)
+	at org.springframework.test.context.junit4.SpringJUnit4ClassRunner.run(SpringJUnit4ClassRunner.java:191)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:137)
+	at com.intellij.junit4.JUnit4IdeaTestRunner.startRunnerWithArgs(JUnit4IdeaTestRunner.java:68)
+	at com.intellij.rt.execution.junit.IdeaTestRunner$Repeater.startRunnerWithArgs(IdeaTestRunner.java:47)
+	at com.intellij.rt.execution.junit.JUnitStarter.prepareStreamsAndStart(JUnitStarter.java:242)
+	at com.intellij.rt.execution.junit.JUnitStarter.main(JUnitStarter.java:70)
+Caused by: org.springframework.context.ApplicationContextException: Unable to start EmbeddedWebApplicationContext due to missing EmbeddedServletContainerFactory bean.
+	at org.springframework.boot.context.embedded.EmbeddedWebApplicationContext.getEmbeddedServletContainerFactory(EmbeddedWebApplicationContext.java:189)
+	at org.springframework.boot.context.embedded.EmbeddedWebApplicationContext.createEmbeddedServletContainer(EmbeddedWebApplicationContext.java:162)
+	at org.springframework.boot.context.embedded.EmbeddedWebApplicationContext.onRefresh(EmbeddedWebApplicationContext.java:134)
+	... 32 common frames omitted
+ 2020-04-21 08:49:08,711 ERROR [main] o.s.t.c.TestContextManager [TestContextManager.java:234] Caught exception while allowing TestExecutionListener [org.springframework.boot.test.autoconfigure.SpringBootDependencyInjectionTestExecutionListener@12c8e7b] to prepare test instance [com.example.demo.DemoApplicationTests@792ce3]
+java.lang.IllegalStateException: Failed to load ApplicationContext
+	at org.springframework.test.context.cache.DefaultCacheAwareContextLoaderDelegate.loadContext(DefaultCacheAwareContextLoaderDelegate.java:124)
+	at org.springframework.test.context.support.DefaultTestContext.getApplicationContext(DefaultTestContext.java:83)
+	at org.springframework.test.context.support.DependencyInjectionTestExecutionListener.injectDependencies(DependencyInjectionTestExecutionListener.java:117)
+	at org.springframework.test.context.support.DependencyInjectionTestExecutionListener.prepareTestInstance(DependencyInjectionTestExecutionListener.java:83)
+	at org.springframework.boot.test.autoconfigure.SpringBootDependencyInjectionTestExecutionListener.prepareTestInstance(SpringBootDependencyInjectionTestExecutionListener.java:44)
+	at org.springframework.test.context.TestContextManager.prepareTestInstance(TestContextManager.java:230)
+	at org.springframework.test.context.junit4.SpringJUnit4ClassRunner.createTest(SpringJUnit4ClassRunner.java:228)
+	at org.springframework.test.context.junit4.SpringJUnit4ClassRunner$1.runReflectiveCall(SpringJUnit4ClassRunner.java:287)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.springframework.test.context.junit4.SpringJUnit4ClassRunner.methodBlock(SpringJUnit4ClassRunner.java:289)
+	at org.springframework.test.context.junit4.SpringJUnit4ClassRunner.runChild(SpringJUnit4ClassRunner.java:247)
+	at org.springframework.test.context.junit4.SpringJUnit4ClassRunner.runChild(SpringJUnit4ClassRunner.java:94)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)
+	at org.springframework.test.context.junit4.statements.RunBeforeTestClassCallbacks.evaluate(RunBeforeTestClassCallbacks.java:61)
+	at org.springframework.test.context.junit4.statements.RunAfterTestClassCallbacks.evaluate(RunAfterTestClassCallbacks.java:70)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363)
+	at org.springframework.test.context.junit4.SpringJUnit4ClassRunner.run(SpringJUnit4ClassRunner.java:191)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:137)
+	at com.intellij.junit4.JUnit4IdeaTestRunner.startRunnerWithArgs(JUnit4IdeaTestRunner.java:68)
+	at com.intellij.rt.execution.junit.IdeaTestRunner$Repeater.startRunnerWithArgs(IdeaTestRunner.java:47)
+	at com.intellij.rt.execution.junit.JUnitStarter.prepareStreamsAndStart(JUnitStarter.java:242)
+	at com.intellij.rt.execution.junit.JUnitStarter.main(JUnitStarter.java:70)
+Caused by: org.springframework.context.ApplicationContextException: Unable to start embedded container; nested exception is org.springframework.context.ApplicationContextException: Unable to start EmbeddedWebApplicationContext due to missing EmbeddedServletContainerFactory bean.
+	at org.springframework.boot.context.embedded.EmbeddedWebApplicationContext.onRefresh(EmbeddedWebApplicationContext.java:137)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:537)
+	at org.springframework.boot.context.embedded.EmbeddedWebApplicationContext.refresh(EmbeddedWebApplicationContext.java:122)
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:693)
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:360)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:303)
+	at org.springframework.boot.test.context.SpringBootContextLoader.loadContext(SpringBootContextLoader.java:120)
+	at org.springframework.test.context.cache.DefaultCacheAwareContextLoaderDelegate.loadContextInternal(DefaultCacheAwareContextLoaderDelegate.java:98)
+	at org.springframework.test.context.cache.DefaultCacheAwareContextLoaderDelegate.loadContext(DefaultCacheAwareContextLoaderDelegate.java:116)
+	... 25 common frames omitted
+Caused by: org.springframework.context.ApplicationContextException: Unable to start EmbeddedWebApplicationContext due to missing EmbeddedServletContainerFactory bean.
+	at org.springframework.boot.context.embedded.EmbeddedWebApplicationContext.getEmbeddedServletContainerFactory(EmbeddedWebApplicationContext.java:189)
+	at org.springframework.boot.context.embedded.EmbeddedWebApplicationContext.createEmbeddedServletContainer(EmbeddedWebApplicationContext.java:162)
+	at org.springframework.boot.context.embedded.EmbeddedWebApplicationContext.onRefresh(EmbeddedWebApplicationContext.java:134)
+	... 33 common frames omitted
+ 2020-04-21 08:49:38,462 INFO [main] o.s.b.t.c.SpringBootTestContextBootstrapper [AbstractTestContextBootstrapper.java:319] Neither @ContextConfiguration nor @ContextHierarchy found for test class [com.example.demo.DemoApplicationTests], using SpringBootContextLoader
+ 2020-04-21 08:49:38,468 INFO [main] o.s.t.c.s.AbstractContextLoader [AbstractContextLoader.java:264] Could not detect default resource locations for test class [com.example.demo.DemoApplicationTests]: no resource found for suffixes {-context.xml, Context.groovy}.
+ 2020-04-21 08:49:38,536 INFO [main] o.s.b.t.c.SpringBootTestContextBootstrapper [AbstractTestContextBootstrapper.java:260] Loaded default TestExecutionListener class names from location [META-INF/spring.factories]: [org.springframework.boot.test.mock.mockito.MockitoTestExecutionListener, org.springframework.boot.test.mock.mockito.ResetMocksTestExecutionListener, org.springframework.boot.test.autoconfigure.restdocs.RestDocsTestExecutionListener, org.springframework.boot.test.autoconfigure.web.client.MockRestServiceServerResetTestExecutionListener, org.springframework.boot.test.autoconfigure.web.servlet.MockMvcPrintOnlyOnFailureTestExecutionListener, org.springframework.boot.test.autoconfigure.web.servlet.WebDriverTestExecutionListener, org.springframework.test.context.web.ServletTestExecutionListener, org.springframework.test.context.support.DirtiesContextBeforeModesTestExecutionListener, org.springframework.test.context.support.DependencyInjectionTestExecutionListener, org.springframework.test.context.support.DirtiesContextTestExecutionListener, org.springframework.test.context.transaction.TransactionalTestExecutionListener, org.springframework.test.context.jdbc.SqlScriptsTestExecutionListener]
+ 2020-04-21 08:49:38,559 INFO [main] o.s.b.t.c.SpringBootTestContextBootstrapper [AbstractTestContextBootstrapper.java:187] Using TestExecutionListeners: [org.springframework.test.context.web.ServletTestExecutionListener@1faea86, org.springframework.test.context.support.DirtiesContextBeforeModesTestExecutionListener@1888343, org.springframework.boot.test.autoconfigure.SpringBootDependencyInjectionTestExecutionListener@1ecda92, org.springframework.test.context.support.DirtiesContextTestExecutionListener@fc5f04, org.springframework.test.context.transaction.TransactionalTestExecutionListener@2829c7, org.springframework.test.context.jdbc.SqlScriptsTestExecutionListener@1eb2dda, org.springframework.boot.test.mock.mockito.MockitoTestExecutionListener@8658ff, org.springframework.boot.test.mock.mockito.ResetMocksTestExecutionListener@742ed4, org.springframework.boot.test.autoconfigure.web.servlet.MockMvcPrintOnlyOnFailureTestExecutionListener@13d4a8c, org.springframework.boot.test.autoconfigure.restdocs.RestDocsTestExecutionListener@1de24cc, org.springframework.boot.test.autoconfigure.web.client.MockRestServiceServerResetTestExecutionListener@1c7df28, org.springframework.boot.test.autoconfigure.web.servlet.WebDriverTestExecutionListener@f842ca]
+ 2020-04-21 08:49:38,984 INFO [main] c.e.d.DemoApplicationTests [StartupInfoLogger.java:48] Starting DemoApplicationTests on DESKTOP-4UADTF8 with PID 11132 (started by yangx in C:\Users\yangx\IdeaProjects\dailytrain\spring-web)
+ 2020-04-21 08:49:38,985 INFO [main] c.e.d.DemoApplicationTests [SpringApplication.java:593] No active profile set, falling back to default profiles: default
+ 2020-04-21 08:49:39,006 INFO [main] o.s.w.c.s.GenericWebApplicationContext [AbstractApplicationContext.java:583] Refreshing org.springframework.web.context.support.GenericWebApplicationContext@2db68f: startup date [Tue Apr 21 08:49:39 CST 2020]; root of context hierarchy
+ 2020-04-21 08:49:39,222 INFO [main] c.e.d.DemoApplication [DemoApplication.java:41] org.springframework.context.annotation.internalConfigurationAnnotationProcessor
+ 2020-04-21 08:49:39,223 INFO [main] c.e.d.DemoApplication [DemoApplication.java:41] org.springframework.context.annotation.internalAutowiredAnnotationProcessor
+ 2020-04-21 08:49:39,223 INFO [main] c.e.d.DemoApplication [DemoApplication.java:41] org.springframework.context.annotation.internalRequiredAnnotationProcessor
+ 2020-04-21 08:49:39,223 INFO [main] c.e.d.DemoApplication [DemoApplication.java:41] org.springframework.context.annotation.internalCommonAnnotationProcessor
+ 2020-04-21 08:49:39,223 INFO [main] c.e.d.DemoApplication [DemoApplication.java:41] org.springframework.context.event.internalEventListenerProcessor
+ 2020-04-21 08:49:39,223 INFO [main] c.e.d.DemoApplication [DemoApplication.java:41] org.springframework.context.event.internalEventListenerFactory
+ 2020-04-21 08:49:39,223 INFO [main] c.e.d.DemoApplication [DemoApplication.java:41] org.springframework.boot.test.context.ImportsContextCustomizer$ImportsCleanupPostProcessor
+ 2020-04-21 08:49:39,223 INFO [main] c.e.d.DemoApplication [DemoApplication.java:41] org.springframework.boot.test.mock.mockito.MockitoPostProcessor$SpyPostProcessor
+ 2020-04-21 08:49:39,224 INFO [main] c.e.d.DemoApplication [DemoApplication.java:41] org.springframework.boot.test.mock.mockito.MockitoPostProcessor
+ 2020-04-21 08:49:39,224 INFO [main] c.e.d.DemoApplication [DemoApplication.java:41] demoApplication
+ 2020-04-21 08:49:39,224 INFO [main] c.e.d.DemoApplication [DemoApplication.java:41] org.springframework.boot.autoconfigure.internalCachingMetadataReaderFactory
+ 2020-04-21 08:49:39,224 INFO [main] c.e.d.DemoApplication [DemoApplication.java:41] myFactoryBean
+ 2020-04-21 08:49:39,232 ERROR [main] o.s.b.d.LoggingFailureAnalysisReporter [LoggingFailureAnalysisReporter.java:42] 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+A component required a bean of type 'org.springframework.amqp.rabbit.core.RabbitAdmin' that could not be found.
+
+
+Action:
+
+Consider defining a bean of type 'org.springframework.amqp.rabbit.core.RabbitAdmin' in your configuration.
+
+ 2020-04-21 08:49:39,237 INFO [main] o.s.w.c.s.GenericWebApplicationContext [AbstractApplicationContext.java:984] Closing org.springframework.web.context.support.GenericWebApplicationContext@2db68f: startup date [Tue Apr 21 08:49:39 CST 2020]; root of context hierarchy
+ 2020-04-21 08:49:39,239 ERROR [main] o.s.t.c.TestContextManager [TestContextManager.java:234] Caught exception while allowing TestExecutionListener [org.springframework.test.context.web.ServletTestExecutionListener@1faea86] to prepare test instance [com.example.demo.DemoApplicationTests@f8a8c3]
+java.lang.IllegalStateException: Failed to load ApplicationContext
+	at org.springframework.test.context.cache.DefaultCacheAwareContextLoaderDelegate.loadContext(DefaultCacheAwareContextLoaderDelegate.java:124)
+	at org.springframework.test.context.support.DefaultTestContext.getApplicationContext(DefaultTestContext.java:83)
+	at org.springframework.test.context.web.ServletTestExecutionListener.setUpRequestContextIfNecessary(ServletTestExecutionListener.java:189)
+	at org.springframework.test.context.web.ServletTestExecutionListener.prepareTestInstance(ServletTestExecutionListener.java:131)
+	at org.springframework.test.context.TestContextManager.prepareTestInstance(TestContextManager.java:230)
+	at org.springframework.test.context.junit4.SpringJUnit4ClassRunner.createTest(SpringJUnit4ClassRunner.java:228)
+	at org.springframework.test.context.junit4.SpringJUnit4ClassRunner$1.runReflectiveCall(SpringJUnit4ClassRunner.java:287)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.springframework.test.context.junit4.SpringJUnit4ClassRunner.methodBlock(SpringJUnit4ClassRunner.java:289)
+	at org.springframework.test.context.junit4.SpringJUnit4ClassRunner.runChild(SpringJUnit4ClassRunner.java:247)
+	at org.springframework.test.context.junit4.SpringJUnit4ClassRunner.runChild(SpringJUnit4ClassRunner.java:94)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)
+	at org.springframework.test.context.junit4.statements.RunBeforeTestClassCallbacks.evaluate(RunBeforeTestClassCallbacks.java:61)
+	at org.springframework.test.context.junit4.statements.RunAfterTestClassCallbacks.evaluate(RunAfterTestClassCallbacks.java:70)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363)
+	at org.springframework.test.context.junit4.SpringJUnit4ClassRunner.run(SpringJUnit4ClassRunner.java:191)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:137)
+	at com.intellij.junit4.JUnit4IdeaTestRunner.startRunnerWithArgs(JUnit4IdeaTestRunner.java:68)
+	at com.intellij.rt.execution.junit.IdeaTestRunner$Repeater.startRunnerWithArgs(IdeaTestRunner.java:47)
+	at com.intellij.rt.execution.junit.JUnitStarter.prepareStreamsAndStart(JUnitStarter.java:242)
+	at com.intellij.rt.execution.junit.JUnitStarter.main(JUnitStarter.java:70)
+Caused by: java.lang.IllegalStateException: Failed to execute CommandLineRunner
+	at org.springframework.boot.SpringApplication.callRunner(SpringApplication.java:735)
+	at org.springframework.boot.SpringApplication.callRunners(SpringApplication.java:716)
+	at org.springframework.boot.SpringApplication.afterRefresh(SpringApplication.java:703)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:304)
+	at org.springframework.boot.test.context.SpringBootContextLoader.loadContext(SpringBootContextLoader.java:120)
+	at org.springframework.test.context.cache.DefaultCacheAwareContextLoaderDelegate.loadContextInternal(DefaultCacheAwareContextLoaderDelegate.java:98)
+	at org.springframework.test.context.cache.DefaultCacheAwareContextLoaderDelegate.loadContext(DefaultCacheAwareContextLoaderDelegate.java:116)
+	... 24 common frames omitted
+Caused by: org.springframework.beans.factory.NoSuchBeanDefinitionException: No qualifying bean of type 'org.springframework.amqp.rabbit.core.RabbitAdmin' available
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.getBean(DefaultListableBeanFactory.java:353)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.getBean(DefaultListableBeanFactory.java:340)
+	at org.springframework.context.support.AbstractApplicationContext.getBean(AbstractApplicationContext.java:1090)
+	at com.example.demo.DemoApplication.run(DemoApplication.java:44)
+	at org.springframework.boot.SpringApplication.callRunner(SpringApplication.java:732)
+	... 30 common frames omitted
+ 2020-04-21 08:50:02,837 INFO [main] o.s.b.t.c.SpringBootTestContextBootstrapper [AbstractTestContextBootstrapper.java:319] Neither @ContextConfiguration nor @ContextHierarchy found for test class [com.example.demo.DemoApplicationTests], using SpringBootContextLoader
+ 2020-04-21 08:50:02,844 INFO [main] o.s.t.c.s.AbstractContextLoader [AbstractContextLoader.java:264] Could not detect default resource locations for test class [com.example.demo.DemoApplicationTests]: no resource found for suffixes {-context.xml, Context.groovy}.
+ 2020-04-21 08:50:02,845 INFO [main] o.s.t.c.s.AnnotationConfigContextLoaderUtils [AnnotationConfigContextLoaderUtils.java:81] Could not detect default configuration classes for test class [com.example.demo.DemoApplicationTests]: DemoApplicationTests does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+ 2020-04-21 08:50:02,991 INFO [main] o.s.b.t.c.SpringBootTestContextBootstrapper [SpringBootTestContextBootstrapper.java:206] Found @SpringBootConfiguration com.example.demo.MyApplication for test class com.example.demo.DemoApplicationTests
+ 2020-04-21 08:50:02,998 INFO [main] o.s.b.t.c.SpringBootTestContextBootstrapper [AbstractTestContextBootstrapper.java:260] Loaded default TestExecutionListener class names from location [META-INF/spring.factories]: [org.springframework.boot.test.mock.mockito.MockitoTestExecutionListener, org.springframework.boot.test.mock.mockito.ResetMocksTestExecutionListener, org.springframework.boot.test.autoconfigure.restdocs.RestDocsTestExecutionListener, org.springframework.boot.test.autoconfigure.web.client.MockRestServiceServerResetTestExecutionListener, org.springframework.boot.test.autoconfigure.web.servlet.MockMvcPrintOnlyOnFailureTestExecutionListener, org.springframework.boot.test.autoconfigure.web.servlet.WebDriverTestExecutionListener, org.springframework.test.context.web.ServletTestExecutionListener, org.springframework.test.context.support.DirtiesContextBeforeModesTestExecutionListener, org.springframework.test.context.support.DependencyInjectionTestExecutionListener, org.springframework.test.context.support.DirtiesContextTestExecutionListener, org.springframework.test.context.transaction.TransactionalTestExecutionListener, org.springframework.test.context.jdbc.SqlScriptsTestExecutionListener]
+ 2020-04-21 08:50:03,024 INFO [main] o.s.b.t.c.SpringBootTestContextBootstrapper [AbstractTestContextBootstrapper.java:187] Using TestExecutionListeners: [org.springframework.test.context.web.ServletTestExecutionListener@1ce8fd9, org.springframework.test.context.support.DirtiesContextBeforeModesTestExecutionListener@9bcfb6, org.springframework.boot.test.autoconfigure.SpringBootDependencyInjectionTestExecutionListener@194beb9, org.springframework.test.context.support.DirtiesContextTestExecutionListener@348e6, org.springframework.test.context.transaction.TransactionalTestExecutionListener@1f8b5b8, org.springframework.test.context.jdbc.SqlScriptsTestExecutionListener@1202fce, org.springframework.boot.test.autoconfigure.web.client.MockRestServiceServerResetTestExecutionListener@1993c65, org.springframework.boot.test.autoconfigure.restdocs.RestDocsTestExecutionListener@1911f88, org.springframework.boot.test.autoconfigure.web.servlet.MockMvcPrintOnlyOnFailureTestExecutionListener@11c29b7, org.springframework.boot.test.mock.mockito.ResetMocksTestExecutionListener@16025c5, org.springframework.boot.test.autoconfigure.web.servlet.WebDriverTestExecutionListener@1284218, org.springframework.boot.test.mock.mockito.MockitoTestExecutionListener@7a7f2a]
+ 2020-04-21 08:50:03,426 INFO [main] c.e.d.DemoApplicationTests [StartupInfoLogger.java:48] Starting DemoApplicationTests on DESKTOP-4UADTF8 with PID 6952 (started by yangx in C:\Users\yangx\IdeaProjects\dailytrain\spring-web)
+ 2020-04-21 08:50:03,426 INFO [main] c.e.d.DemoApplicationTests [SpringApplication.java:593] No active profile set, falling back to default profiles: default
+ 2020-04-21 08:50:03,448 INFO [main] o.s.w.c.s.GenericWebApplicationContext [AbstractApplicationContext.java:583] Refreshing org.springframework.web.context.support.GenericWebApplicationContext@1baa903: startup date [Tue Apr 21 08:50:03 CST 2020]; root of context hierarchy
+ 2020-04-21 08:50:03,719 INFO [background-preinit] o.h.v.i.u.Version [Version.java:30] HV000001: Hibernate Validator 5.3.5.Final
+ 2020-04-21 08:50:04,331 INFO [main] o.s.d.r.c.RepositoryConfigurationDelegate [RepositoryConfigurationDelegate.java:165] Multiple Spring Data modules found, entering strict repository configuration mode!
+ 2020-04-21 08:50:04,895 INFO [main] o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker [PostProcessorRegistrationDelegate.java:325] Bean 'org.springframework.amqp.rabbit.annotation.RabbitBootstrapConfiguration' of type [org.springframework.amqp.rabbit.annotation.RabbitBootstrapConfiguration$$EnhancerBySpringCGLIB$$eced554] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+ 2020-04-21 08:50:09,562 INFO [main] o.s.w.s.m.m.a.RequestMappingHandlerAdapter [RequestMappingHandlerAdapter.java:534] Looking for @ControllerAdvice: org.springframework.web.context.support.GenericWebApplicationContext@1baa903: startup date [Tue Apr 21 08:50:03 CST 2020]; root of context hierarchy
+ 2020-04-21 08:50:09,589 INFO [main] o.s.w.s.m.m.a.RequestMappingHandlerAdapter [RequestMappingHandlerAdapter.java:547] Detected @ModelAttribute methods in globalController
+ 2020-04-21 08:50:10,167 INFO [main] o.s.w.s.m.m.a.RequestMappingHandlerMapping [AbstractHandlerMethodMapping.java:543] Mapped "{[/a/user/job],methods=[POST]}" onto public java.lang.String com.example.demo.controller.ControllerA.getUserAndJob(com.example.demo.dto.User,org.springframework.ui.Model)
+ 2020-04-21 08:50:10,174 INFO [main] o.s.w.s.m.m.a.RequestMappingHandlerMapping [AbstractHandlerMethodMapping.java:543] Mapped "{[/a/health],methods=[GET]}" onto public java.lang.String com.example.demo.controller.ControllerA.heath()
+ 2020-04-21 08:50:10,174 INFO [main] o.s.w.s.m.m.a.RequestMappingHandlerMapping [AbstractHandlerMethodMapping.java:543] Mapped "{[/a/user],methods=[POST]}" onto public java.lang.String com.example.demo.controller.ControllerA.getUser(com.example.demo.dto.User,org.springframework.ui.Model)
+ 2020-04-21 08:50:10,175 INFO [main] o.s.w.s.m.m.a.RequestMappingHandlerMapping [AbstractHandlerMethodMapping.java:543] Mapped "{[/a/get],methods=[GET]}" onto public java.lang.String com.example.demo.controller.ControllerA.getParam(com.example.demo.dto.User)
+ 2020-04-21 08:50:10,175 INFO [main] o.s.w.s.m.m.a.RequestMappingHandlerMapping [AbstractHandlerMethodMapping.java:543] Mapped "{[/rabbit/send],methods=[POST]}" onto public java.lang.String com.example.demo.controller.ControllerB.sendAndReceive(java.lang.String)
+ 2020-04-21 08:50:10,177 INFO [main] o.s.w.s.m.m.a.RequestMappingHandlerMapping [AbstractHandlerMethodMapping.java:543] Mapped "{[/send/{id}/{message}],methods=[GET]}" onto public java.lang.String com.example.demo.controller.ControllerC.sendMessage(java.lang.String,java.lang.String) throws java.io.IOException
+ 2020-04-21 08:50:10,178 INFO [main] o.s.w.s.m.m.a.RequestMappingHandlerMapping [AbstractHandlerMethodMapping.java:543] Mapped "{[/export/excel],methods=[GET]}" onto public void com.example.demo.controller.ControllerFile.exportFile(javax.servlet.http.HttpServletResponse)
+ 2020-04-21 08:50:10,181 INFO [main] o.s.w.s.m.m.a.RequestMappingHandlerMapping [AbstractHandlerMethodMapping.java:543] Mapped "{[/error]}" onto public org.springframework.http.ResponseEntity<java.util.Map<java.lang.String, java.lang.Object>> org.springframework.boot.autoconfigure.web.BasicErrorController.error(javax.servlet.http.HttpServletRequest)
+ 2020-04-21 08:50:10,181 INFO [main] o.s.w.s.m.m.a.RequestMappingHandlerMapping [AbstractHandlerMethodMapping.java:543] Mapped "{[/error],produces=[text/html]}" onto public org.springframework.web.servlet.ModelAndView org.springframework.boot.autoconfigure.web.BasicErrorController.errorHtml(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse)
+ 2020-04-21 08:50:10,375 INFO [main] o.s.w.s.h.SimpleUrlHandlerMapping [AbstractUrlHandlerMapping.java:362] Mapped URL path [/webjars/**] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+ 2020-04-21 08:50:10,375 INFO [main] o.s.w.s.h.SimpleUrlHandlerMapping [AbstractUrlHandlerMapping.java:362] Mapped URL path [/**] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+ 2020-04-21 08:50:10,462 INFO [main] o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver [ExceptionHandlerExceptionResolver.java:273] Detected @ExceptionHandler methods in globalController
+ 2020-04-21 08:50:10,547 INFO [main] o.s.w.s.h.SimpleUrlHandlerMapping [AbstractUrlHandlerMapping.java:362] Mapped URL path [/**/favicon.ico] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+ 2020-04-21 08:50:11,886 INFO [main] o.s.b.a.e.m.EndpointHandlerMapping [AbstractHandlerMethodMapping.java:543] Mapped "{[/env/{name:.*}],methods=[GET],produces=[application/vnd.spring-boot.actuator.v1+json || application/json]}" onto public java.lang.Object org.springframework.boot.actuate.endpoint.mvc.EnvironmentMvcEndpoint.value(java.lang.String)
+ 2020-04-21 08:50:11,887 INFO [main] o.s.b.a.e.m.EndpointHandlerMapping [AbstractHandlerMethodMapping.java:543] Mapped "{[/env || /env.json],methods=[GET],produces=[application/vnd.spring-boot.actuator.v1+json || application/json]}" onto public java.lang.Object org.springframework.boot.actuate.endpoint.mvc.EndpointMvcAdapter.invoke()
+ 2020-04-21 08:50:11,895 INFO [main] o.s.b.a.e.m.EndpointHandlerMapping [AbstractHandlerMethodMapping.java:543] Mapped "{[/loggers/{name:.*}],methods=[GET],produces=[application/vnd.spring-boot.actuator.v1+json || application/json]}" onto public java.lang.Object org.springframework.boot.actuate.endpoint.mvc.LoggersMvcEndpoint.get(java.lang.String)
+ 2020-04-21 08:50:11,895 INFO [main] o.s.b.a.e.m.EndpointHandlerMapping [AbstractHandlerMethodMapping.java:543] Mapped "{[/loggers/{name:.*}],methods=[POST],consumes=[application/vnd.spring-boot.actuator.v1+json || application/json],produces=[application/vnd.spring-boot.actuator.v1+json || application/json]}" onto public java.lang.Object org.springframework.boot.actuate.endpoint.mvc.LoggersMvcEndpoint.set(java.lang.String,java.util.Map<java.lang.String, java.lang.String>)
+ 2020-04-21 08:50:11,896 INFO [main] o.s.b.a.e.m.EndpointHandlerMapping [AbstractHandlerMethodMapping.java:543] Mapped "{[/loggers || /loggers.json],methods=[GET],produces=[application/vnd.spring-boot.actuator.v1+json || application/json]}" onto public java.lang.Object org.springframework.boot.actuate.endpoint.mvc.EndpointMvcAdapter.invoke()
+ 2020-04-21 08:50:11,898 INFO [main] o.s.b.a.e.m.EndpointHandlerMapping [AbstractHandlerMethodMapping.java:543] Mapped "{[/metrics/{name:.*}],methods=[GET],produces=[application/vnd.spring-boot.actuator.v1+json || application/json]}" onto public java.lang.Object org.springframework.boot.actuate.endpoint.mvc.MetricsMvcEndpoint.value(java.lang.String)
+ 2020-04-21 08:50:11,898 INFO [main] o.s.b.a.e.m.EndpointHandlerMapping [AbstractHandlerMethodMapping.java:543] Mapped "{[/metrics || /metrics.json],methods=[GET],produces=[application/vnd.spring-boot.actuator.v1+json || application/json]}" onto public java.lang.Object org.springframework.boot.actuate.endpoint.mvc.EndpointMvcAdapter.invoke()
+ 2020-04-21 08:50:11,899 INFO [main] o.s.b.a.e.m.EndpointHandlerMapping [AbstractHandlerMethodMapping.java:543] Mapped "{[/health || /health.json],methods=[GET],produces=[application/vnd.spring-boot.actuator.v1+json || application/json]}" onto public java.lang.Object org.springframework.boot.actuate.endpoint.mvc.HealthMvcEndpoint.invoke(javax.servlet.http.HttpServletRequest,java.security.Principal)
+ 2020-04-21 08:50:11,900 INFO [main] o.s.b.a.e.m.EndpointHandlerMapping [AbstractHandlerMethodMapping.java:543] Mapped "{[/configprops || /configprops.json],methods=[GET],produces=[application/vnd.spring-boot.actuator.v1+json || application/json]}" onto public java.lang.Object org.springframework.boot.actuate.endpoint.mvc.EndpointMvcAdapter.invoke()
+ 2020-04-21 08:50:11,901 INFO [main] o.s.b.a.e.m.EndpointHandlerMapping [AbstractHandlerMethodMapping.java:543] Mapped "{[/autoconfig || /autoconfig.json],methods=[GET],produces=[application/vnd.spring-boot.actuator.v1+json || application/json]}" onto public java.lang.Object org.springframework.boot.actuate.endpoint.mvc.EndpointMvcAdapter.invoke()
+ 2020-04-21 08:50:11,909 INFO [main] o.s.b.a.e.m.EndpointHandlerMapping [AbstractHandlerMethodMapping.java:543] Mapped "{[/trace || /trace.json],methods=[GET],produces=[application/vnd.spring-boot.actuator.v1+json || application/json]}" onto public java.lang.Object org.springframework.boot.actuate.endpoint.mvc.EndpointMvcAdapter.invoke()
+ 2020-04-21 08:50:11,909 INFO [main] o.s.b.a.e.m.EndpointHandlerMapping [AbstractHandlerMethodMapping.java:543] Mapped "{[/dump || /dump.json],methods=[GET],produces=[application/vnd.spring-boot.actuator.v1+json || application/json]}" onto public java.lang.Object org.springframework.boot.actuate.endpoint.mvc.EndpointMvcAdapter.invoke()
+ 2020-04-21 08:50:11,910 INFO [main] o.s.b.a.e.m.EndpointHandlerMapping [AbstractHandlerMethodMapping.java:543] Mapped "{[/auditevents || /auditevents.json],methods=[GET],produces=[application/vnd.spring-boot.actuator.v1+json || application/json]}" onto public org.springframework.http.ResponseEntity<?> org.springframework.boot.actuate.endpoint.mvc.AuditEventsMvcEndpoint.findByPrincipalAndAfterAndType(java.lang.String,java.util.Date,java.lang.String)
+ 2020-04-21 08:50:11,911 INFO [main] o.s.b.a.e.m.EndpointHandlerMapping [AbstractHandlerMethodMapping.java:543] Mapped "{[/info || /info.json],methods=[GET],produces=[application/vnd.spring-boot.actuator.v1+json || application/json]}" onto public java.lang.Object org.springframework.boot.actuate.endpoint.mvc.EndpointMvcAdapter.invoke()
+ 2020-04-21 08:50:11,913 INFO [main] o.s.b.a.e.m.EndpointHandlerMapping [AbstractHandlerMethodMapping.java:543] Mapped "{[/heapdump || /heapdump.json],methods=[GET],produces=[application/octet-stream]}" onto public void org.springframework.boot.actuate.endpoint.mvc.HeapdumpMvcEndpoint.invoke(boolean,javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse) throws java.io.IOException,javax.servlet.ServletException
+ 2020-04-21 08:50:11,914 INFO [main] o.s.b.a.e.m.EndpointHandlerMapping [AbstractHandlerMethodMapping.java:543] Mapped "{[/mappings || /mappings.json],methods=[GET],produces=[application/vnd.spring-boot.actuator.v1+json || application/json]}" onto public java.lang.Object org.springframework.boot.actuate.endpoint.mvc.EndpointMvcAdapter.invoke()
+ 2020-04-21 08:50:11,914 INFO [main] o.s.b.a.e.m.EndpointHandlerMapping [AbstractHandlerMethodMapping.java:543] Mapped "{[/beans || /beans.json],methods=[GET],produces=[application/vnd.spring-boot.actuator.v1+json || application/json]}" onto public java.lang.Object org.springframework.boot.actuate.endpoint.mvc.EndpointMvcAdapter.invoke()
+ 2020-04-21 08:50:13,249 INFO [main] o.s.c.s.DefaultLifecycleProcessor [DefaultLifecycleProcessor.java:343] Starting beans in phase -2147482648
+ 2020-04-21 08:50:13,250 INFO [main] o.s.c.s.DefaultLifecycleProcessor [DefaultLifecycleProcessor.java:343] Starting beans in phase 2147483647
+ 2020-04-21 08:50:13,367 INFO [main] c.e.d.DemoApplicationTests [StartupInfoLogger.java:57] Started DemoApplicationTests in 10.217 seconds (JVM running for 11.184)
+ 2020-04-21 08:50:17,056 INFO [Thread-4] o.s.w.c.s.GenericWebApplicationContext [AbstractApplicationContext.java:984] Closing org.springframework.web.context.support.GenericWebApplicationContext@1baa903: startup date [Tue Apr 21 08:50:03 CST 2020]; root of context hierarchy
+ 2020-04-21 08:50:17,069 INFO [Thread-4] o.s.c.s.DefaultLifecycleProcessor [DefaultLifecycleProcessor.java:358] Stopping beans in phase 2147483647
+ 2020-04-21 08:50:17,079 INFO [Thread-4] o.s.c.s.DefaultLifecycleProcessor [DefaultLifecycleProcessor.java:358] Stopping beans in phase -2147482648

@@ -2,11 +2,13 @@ package com.yangxvhao.demo.model;
 
 import lombok.Data;
 
+import java.text.SimpleDateFormat;
+import java.util.*;
+
 /**
  * @author yangxuhao
  * @date 2019-11-26 12:05.
  */
-
 public class Person {
     public String getName() {
         return name;
@@ -24,7 +26,36 @@ public class Person {
         this.age = age;
     }
 
+    public Person(String name, Integer age) {
+        this.name = name;
+        this.age = age;
+    }
+
+    public Person() {
+    }
+
     private String name;
     private Integer age;
+
+    public static void main(String[] args) {
+        Map<String, Person> personMap = new HashMap<>();
+
+        Person person1 = new Person("小明", 10);
+        Person person2 = new Person("小强", 10);
+        Person person3 = new Person("小红", 10);
+
+        personMap.put(person1.getName(), person1);
+        personMap.put(person2.getName(), person2);
+        personMap.put(person3.getName(), person3);
+
+        String name = "小明";
+
+        personMap.get(name);
+
+        SimpleDateFormat sourceDft = new SimpleDateFormat("yyyy-MM-dd HH:mm:ss");
+        SimpleDateFormat targetDft = new SimpleDateFormat("MM/dd");
+        Date date = sourceDft.parse("");
+        targetDft.format(date);
+    }
 
 }

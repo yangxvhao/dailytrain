@@ -12,10 +12,14 @@ import java.util.List;
 public class HeapOom {
     static class OomObjec{}
 
-    public static void main(String[] args) {
+    public static void main(String[] args) throws InterruptedException {
         List<OomObjec> list = new ArrayList<>();
+        int i = 0;
         while (true){
+            i++;
             list.add(new OomObjec());
+            if(i % 1000 == 0)
+             Thread.sleep(5);
         }
     }
 

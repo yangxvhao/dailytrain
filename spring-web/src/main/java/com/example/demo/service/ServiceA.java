@@ -34,6 +34,10 @@ public class ServiceA {
         this.serviceB = serviceB;
     }
 
+    public void methodA(){
+        serviceB.diplay();
+    }
+
     //    @Autowired
 //    public ServiceA(ServiceB serviceB) {
 //        this.serviceB = serviceB;

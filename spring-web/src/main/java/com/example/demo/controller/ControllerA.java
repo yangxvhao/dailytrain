@@ -41,7 +41,7 @@ public class ControllerA {
     @TestCglib
     @GetMapping("test")
     public String test(){
-        serviceA.display();
+        serviceA.testAop();
         return "ok";
     }
     

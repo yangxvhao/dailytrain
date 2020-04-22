@@ -1,5 +1,6 @@
 package com.example.demo.service;
 
+import com.example.demo.util.SpringUtils;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Component;
 import org.springframework.transaction.annotation.Transactional;
@@ -35,7 +36,15 @@ public class ServiceA {
         this.serviceB = serviceB;
     }
 
-    @Transactional
+    public void testAop(){
+        ServiceA serviceA = SpringUtils.getBean(ServiceA.class);
+        testAopInner(serviceA);
+    }
+
+    public void testAopInner(ServiceA serviceA ){
+        serviceA.display();
+    }
+
     public void display(){
         serviceB.print();
     }

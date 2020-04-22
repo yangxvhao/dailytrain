@@ -42,7 +42,6 @@ public class MyApplication implements ApplicationRunner {
     public static void main(String[] args) {
 
         SpringApplication.run(MyApplication.class, args);
-        ServiceA serviceA = SpringUtils.getBean(ServiceA.class);
     }
     
     @Override

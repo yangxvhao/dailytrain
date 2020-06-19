@@ -1,7 +1,11 @@
 package com.example.demo.controller;
 
 import com.example.demo.annotation.ParamA;
+import com.example.demo.annotation.TestCglib;
 import com.example.demo.dto.User;
+import com.example.demo.service.AbstractClass;
+import com.example.demo.service.ServiceA;
+import com.example.demo.util.SpringUtils;
 import com.example.demo.valid.Second;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.beans.factory.annotation.Autowired;
@@ -27,9 +31,25 @@ public class ControllerA {
     @Autowired
     StringRedisTemplate redisTemplate;
 
+    @Autowired
+    private ServiceA serviceA;
+
     @GetMapping("health")
     @ResponseBody
     public String heath(){
+        return "ok";
+    }
+
+    @GetMapping("test")
+    public String test(){
+        serviceA.testAop();
+        return "ok";
+    }
+
+    @GetMapping("testA")
+    public String testA(){
+        AbstractClass abstractClass = SpringUtils.getBean("A", AbstractClass.class);
+        abstractClass.methodA();
         return "ok";
     }
     

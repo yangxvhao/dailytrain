@@ -1,7 +1,11 @@
 package com.example.demo.service;
 
+import com.example.demo.annotation.TestCglib;
+import com.example.demo.util.SpringUtils;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Component;
+import org.springframework.stereotype.Service;
+import org.springframework.transaction.annotation.Transactional;
 
 import javax.annotation.PostConstruct;
 import javax.annotation.PreDestroy;
@@ -10,8 +14,8 @@ import javax.annotation.PreDestroy;
  * @author yangxuhao
  * @date 2019-12-06 18:14.
  */
-//@Component
-public class ServiceA {
+@Service("A")
+public class ServiceA extends AbstractClass{
     @Autowired
     private ServiceB serviceB;
 
@@ -34,8 +38,22 @@ public class ServiceA {
         this.serviceB = serviceB;
     }
 
-    public void methodA(){
-        serviceB.diplay();
+    public void testAop(){
+        ServiceA serviceA = SpringUtils.getBean(ServiceA.class);
+        testAopInner(serviceA);
+    }
+
+    public void testAopInner(ServiceA serviceA ){
+        serviceA.display();
+    }
+    @TestCglib
+    final void display(){
+        serviceB.print();
+    }
+
+    @Override
+    public void abstractMethod() {
+        System.out.println("ServiceA abstractMethod");
     }
 
     //    @Autowired

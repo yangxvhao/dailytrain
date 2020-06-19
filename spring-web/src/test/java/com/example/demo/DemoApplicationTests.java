@@ -47,10 +47,4 @@ public class DemoApplicationTests {
         pool.await();
         log.info("sum:{},success:{}", sum, pool.getSuccessCount());
     }
-
-    @Test
-    public void testServiceA(){
-        Mockito.doNothing().when(serviceB).diplay();
-        serviceA.methodA();
-    }
 }

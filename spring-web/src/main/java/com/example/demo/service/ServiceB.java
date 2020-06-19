@@ -18,7 +18,8 @@ public class ServiceB {
 //    public ServiceB(ServiceA serviceA) {
 //        this.serviceA = serviceA;
 //    }
-    public void diplay(){
-        System.out.println("service B");
-    }
+
+  public void print(){
+    System.out.println("bbbbbb");
+  }
 }

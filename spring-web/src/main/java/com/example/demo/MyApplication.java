@@ -3,6 +3,7 @@ package com.example.demo;
 import com.example.demo.annotation.MyScan;
 import com.example.demo.service.ServiceA;
 import com.example.demo.service.ServiceB;
+import com.example.demo.util.SpringUtils;
 import lombok.extern.slf4j.Slf4j;
 import org.apache.catalina.core.ApplicationContext;
 import org.springframework.beans.factory.annotation.Autowired;
@@ -15,6 +16,7 @@ import org.springframework.boot.autoconfigure.jdbc.DataSourceAutoConfiguration;
 import org.springframework.context.ConfigurableApplicationContext;
 import org.springframework.data.redis.core.RedisTemplate;
 import org.springframework.data.redis.core.StringRedisTemplate;
+import org.springframework.transaction.annotation.EnableTransactionManagement;
 
 import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;
@@ -26,6 +28,7 @@ import java.util.concurrent.TimeUnit;
  */
 @Slf4j
 @MyScan
+@EnableTransactionManagement
 @SpringBootApplication(exclude = {DataSourceAutoConfiguration.class})
 public class MyApplication implements ApplicationRunner {
 //    @Autowired

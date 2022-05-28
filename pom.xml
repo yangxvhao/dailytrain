@@ -21,7 +21,7 @@
         <module>spring-web</module>
         <module>leetcode</module>
         <module>mybatis</module>
-        <module>jdk-proxy</module>
+        <module>jdk</module>
         <module>thread</module>
         <module>algorithm</module>
         <module>thrift</module>

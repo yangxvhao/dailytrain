@@ -92,7 +92,7 @@
                 <artifactId>exec-maven-plugin</artifactId>
                 <version>1.6.0</version>
                 <configuration>
-                    <mainClass>com.yangxvhao.demo.MainApp</mainClass>
+                    <mainClass>com.yangxvhao.demo.proxy.MainApp</mainClass>
                     <includePluginDependencies>false</includePluginDependencies>
                 </configuration>
             </plugin>

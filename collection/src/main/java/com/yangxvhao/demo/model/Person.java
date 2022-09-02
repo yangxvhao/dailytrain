@@ -1,7 +1,9 @@
 package com.yangxvhao.demo.model;
 
+import jodd.util.RandomString;
 import lombok.Data;
 
+import java.text.ParseException;
 import java.text.SimpleDateFormat;
 import java.util.*;
 
@@ -31,13 +33,31 @@ public class Person {
         this.age = age;
     }
 
+    @Override
+    public boolean equals(Object o) {
+        if (this == o) {
+            return true;
+        }
+        if (o == null || getClass() != o.getClass()) {
+            return false;
+        }
+        Person person = (Person) o;
+        return Objects.equals(name, person.name) && Objects.equals(age, person.age);
+    }
+
+    @Override
+    public int hashCode() {
+        String numeric = RandomString.get().randomNumeric(10);
+        return numeric.equals("3") ? 3 : Objects.hash(name, age);
+    }
+
     public Person() {
     }
 
     private String name;
     private Integer age;
 
-    public static void main(String[] args) {
+    public static void main(String[] args) throws ParseException {
         Map<String, Person> personMap = new HashMap<>();
 
         Person person1 = new Person("小明", 10);

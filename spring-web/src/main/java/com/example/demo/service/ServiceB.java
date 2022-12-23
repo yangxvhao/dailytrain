@@ -8,16 +8,16 @@ import org.springframework.stereotype.Component;
  * @author yangxuhao
  * @date 2019-12-06 18:14.
  */
-//@Component
+@Component
 
 public class ServiceB {
-//    final
-//    ServiceA serviceA;
-//
-//    @Autowired
-//    public ServiceB(ServiceA serviceA) {
-//        this.serviceA = serviceA;
-//    }
+    @Autowired
+    ServiceA serviceA;
+
+    @Autowired
+    public ServiceB() {
+
+    }
 
   public void print(){
     System.out.println("bbbbbb");

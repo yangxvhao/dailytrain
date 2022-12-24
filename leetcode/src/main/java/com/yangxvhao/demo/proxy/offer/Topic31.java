@@ -27,14 +27,17 @@ public class Topic31 {
     }
 
     public boolean validateStackSequences1(int[] pushed, int[] popped) {
-        int j=popped.length-1;
-        for (int i = 0; i < pushed.length; i++) {
-            while (pushed[i]==popped[j]){
-                j--;
-                i++;
+        int i=0,j=0;
+        for (int e : pushed) {
+            pushed[i]=e;
+            while (i>=0&&pushed[i]==popped[j]){
+                i--;
+                j++;
             }
+            i++;
         }
-        return j==0;
+
+        return i==0;
     }
 
     public static void main(String[] args) {

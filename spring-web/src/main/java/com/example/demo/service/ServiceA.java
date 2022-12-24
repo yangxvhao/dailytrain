@@ -19,7 +19,7 @@ import javax.annotation.PreDestroy;
  * @date 2019-12-06 18:14.
  */
 @Service("A")
-@Scope(scopeName = ConfigurableBeanFactory.SCOPE_PROTOTYPE)
+//@Scope(scopeName = ConfigurableBeanFactory.SCOPE_PROTOTYPE)
 public class ServiceA extends AbstractClass implements InitializingBean {
     @Autowired
     private ServiceB serviceB;

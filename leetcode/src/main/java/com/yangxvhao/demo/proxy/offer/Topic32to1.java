@@ -8,7 +8,7 @@ import java.util.*;
  * @author yangxvhao
  * @date 2022-12-23 17:30.
  */
-public class Topic32 {
+public class Topic32to1 {
     public static class TreeNode {
         int val;
         TreeNode left;
@@ -53,6 +53,6 @@ public class Topic32 {
         left.right = new TreeNode(15);
         left.left = new TreeNode(7);
 
-        System.out.println(Arrays.toString(new Topic32().levelOrder(node)));
+        System.out.println(Arrays.toString(new Topic32to1().levelOrder(node)));
     }
 }

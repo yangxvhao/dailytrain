@@ -63,6 +63,12 @@ public class Topic34 {
     }
 
     public static void main(String[] args) {
+        /**
+         *      5
+         *   4    8
+         * 11   13  4
+         *7  2     5 1
+         */
         TreeNode left1 = new TreeNode(4, new TreeNode(11, new TreeNode(7), new TreeNode(2)), null);
         TreeNode right1 = new TreeNode(8, new TreeNode(13), new TreeNode(4, new TreeNode(5), new TreeNode(1)));
         TreeNode root = new TreeNode(5, left1, right1);

@@ -1,7 +1,6 @@
 package com.yangxvhao.demo.proxy;
 
 import com.yangxvhao.demo.proxy.sort.QuickSort;
-import com.yangxvhao.demo.sort.*;
 
 /**
  * 排序

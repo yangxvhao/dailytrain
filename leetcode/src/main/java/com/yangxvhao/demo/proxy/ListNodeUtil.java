@@ -27,6 +27,20 @@ public class ListNodeUtil {
         return dummyNode.next;
     }
 
+    public static void show(ListNode head) {
+        StringBuilder stringBuilder = new StringBuilder();
+        ListNode cur = head;
+        while (cur != null) {
+            if (cur.next != null) {
+                stringBuilder.append(cur.val).append("->");
+            } else {
+                stringBuilder.append(cur.val);
+            }
+            cur = cur.next;
+        }
+        System.out.println(stringBuilder.toString());
+    }
+
     public static class TreeNode {
         public int val;
         public TreeNode left;
@@ -36,13 +50,13 @@ public class ListNodeUtil {
             this.val = val;
         }
 
-        public TreeNode(int val, TreeNode left, TreeNode right){
+        public TreeNode(int val, TreeNode left, TreeNode right) {
             this.val = val;
             this.left = left;
             this.right = right;
         }
 
-        public TreeNode(int val, TreeNode left){
+        public TreeNode(int val, TreeNode left) {
             this.val = val;
             this.left = left;
         }

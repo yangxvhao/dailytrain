@@ -1,7 +1,5 @@
 package com.yangxvhao.demo.proxy;
 
-import java.util.Objects;
-
 /**
  * @author yangxvhao
  * @date 2023-01-25 20:20.
@@ -65,17 +63,18 @@ public class ListNodeUtil {
 
     public static TreeNode buildRootFromArray(int[] nums) {
         TreeNode root = null;
-        root = recur(0, nums);
+        root = recur(0, nums.length - 1, nums);
         return root;
     }
 
-    private static TreeNode recur(int index, int[] nums) {
-        if (index >= nums.length) {
+    private static TreeNode recur(int index, int end, int[] nums) {
+        if (index > end) {
             return null;
         }
         TreeNode root = new TreeNode(nums[index]);
-        root.left = recur(index + 1, nums);
-        root.right = recur(index + 2, nums);
+        int mid = (index + end) / 2;
+        root.left = recur(index + 1, mid, nums);
+        root.right = recur(mid + 1, end, nums);
         return root;
     }
 }
